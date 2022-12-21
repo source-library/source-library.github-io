@@ -2,18 +2,17 @@
 
 This extensive factsheet is a compilation of various studies, datapoints, pieces of academic literature, media, and otherwise helpful and informative resources aimed at combating reactionary rhetoric and detailing the many logical approaches to justifying leftist and progressive values.
 
-#### Document Access
-~~Short link: https://tinyurl.com/thesourcelibrary~~ **(DEFUNCT)**
-Archive link (September 2022): https://archive.ph/uY9Yr
-Archive link (October 2022): https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit
+## Document Access
 
+- Archive link (September 2022): https://archive.ph/uY9Yr
 
-#### Join us on Discord!
-https://discord.gg/JNXrNC8Yja
+- Archive link (October 2022): https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit
+
+- Join us on Discord!
+[https://discord.gg/JNXrNC8Yja](https://discord.gg/JNXrNC8Yja)
 You can help with the Source Library here!
-(old server TOS’d 15 november 2021)
 
-#### Follow our Reddit account for updates!
+- Follow our Reddit account for updates!
 /u/sourcelibrarian
 If something happens to this doc or a related one, you can check there.
 
@@ -21,7 +20,75 @@ If something happens to this doc or a related one, you can check there.
 
 The original source library was created as a Google document on June 15, 2019, but was flagged without warning nor reason on December 6, 2020. It was recreated as another Google doc and lasted until late November 2022. It has since moved to this new location. As it has been taken down multiple times before, it's possible it could be taken down again. Feel free to download these webpages onto your own device as an html or [archive it with a webpage archiver](https://web.archive.org/save "archive it with a webpage archiver").
 
-#### Some other notes:
+## Table of Contents
+
+[Transgender Issues](https://source-library.github.io/trans-rights)
+
+[Gender and Sex](https://source-library.github.io/gender-and-sex)
+
+[GSRM/LGBTQ Issues](https://source-library.github.io/gsrm-lgbtq)
+
+[Understanding Capitalism](https://source-library.github.io/capitalism)
+
+[Wealth Inequality](https://source-library.github.io/wealth-inequality)
+
+[Worker Ownership](https://source-library.github.io/worker-ownership)
+
+[Financial Support](https://source-library.github.io/financial-support)
+
+[Other Economy](https://source-library.github.io/other-economy)
+
+[Socialism](https://source-library.github.io/socialism)
+
+[Healthcare](https://source-library.github.io/healthcare)
+
+[Terror and Extremism](https://source-library.github.io/terror-extremism)
+
+[Democracy (US politics)](https://source-library.github.io/democracy)
+
+[General Race/Racism](https://source-library.github.io/general-racism)
+
+[Criminal Justice Racism](https://source-library.github.io/criminal-justice-racism)
+
+[Drug Decriminalization](https://source-library.github.io/drug-decriminalization)
+
+[Prisons and Crime](https://source-library.github.io/prisons-crime)
+
+[Police - Non-racism](https://source-library.github.io/police-non-racism)
+
+[Racialism and Race Realism](https://source-library.github.io/racialism-race-realism)
+
+[Women & Feminism](https://source-library.github.io/women-feminism)
+
+[Guns](https://source-library.github.io/guns)
+
+[Sex (verb)](https://source-library.github.io/sex)
+
+[Immigration (US politics)](https://source-library.github.io/immigration-usa)
+
+[Immigration (EU politics)](https://source-library.github.io/immigration-europe)
+
+[Fossil Fuels](https://source-library.github.io/fossil-fuels)
+
+[Renewable Energy](https://source-library.github.io/renewable-energy)
+
+[Nuclear Energy](https://source-library.github.io/nuclear-energy)
+
+[Climate and Pollution](https://source-library.github.io/climate-pollution)
+
+[Social Media](https://source-library.github.io/social-media)
+
+[Vaccines](https://source-library.github.io/vaccines)
+
+[Contra Capitalism](https://source-library.github.io/contra-capitalism)
+
+[Contra Reactionary Ideology](https://source-library.github.io/contra-reactionary-ideology)
+
+[Contra Alt-right Ideology](https://source-library.github.io/contra-alt-right-ideology)
+
+[Miscellaneous](https://source-library.github.io/miscellaneous)
+
+## Some other notes:
 
 This factsheet is constantly updating and greatly benefits from viewer input! Feel free to contact us with any comments or suggestions you might have! Again, check the discord for the fastest responses.
 
@@ -33,7 +100,7 @@ It's highly recommended that you at least skim some of these sources and become 
 
 For clarity, this is NOT Vaush’s [Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit). We did start this as a copy of his doc, but no, they’re not the same thing.
 
-#### Contact Us
+## Contact Us
 This factsheet is maintained by a large team of contributors.
 
 - **Apa/Scuter** (Scuter#4210, u/Apathetizer)
