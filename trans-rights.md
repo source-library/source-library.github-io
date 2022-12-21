@@ -37,13 +37,13 @@
 **Medical transition decreases dysphoria, suicide attempts, and improves depression and anxiety. However, most research on this subject is very low quality so we should be open to conducting better future research.** 
 
 - [Murad et al. 10](https://www.ncbi.nlm.nih.gov/pubmed/19473181 "Murad et al. 10")
- - Meta-analysis of **28** studies on transition and hormones
-   - Sex reassignment/hormonal improvements:
-   - **80%** of individuals reported significant improvement in dysphoria
-   - **78%** of individuals reported significant improvement in psychological symptoms
-   - **72%** of individuals reported significant improvement in sexual function
- - **Positive results across the board, EVEN IN 15-YEAR FOLLOWUPS**
- - Low quality evidence, see methodology. Broader limitations to study quality for this topic are discussed here. Still significant and helpful findings regardless.
+  - Meta-analysis of **28** studies on transition and hormones
+    - Sex reassignment/hormonal improvements:
+    - **80%** of individuals reported significant improvement in dysphoria
+    - **78%** of individuals reported significant improvement in psychological symptoms
+    - **72%** of individuals reported significant improvement in sexual function
+  - **Positive results across the board, EVEN IN 15-YEAR FOLLOWUPS**
+  - Low quality evidence, see methodology. Broader limitations to study quality for this topic are discussed here. Still significant and helpful findings regardless.
 
 - [De Vries et al. 14](https://pubmed.ncbi.nlm.nih.gov/25201798/ "De Vries et al. 14")
  - Longitudinal study on the **effectiveness of puberty suppression, hormones, and later sex reassignment surgery on trans individuals in improving mental outcomes**
@@ -240,9 +240,9 @@ Mostly taken from [here](https://www.gendergp.com/debunking-the-myths-surroundin
 
 Some meta-studies which show bone density and bone mineral density aren’t harmed:
 
-● [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469959/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469959/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469959/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469959/)
 
-● [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616494/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616494/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616494/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616494/)
 
 ### 2. **“Young people wouldn’t want to take puberty blockers if they knew the risks”**
 
@@ -262,13 +262,13 @@ Focusing strictly on the ethicality of puberty blockers, [Giordano argues](https
 
 ### 6. **“The neutral decision is to not let minors access puberty blockers”**
 
-● [PHSA](www.phsa.ca/transcarebc/child-youth/affirmation-transition/medical-affirmation-transition/puberty-blockers-for-youth): Withholding puberty blockers and hormone therapy is not a neutral option and can result in an increased risk of mental health issues.
+- [PHSA](www.phsa.ca/transcarebc/child-youth/affirmation-transition/medical-affirmation-transition/puberty-blockers-for-youth): Withholding puberty blockers and hormone therapy is not a neutral option and can result in an increased risk of mental health issues.
 
-● [WPATH](https://www.wpath.org/media/cms/Documents/SOC%20v7/SOC%20V7_English2012.pdf): Withholding puberty suppression and subsequent feminizing or masculinizing hormone therapy is not a neutral option for adolescents.
+- [WPATH](https://www.wpath.org/media/cms/Documents/SOC%20v7/SOC%20V7_English2012.pdf): Withholding puberty suppression and subsequent feminizing or masculinizing hormone therapy is not a neutral option for adolescents.
 
-● [ASOCTG](https://www.rch.org.au/uploadedFiles/Main/Content/adolescent-medicine/australian-standards-of-care-and-treatment-guidelines-for-trans-and-gender-diverse-children-and-adolescents.pdf): Withholding of gender affirming treatment is not considered the neutral option, and may exacerbate distress in a number of ways including increasing depression, anxiety and suicidality, social withdrawal, as well as possibly increasing chances of young people illegally accessing medications.
+- [ASOCTG](https://www.rch.org.au/uploadedFiles/Main/Content/adolescent-medicine/australian-standards-of-care-and-treatment-guidelines-for-trans-and-gender-diverse-children-and-adolescents.pdf): Withholding of gender affirming treatment is not considered the neutral option, and may exacerbate distress in a number of ways including increasing depression, anxiety and suicidality, social withdrawal, as well as possibly increasing chances of young people illegally accessing medications.
 
-● The [scottish gov](https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2020/01/foi-201900010673/documents/foi-201900010673---document-3---puberty-blockers-and-trans-yp---april-2017/foi-201900010673---document-3---puberty-blockers-and-trans-yp---april-2017/govscot:document/FOI-201900010673%2B-%2BDocument%2B3%2B-%2B%2BPuberty%2Bblockers%2Band%2BTrans%2BYP%2B-%2BApril%2B2017.pdf) say its not the neutral option “Withholding puberty blockers and hormone therapy is not a neutral option and can result in an increased risk of mental health issues”
+- The [scottish gov](https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2020/01/foi-201900010673/documents/foi-201900010673---document-3---puberty-blockers-and-trans-yp---april-2017/foi-201900010673---document-3---puberty-blockers-and-trans-yp---april-2017/govscot:document/FOI-201900010673%2B-%2BDocument%2B3%2B-%2B%2BPuberty%2Bblockers%2Band%2BTrans%2BYP%2B-%2BApril%2B2017.pdf) say its not the neutral option “Withholding puberty blockers and hormone therapy is not a neutral option and can result in an increased risk of mental health issues”
 
 ## Case Studies:
 These case studies only focus on one person at a time. While they don’t have the statistical validity that a study would have at a larger sample size, it can give us qualitative insight into how these people experience what they go through.
@@ -1192,4 +1192,4 @@ Not always. It depends on the aspects of transition someone chooses to go throug
  - Some transgender parents said they would benefit from services tailored to their specific needs, e.g. trans parent support groups.
  - Interesting read, but the research on this specific topic is young so there’s a lot that’s just not conclusive. Also worth noting more research has come out since 2014 which this paper doesn’t account for
 
-- https://genderanalysis.net/ 
+- [https://genderanalysis.net/](https://genderanalysis.net/) 
