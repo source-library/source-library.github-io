@@ -1,11 +1,5 @@
 **UNDERSTANDING CAPITALISM**
 
-**Table of Contents**
-1. [What is Capitalism?](https://source-library.github.io/capitalism/#what-is-capitalism)
-2. [What is the Labor Theory of Value? (Classical and Marxian Theory)](https://source-library.github.io/capitalism/#what-is-the-labor-theory-of-value-classical-and-marxian-theory)
-3. [What is the Marginal Utility (“Subjective”) Theory of Value? (Mainstream/Neoclassical Theory)](https://source-library.github.io/capitalism/#what-is-the-marginal-utility-subjective-theory-of-value-mainstream-neoclassical-theory) (empty section)
-4. [On LTV Empirical Evidence](https://source-library.github.io/capitalism/#on-ltv-empirical-evidence)
-
 # **What is Capitalism?**
 **A socioeconomic system where social relations are primarily based on commodities for exchange, specifically through private ownership of the means of production and distribution of said commodities and its use for the competitive maximization of capital (i.e. any form of profit) ultimately through the exploitation of wage labor.**
 
