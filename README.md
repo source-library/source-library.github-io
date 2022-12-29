@@ -62,7 +62,9 @@ The original source library was created as a Google document on June 15, 2019, b
 
 [Guns](https://source-library.github.io/guns)
 
-[Sex (verb)](https://source-library.github.io/sex)
+[Sex (outside the context of gender)](https://source-library.github.io/sex)
+
+[Imperialism](https://source-library.github.io/imperialism)
 
 [Immigration (US politics)](https://source-library.github.io/immigration-usa)
 
