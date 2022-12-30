@@ -9,6 +9,7 @@
 
 - [NASA](https://climate.nasa.gov/scientific-consensus/)
   - Rising Temperatures show a continuous trend
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-01.png)
 
 - [Diffenbaugh 13](https://science.sciencemag.org/content/341/6145/486) ([cited](https://www.sciencedaily.com/releases/2013/08/130801142420.htm))
   - *‘Not only is the planet undergoing one of the largest climate changes in the past 65 million years, scientists report that it's occurring at a rate 10 times faster than any change in that period. Without intervention, this extreme pace could lead to a 5-6 degree Celsius spike in annual temperatures by the end of the century. ‘*
@@ -26,6 +27,7 @@
 
 # **Rising CO2 Emissions**
 - [World Resource Institute 18](https://www.wri.org/blog/2018/12/new-global-co2-emissions-numbers-are-they-re-not-good) 
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-02.png?raw=true)
 
 - [CDP Carbon Majors Report 17](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499691240) ([cited](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change))
   - Just 100 fossil fuel-producing companies are responsible for 71% of global emissions
@@ -43,6 +45,7 @@
   - Corresponds to approximately a **5 mm** global sea level rise since 1992.
   - Model projections suggest **further declines** of the polar ice sheets in the future, but the uncertainties are large.
   - The melting of the polar ice sheets is estimated to contribute up to **50 cm** of global sea level rise during the 21st century.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-03.png?raw=true)
 
 # **Impact of Climate Change**
 **Climate change causes floods, exacerbates natural disasters, and puts homes underwater**
@@ -57,6 +60,7 @@
   - Scope: In the United States, almost **40 percent of the population** lives in relatively high population-density **coastal areas**, where sea level plays a role in flooding, shoreline erosion, and hazards from storms.
     - Globally, **8 of the world’s 10 largest cities** are **near a coast,** according to the U.N. Atlas of the Oceans.
   - Sea levels have been **continuously rising** and put these areas under threat:
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-05.png?raw=true)
 
 - [Climate Central Executive Report: Strauss  et al. 12](http://slr.s3.amazonaws.com/SurgingSeas.pdf)
   - Climate change sea level impact
@@ -98,9 +102,11 @@
   - *'We report a substantial and statistically significant historical trend toward autumns which are increasingly conducive to enhanced wildfire risk across most of **California'***
   - *'We show that **state-wide increases in autumn temperature** (~1 ◦C) and **decreases in autumn precipitation** (~30%) over the past four decades have contributed to increases in aggregate fire weather indices (+20%)'*
   - Image below shows the number of days where FWI (a measurement of fire potential) in September to November exceeds 95% of the FWI during the before mentioned timeframe from 1979-2018 using two models, the one on the left being reaching Paris climate agreement targets, and the one on the right being based on current emissions
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-06.jpg?raw=true)
 
 - [Abatzoglou et al. 16](https://www.pnas.org/content/pnas/113/42/11770.full.pdf)* 
   - *'We estimate that **human-caused climate change contributed to an additional 4.2 million ha of forest fire area during 1984–2015**, nearly doubling the forest fire area expected in its absence. Natural climate variability will continue to alternate between modulating and compounding anthropogenic increases in fuel aridity'*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-07.jpg?raw=true)
 
 - [Stevens‐Rumann et al. 18](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12889)
   - *‘We used a multi‐regional dataset of 1485 sites across 52 wildfires from the US Rocky Mountains to ask if and how changing climate over the last several decades impacted post‐fire tree regeneration, a key indicator of forest resilience.’*
@@ -123,6 +129,7 @@
   - *‘Here, we estimate future summer burned area in Mediterranean Europe under 1.5, 2, and 3 °C global warming scenarios, accounting for possible modifications of climate-fire relationships under changed climatic conditions owing to productivity alterations.’*
   - ‘The higher the warming level is, the larger is the increase of burned area, ranging from **~40% to ~100%** across the scenarios. Our results indicate that significant benefits would be obtained if warming were limited to well below 2 °C.’
   - Image below shows mean % change of burned area between two models, the stationary model and the non stationary model
+  ![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-08.jpg?raw=true)
 
 - [Bowman et al. 17](https://www.nature.com/articles/s41559-016-0058)
   - *‘Climate change projections suggest an **increase in days conducive to extreme wildfire events by 20 to 50%** in these disaster-prone landscapes, with sharper increases in the subtropical Southern Hemisphere and European Mediterranean Basin.’*
@@ -161,6 +168,7 @@
   - Looks at the American Southwest and Central Plains
   - *‘We use an empirical drought reconstruction and three soil moisture metrics from 17 state-of-the-art general circulation models to show that these models project significantly drier conditions in the later half of the 21st century compared to the 20th century and earlier paleoclimatic intervals.This desiccation is consistent across most of the models and moisture balance variables, indicating a coherent and robust drying response to warming despite the diversity of models and metrics analyzed.’*
   - *‘**Notably, future drought risk will likely exceed even the driest centuries of the Medieval Climate Anomaly (1100–1300CE)** in both moderate (RCP 4.5) and high (RCP 8.5) future emissions scenarios, leading to unprecedented drought conditions during the last millennium.’* 
+  ![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-09.jpg?raw=true)
 
 - [Marvel et al. 19](https://www.nature.com/articles/s41586-019-1149-8) ([cited](https://www.sciencedaily.com/releases/2019/05/190501141112.htm))
   - *‘Human-generated greenhouse gases and atmospheric particles were affecting global drought risk as far back as the early 20th century, according to a new study.’*
@@ -213,6 +221,7 @@
 - [Deryng et al. 11](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009GB003765) 
   - *‘Soybean yield decreases by 15 to 30% without adaptation. However, soybean experiences the larger global decrease in yield for simulations allowing adaptation: 12 to 26%, while maize yield decreases by 6 to 18%. **Overall, adapting planting date and cultivar choice show a stronger impact in the case of maize and spring wheat, resulting in an average reduction in global crop yield losses by 18 and 12%, respectively**, whereas it shows a lesser effect in the case of soybean with an average reduction in global crop yield losses of only 7%.’*
   - **So even with adaptation, we would still have fairly significant losses**
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-10.png?raw=true)
 
 - [Battisti et al. 09](https://pubmed.ncbi.nlm.nih.gov/19131626/) 
   - '*Experimental and crop-based models for major grains in these regions show **direct yield losses in the range of 2.5 to 16% for every 1°C increase in seasonal temperature**. Large additional losses are expected from sea level rise and decreased soil moisture caused by higher average temperatures. Despite the general perception that agriculture in temperate latitudes will benefit from increased seasonal heat and supply food to deficit areas, even mid-latitude crops will likely suffer at very high temperatures in the absence of adaptation. Global climate change thus presents widespread risks of food insecurity.'*
@@ -224,6 +233,7 @@
 - [Schlenker et al. 10](https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014010) 
   - Looks specifically at Africa
   - *'By mid-century, the mean estimates of aggregate production changes in SSA [sub saharan Africa] our preferred model specification are − 22, − 17, − 17, − 18, and − 8% for maize, sorghum, millet, groundnut, and cassava, respectively. In all cases except cassava, **there is a 95% probability that damages exceed 7%**, and a 5% probability that they exceed 27%. Moreover, **countries with the highest average yields have the largest projected yield losses**, suggesting that well-fertilized modern seed varieties are more susceptible to heat related losses.'*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-11.jpg?raw=true)
 
 - [Scheelbeek et al. 18](https://www.pnas.org/content/115/26/6804)
   - *'In papers with baseline temperatures >20 °C, **a 4 °C increase in temperature reduced mean yields by −31.5%** (−41.4% to −21.5%).'*
@@ -285,7 +295,8 @@
 
 - [Mei et al. 15](https://advances.sciencemag.org/content/1/4/e1500014?wptouch_preview_theme=enabled)
   - *We find that upper ocean temperatures in the low-latitude northwestern Pacific (LLNWP) and sea surface temperatures in the central equatorial Pacific control the seasonal average lifetime peak intensity by setting the rate and duration of typhoon intensification, respectively.’*
-  - *‘An anomalously strong LLNWP upper ocean warming has favored increased intensification rates and led to unprecedentedly high average typhoon intensity during the recent global warming hiatus period, despite a reduction in intensification duration tied to the central equatorial Pacific surface cooling. Continued LLNWP upper ocean warming as predicted under a moderate [that is, Representative Concentration Pathway (RCP) 4.5] climate change scenario is **expected to further increase the average typhoon intensity by an additional 14% by 2100**.’* 
+  - *‘An anomalously strong LLNWP upper ocean warming has favored increased intensification rates and led to unprecedentedly high average typhoon intensity during the recent global warming hiatus period, despite a reduction in intensification duration tied to the central equatorial Pacific surface cooling. Continued LLNWP upper ocean warming as predicted under a moderate [that is, Representative Concentration Pathway (RCP) 4.5] climate change scenario is **expected to further increase the average typhoon intensity by an additional 14% by 2100**.’*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-12.jpg?raw=true)
 
 - [Tsuboki et al. 14](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL061793)
   - *‘This study indicates that the most intense future supertyphoon **could attain wind speeds of 85–90 m s−1 ([190](https://www.calculateme.com/speed/meters-per-second/to-miles-per-hour/85) - [201](https://www.calculateme.com/speed/meters-per-second/to-miles-per-hour/90) mph)** and minimum central pressures of 860 hPa.’*
@@ -310,6 +321,7 @@
 
 - [Khan et al. 19](https://www.nber.org/papers/w26167) 
   - *'Our counterfactual analysis suggests that a persistent increase in average global temperature by 0.04°C per year, in the absence of mitigation policies, **reduces world real GDP per capita by 7.22 percent by 2100.** On the other hand, abiding by the Paris Agreement, thereby limiting the temperature increase to 0.01°C per annum, reduces the loss substantially to 1.07 percent. These effects vary significantly across countries.'*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-13.jpg?raw=true)
 
 - [Calel et al. 20](https://www.nature.com/articles/s41467-020-18797-8) 
   - Suggests we could be underestimating the financial impact of climate change by trillions of dollars
@@ -334,6 +346,7 @@
   - [Powell 19](https://journals.sagepub.com/doi/10.1177/0270467619886266): **100%**
     - reviewed 11,602 peer-reviewed articles on “climate change” and “global warming” published in 2019
   - [Graphic by skepticalscience](https://static.skepticalscience.com/graphics/studies_consensus.jpg)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-14.png?raw=true)
 
 - Among scientific organizations:
   - [Brief list from NASA listing major scientific organizations which recognize climate change](https://climate.nasa.gov/scientific-consensus/)
@@ -405,6 +418,7 @@
     - **Without context** - Even if the findings are true, the amount of ice lost in Greenland far outweighs any gain in Antarctica. According to [this study](https://www.nature.com/articles/s41586-019-1855-2), the amount of annual ice lost in Greenland went from 25 billion to 234 billion tons from 1992 to 2018, showing an upward trend in the amount of ice lost, while in the NASA study, they show a downward trend of the amount of ice gained in Antarctica. In fact, the head author himself also says climate change is a problem that must be dealt with. From the Scientific American article: *‘Zwally notes that he was vigilant about this in 2015. “When our paper came out, I was very careful to emphasize that this is in no way contradictory to the findings of the IPCC report or conclusions that climate change is a serious problem that we need to do something about,” he says.’*
 
 - [Associated Press article from 1989](https://apnews.com/bd45c372caf118ec99964ea547880cd0)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-15.png?raw=true)
   - **Article from the Associated Press from 1989 that people use to show that ‘alarmist’ predictions have been wrong**
   - First of all, a misleading headline. The UN did not say this, this was a person who works for the UN.** 
   - The person interviewed is [not a climate scientist](https://www.pace.edu/sites/default/files/files/commencement/hdr-2003-dr-noel-j-brown.pdf)
@@ -413,6 +427,11 @@
   - Plus, contrary to popular belief, [climate models even going back to the 70s](https://climate.nasa.gov/news/2943/study-confirms-climate-models-are-getting-future-warming-projections-right/) have been very accurate to observations
 
 - **Very often referenced graph on the left, trying to claim that there hasn't been warming between 1998 and 2012, but the one on the right shows the trend before and after the referenced time frame, with a very obvious upward trend.**
+
+| ![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-16.png?raw=true) | ![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-17.png?raw=true) |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|                   Graph often cited by global warming deniers to argue there is no warming trend                   |                     The same graph but given more years, revealing the long-term warming trend                     |
+
   - Good explanation into what happened in [this Wikipedia article](https://en.wikipedia.org/wiki/Global_warming_hiatus) 
 
 - **But [30,000 scientists signed a petition](http://www.petitionproject.org/index.php) to say climate change isn’t real!**
@@ -433,13 +452,16 @@
   - And those who actually specialise or research in climate science are much more likely to believe in man made climate change. 73% who publish most of their work in climate science agree with man made climate change (**rises to 78% with just climate scientists**), compared to 62% who mostly publish in other fields (rises to 71% with just climate scientists), and 37% who have not published in climate science (about the same level with just climate scientists).
   - And for those who said there was insufficient evidence (20% of the total sample), they **still lean much more towards man made than not man made**, 11% of the total sample.
   - This hypothesis that people who have much more experience with climate science is quite consistent with other studies. People who know more about expert consensus are [much more likely](https://www.nature.com/articles/nclimate1295) to believe in climate change and support activism against it. And [another survey](https://scholar.google.com/scholar_url?url=https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2009eo030002&hl=en&sa=T&oi=ucasa&ct=ufr&ei=d-dtX6ndIcTCmAH9kLPQBg&scisig=AAGBfm3EYdUYe82tqX95ECJmmYLwheHkxg)  of scientists found this response to the question 'Do you think human activity is a significant contributing factor in changing mean global temperatures?':
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-18.jpg?raw=true)
   - Though it is true that even 73% is a bit low (but way higher than 52%), it is a statistical outlier and a cherry picked study compared to the mountain of evidence showing much higher consensus (go to Climate and Pollution > Anthropogenic Consensus)
   - **The American Meteorological Society [accepts the consensus](https://www.ametsoc.org/ams/index.cfm/about-ams/ams-and-climate-change/).**
   - The authors of the study have [criticised interpretations of the study to promote climate denialism](http://www.climatesciencewatch.org/2013/11/28/taylor-distorts-poll-of-meteorologists-on-climate-change/).  
   - Read more on [The Guardian](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/dec/02/meteorologists-global-warming-consensus) and [Media Matters](https://www.mediamatters.org/daily-caller/no-daily-caller-meteorologist-survey-does-not-contradict-climate-consensus)   
+
 - **Hang on, the Earth’s temperature has gone up and down [many times](https://media.discordapp.net/attachments/614966433281212433/759068544460652554/epica_temperature.png) in history, surely it’s all just natural!**
   - What happened in the past is called [Milankovitch Cycles](https://en.wikipedia.org/wiki/Milankovitch_cycles) ([NASA article that explains it better](https://climate.nasa.gov/news/2948/milankovitch-orbital-cycles-and-their-role-in-earths-climate/)), where some variations happen in the Earth’s tilt and position relative to the sun.
   - Three main things happen during this time:
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-19.png?raw=true)
   - Obliquity is the most significant factor in this. Its tilt creates a slight heating of the planet, which in turn releases CO2 from the ocean, which then increases temperature even more, and creates a positive feedback loop. This is evident in the fact that [CO2 historically lags behind (but is very closely correlated to) temperature](https://www.skepticalscience.com/co2-lags-temperature-intermediate.htm).
   - But the climate crisis today cannot be explained by that. For starters, interglacial periods (which is when it reaches the spikes in hottest temperature) caused by Milankovitch Cycles took thousands of years to go from the glacial period (when it is at a stable temperature) to the peak of an interglacial period  What we are seeing right now is happening in about 200 years. One [study](https://www.sciencedaily.com/releases/2013/08/130801142420.htm) found that climate change is occurring ten times faster than at any time in the past 65 million years.
   - The obliquity is actually moving inwards.The Earth’s obliquity hit 24.5° in 8,700 BCE, which means the tilt is going in towards the North Pole. We are currently at 23.44°.

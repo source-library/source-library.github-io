@@ -92,6 +92,8 @@ How is this not true for other systems? Under feudalism, you were forced to care
   - 2) ???
   - 3) Socialism inevitably doesn’t work
 
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/contra-capitalism-01.png?raw=true)
+
 ### 9. "As the rich get richer, the poor also get richer. Wealth essentially trickles down from the capitalist class to the common worker."
 
 - [https://www.theguardian.com/business/2012/jul/21/offshore-wealth-global-economy-tax-havens?CMP=Share_AndroidApp_Other](https://www.theguardian.com/business/2012/jul/21/offshore-wealth-global-economy-tax-havens?CMP=Share_AndroidApp_Other) 

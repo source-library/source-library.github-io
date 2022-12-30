@@ -51,6 +51,7 @@
   - The European Union also confirmed in 2013 that countries like Portugal that have decriminalized drug possession,  have not experienced increases in monthly rates of use – and in fact tend to have lower rates than countries with punitive policies
   - Separate informational piece - [Drug Policy Alliance](http://www.drugpolicy.org/sites/default/files/dpa-drug-decriminalization-portugal-health-human-centered-approach_0.pdf): notes also that overdose deaths **decreased by over 80%**
   - [Cool Statista infographic](https://www.statista.com/chart/20616/key-developments-since-portugal-decriminalized-drugs/):
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/drug-decriminalization-01.png?raw=true)
 
 - [Choo et al. 14](https://www.jahonline.org/article/S1054-139X\(14\)00107-4/abstract) 
   - Looks at adolescent marijuana use before and after legalization of medical marijuana

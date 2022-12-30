@@ -199,8 +199,8 @@ If you have such a problem about hearing race 24/7, take it up with the founders
     - “We define good jobs as those that pay at least $35,000 per year, at least $45,000 for workers age 45 and older, and $65,000 in median earnings in 2016. Wages for good jobs between 1991 and 2016 are inflation-adjusted.”
   - Whites also get higher earning in jobs than blacks and latinos, regardless of education attainment
   - **These disparities lead to major annual earnings gaps:**
-
-- [https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1114571](https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1114571)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-01.png?raw=true)
+ [https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1114571](https://www.tandfonline.com/doi/abs/10.1080/13504851.2015.1114571)
 
 - [https://www.aeaweb.org/articles?id=10.1257/0002828042002561](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) This study is famous, emily and greg vs lakisha and jamal. Has been widely criticized though
   - There’s another study done with this one in mind by a conservative group, but iirc it had some methodological flaws not in the original study
@@ -238,6 +238,7 @@ The link between welfare and joblessness is groundless and blinds us to what act
   - *“Black students are **disciplined more frequently** and **more severely** for the **same misbehaviors** as White students”* regardless of the rate at white and black misbehavior
   - *“Principals endorsed **more severe discipline** for **Black students** compared with White students”*
   - *“Further, this discipline severity was explained through Black students being **more likely to be labeled a troublemaker** than White students”*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-02.png?raw=true)
 
 - [U.S. Department of Education Office for Civil Rights 14](https://www2.ed.gov/about/offices/list/ocr/docs/crdc-discipline-snapshot.pdf)
   - Black children are **consistently being suspended and expelled** disproportionately to white kids, even as early as in preschool
@@ -287,6 +288,7 @@ The link between welfare and joblessness is groundless and blinds us to what act
 
 - [https://edbuild.org/content/23-billion](https://edbuild.org/content/23-billion) ([cited](https://www.usnews.com/news/education-news/articles/2019-02-26/white-students-get-more-k-12-funding-than-students-of-color-report))
   - About differences in funding between white and black schools
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-03.png?raw=true)
 
 - [Kohli et al. 17](https://www.sjsu.edu/people/marcos.pizarro/publications/KohliPizarroNevarez2017.pdf)
   - Brown vs Board of Edu didn’t end racism in the classroom:
@@ -302,6 +304,7 @@ The link between welfare and joblessness is groundless and blinds us to what act
 - [https://educationdata.org/student-loan-debt-by-race](https://educationdata.org/student-loan-debt-by-race)
   - Black and African American college graduates owe an average of $25,000 more in student loan debt than White college graduates.
   - Four years after graduation, 48% of Black students owe an average of 12.5% more than they borrowed.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-04.png?raw=true)
   - Black and African American student borrowers are the most likely to struggle financially due to student loan debt, with 29% making monthly payments of $350 or more.
   - 54% of all student loan debt is held by White and Caucasian student borrowers.
   - White and Caucasian students have the most cumulative student loan debt.
@@ -323,6 +326,7 @@ The link between welfare and joblessness is groundless and blinds us to what act
   - Includes a nice literature review in regards to past studies which demonstrate how minorities are disproportionately impacted by stricter Voter ID laws
   - **A number of strict voter-ID laws have been implemented across multiple states in the last several years, and they generally hurt minority turnout**
   - “*Our primary analysis uses aggregate county turnout data from 2012 to 2016 and finds that the racial gap in turnout between more diverse and less diverse counties grew more in states enacting new strict photo ID laws than it did elsewhere – **even after controlling for other factors that could impact turnout. Strict voter ID laws appear to discriminate**.*”
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-05.png?raw=true)
 
 
 - [https://journals.sagepub.com/doi/abs/10.1177/1532673X18810012](https://journals.sagepub.com/doi/abs/10.1177/1532673X18810012)

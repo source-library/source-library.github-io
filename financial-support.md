@@ -96,11 +96,18 @@ This is only true for a perfectly competitive economy. Both because of the relat
     - Access to prenatal and postnatal care greatly increased for women affected by the RCT health benefits. (Prenatal by 10.5% and postnatal by 10%). It was also found that pregnant recipients of RCT made visits to prenatal facilities 1.6x more than the control. RCT also reduced severe stunting in affected children 6-36 months old by 10.1% from the 24% baseline. Alcohol consumption **reduced** by 39% in households affected by RCT.
   - Economic results:
     -Poor households receiving RCT increased spending on health services by 34%, increased spending on education by 38%, and increased spending on protein-rich foods by 38%. There was a reduction in poverty three years after the program’s initiation by 2.7%. This impact is small, but would likely increase as more time under the program passes for affected families. It was found there was **no significant change** in motivation to work.
+  - Graphs:
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-01.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-02.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-03.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-04.png?raw=true)
 
 - [Do The Poor Waste Transfers On Booze And Cigarettes? No.](https://blogs.worldbank.org/impactevaluations/do-poor-waste-transfers-booze-and-cigarettes-no)
   - This article makes the claim that recipients of RCT and UBI **do not** use their given income on goods such as alcohol. Examples are as follows:
     - When examining 44 estimates of alcohol consumption across 19 studies and 13 interventions, the majority of studies report results of reduced alcohol consumption (82%).  
     - There is little to no incentive for recipients to lie. The surveyors intentionally do not add items such as alcohol in separate lists, and treat them with the same significance as other household items. It’s also been shown that those with a non-zero baseline for alcohol don’t suddenly report spending nothing on alcohol, instead, they still tend to report a decreased, but not non-zero spending on alcohol. This trend implies that recipients do not try to “game the system,” and rather remain honest about their expenditures.
+  - Graph:
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-05.png?raw=true)
 
 ## UBI Reduces Poverty:
 
@@ -154,6 +161,9 @@ This is only true for a perfectly competitive economy. Both because of the relat
 - [India's Basic Income Experiment](https://socialprotection-humanrights.org/wp-content/uploads/2016/04/Indias-Basic-Income-Experiment-PP21.pdf)
   - **TEST**: The experiment applied to families with under $100 worth of income in eight different villages within Madhya Pradesh throughout June of 2011 to November of 2012. Initially, the amount was $2.20 per child and $4.40 per adult per month, however, this amount was increased by 50% in May of 2012 to give more benefit and to account for inflation.
   - **RESULTS**: Many positive effects of the implementation of a UBI were found in this test, especially in regards to general household well-being. Some effects to well-being include, but are not limited to, a reduction from 45% to 19% of affected families reporting food insecurity, an increase from 35.5% of affected households owning beds to an astounding 83%, and an increased phone ownership from 9% to 61%. Economically, the test also considerably impacted the communities. The villages affected by UBI reported at least “small improvement” to attendance in school, reporting up to 52% where the Self Employed Women’s Association was active and up to 72% where they were not. In villages where the UBI was active, time spent doing wage labor declined by over 45.2%, and was heavily replaced by the families engaging in more desirable farming work, whereas in the control tests, **wage labor actually increased.** Finally, in villages with a UBI, decrease in debt was reported more often, from 2% to 6% in villages with Self Employed Women’s Association presence, and from 2% to 17% in villages without.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-06.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-07.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-08.png?raw=true)
 
 # **Welfare**
 [https://docs.google.com/document/d/1jM3CK34U64Bsp_vdNkZBGI3VWcI9LkdZKgca27oC20c/edit](https://docs.google.com/document/d/1jM3CK34U64Bsp_vdNkZBGI3VWcI9LkdZKgca27oC20c/edit)
@@ -208,6 +218,7 @@ This is only true for a perfectly competitive economy. Both because of the relat
 - [https://scholar.harvard.edu/files/remahanna/files/151016_labor_supply_paper_draft_final.pdf](https://scholar.harvard.edu/files/remahanna/files/151016_labor_supply_paper_draft_final.pdf)
   - Looks at welfare programs in 7 countries
   - *“[We] find no systematic evidence that cash transfer programs discourage work”*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-09.jpg?raw=true)
 
 - [https://www.nber.org/papers/w24670.pdf](https://www.nber.org/papers/w24670.pdf) 
   - Study of an Indonesian money transfer program (PKH)
@@ -232,6 +243,7 @@ This is only true for a perfectly competitive economy. Both because of the relat
 - [https://openknowledge.worldbank.org/bitstream/handle/10986/13244/755330REVISED000Revised0June0402014.pdf?sequence=8&isAllowed=y](https://openknowledge.worldbank.org/bitstream/handle/10986/13244/755330REVISED000Revised0June0402014.pdf?sequence=8&isAllowed=y)
   - Study of a cash transfer programme in the Philippines
   - *“Despite the additional household income provided to poor families under Pantawid Pamilya, the impact evaluation did not find any evidence that beneficiary households worked less or made less effort to obtain more work”*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-10.png?raw=true)
 
 - [http://documents1.worldbank.org/curated/en/617631468001808739/pdf/WPS6886.pdf](https://documents1.worldbank.org/curated/en/617631468001808739/pdf/WPS6886.pdf) 
   - Looks at whether people who got cash transfers would waste it on tobacco and alcohol

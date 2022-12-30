@@ -38,6 +38,7 @@
   - The study is fine and has real uses, but **those who use it ignore that the Democrat:Republican ratio is skewed due to most of those professors not being registered to vote nor being affiliated with either party** - this means it’s hard to evaluate the political stances of those professors as a whole because we don’t have enough info for many of them
   - [Medium: Boedy 18](https://medium.com/@mboedy/debunking-charlie-kirk-and-prageru-on-liberal-professors-b6f2af0fbf7f) is a good think piece/debunking article
   - add together the number of professors not affiliated and not registered, and it gives us a serious issue with the Democrat:Republican ratio’s reliability
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/contra-reactionary-ideology-01.png?raw=true)
 
 - [Rind et al. Controversy](https://en.wikipedia.org/wiki/Rind_et_al._controversy)
   - Paper on the harms of child sexual abuse
