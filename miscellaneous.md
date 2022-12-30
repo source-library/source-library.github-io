@@ -33,6 +33,7 @@
 
 - [Kight 19](https://www.axios.com/exclusive-poll-young-americans-embracing-socialism-b051907a-87a8-4f61-9e6e-0db75f7edc4a.html)
   - Generation Z views social democratic policies more positively than other generations
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/miscellaneous-01.png?raw=true)
 
 - [Scientific American: Bryner 12](https://www.scientificamerican.com/article/homophobes-might-be-hidden-homosexuals/)
   - “Homophobes Might Be Hidden Homosexuals” (we all love irony, don’t we)
