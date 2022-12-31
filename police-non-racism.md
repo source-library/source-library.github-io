@@ -13,6 +13,7 @@
 - [Mapping Police Violence](https://mappingpoliceviolence.org/):
   - Black people are disproportionately killed by cops even though in these cases, blacks are more frequently unarmed than other races
   - Violent crime rate of a city does not correlate with rate of police violence in that city 
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/police-non-racism-01.png?raw=true)
 
 - [Criminal Legal News: Chappell 18](https://www.criminallegalnews.org/news/2018/jun/16/doj-police-shooting-family-dogs-has-become-epidemic/)
   - The DOJ estimates that around **25 to 30** dogs are killed by cops **every day**, with some numbers as high as 10,000 per year.

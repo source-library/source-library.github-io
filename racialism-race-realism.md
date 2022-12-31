@@ -607,6 +607,7 @@ Rebuttals:
   - First study showing a CI-factor
   - Collective Intelligence is a far better predictor of group performance on the tasks tested than either average IQ of the members or the highest member IQ
   - Furthermore, average IQ correlated only 0.15 of CI, while maximum member IQ correlated 0.19, not very high.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/racialism-race-realism-01.png?raw=true)
 
 - [Rowe et al., 2021](https://www.semanticscholar.org/paper/g-versus-c:-comparing-individual-and-collective-two-Rowe-Hattie/1d32f75c8daa87930d28fdf987710fe500421444)
   - Results indicated a moderate correlation, r , of .26 (95% CI .10, .40), between the CI-factor and group performance.

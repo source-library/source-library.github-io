@@ -19,3 +19,4 @@
 
 - [Media Bias Chart](https://www.adfontesmedia.com/)
   - With a *very* thorough methodological analysis [(adfontes)](https://www.adfontesmedia.com/how-ad-fontes-ranks-news-sources/)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/social-media-01.png?raw=true)

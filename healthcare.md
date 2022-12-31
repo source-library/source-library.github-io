@@ -8,6 +8,7 @@
 
 - [Sawyer, Cox 18](https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/%23item-since-1980-the-gap-has-widened-between-u-s-health-spending-and-that-of-other-countries___2018)
   - U.S. has spent more than other developed countries when it comes to healthcare, and **that gap has widened over time**
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/healthcare-01.png?raw=true)
 
 - [Gagnon 08](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050001)
   - Finds that in the USA, “**pharmaceutical companies spend almost twice as much on promotion as they do on R&D**. These numbers clearly show how promotion predominates over R&D in the pharmaceutical industry, contrary to the industry's claim.”
@@ -22,6 +23,7 @@
 - WIP: Epipens
   - [https://www.businessinsider.com/epipen-cost-increase-healthcare-insurance-2016-8](https://www.businessinsider.com/epipen-cost-increase-healthcare-insurance-2016-8)
   - Epipen price has increased 6-fold since 2007: [https://www.businessinsider.com/how-much-price-of-mylans-epipen-has-increased-2016-8](https://www.businessinsider.com/how-much-price-of-mylans-epipen-has-increased-2016-8)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/healthcare-02.png?raw=true)
   - Epipen price surge hasn’t hurt demand, showing that people legitimately need epipens in order to survive and that need doesn't change from a change in the supply of epipens: [https://www.reuters.com/article/us-health-epipen-costs-idUSKBN16Y24O](https://www.reuters.com/article/us-health-epipen-costs-idUSKBN16Y24O)
 
 - 45% of respondents said cost was a factor in them avoiding healthcare. Indicating that expanding access is necessary, but not sufficient in resolving [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125037/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125037/)

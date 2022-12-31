@@ -38,6 +38,7 @@
 
 - [Males 13](https://journals.sagepub.com/doi/full/10.1177/2158244015573359)  ([cited](https://phys.org/news/2015-03-poverty-teenage-brain-account-high.amp))
   - *'Before taking poverty into consideration, the peak age for homicide deaths is 19 years old, and then declines. However, when socio-economic status is considered, 19 remains the peak age only for high-poverty populations. Indeed, 83% of gun murders among teenagers occur in populations with poverty levels of 20% or higher.'*
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/prisons-crime-01.png?raw=true)
 
 - [Sampson et al. 1987](https://dash.harvard.edu/bitstream/handle/1/3226953/Sampson_UrbanBlackViolence.pdf?sequence=7&isAllowed=y)
   - *“The paper concludes that there is nothing inherent in black culture that is conducive to crime. Rather, persistently high rates of black crime appear to stem from the structural linkages among underemployment, economic deprivation, and family disruption in urban black communities.”*
@@ -61,7 +62,8 @@
   - Includes a **META-ANALYSIS** of **58 studies** of recidivism, or the rate at which criminals return to jail, after rehabilitation programs.
   - Analysts found that inmates who participated in **correctional education programs** had a **43% lower odds of recidivating** compared to inmates who did not, thus indicating that correctional education is an effective strategy for reducing recidivism
   - The odds of **obtaining employment** postrelease among inmates who participate in correctional education was **13% higher** than for those who did not
-  - pg 45 of pdf
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/prisons-crime-02.png?raw=true)
+  - ^ pg 45 of pdf
   - Cost- effective: *“Our cost analysis showed that correctional education is **highly cost-effective** for incarcerated adults: For **every dollar spent** on correctional education, **five dollars are saved** on three year reincarceration costs.”* (pg 23 of pdf)
   - Also found minimal publication bias in research
 
@@ -120,6 +122,7 @@ To start off with [a bit from Amnesty International](https://www.amnesty.org/dow
   - Looks at the **opinions of leading criminologists on the topic of the death penalty detering murder**
   - 88.2%** of the respondents said no to the question: *“Do you feel that the death penalty acts as a deterrent to the commitment to murder—that it lowers the murder rate, or not?”*
   - In 1996, 83.6% said no to that question, so expert consensus has been consistent
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/prisons-crime-03.jpg?raw=true)
 
 - [NAS Death Penalty Deterrence Evaluation in 2012](https://files.deathpenaltyinfo.org/legacy/documents/NatResCouncil-Deterr.pdf)
   - A panel of the National Academy of Sciences unanimously concluded that there was **no credible evidence that the death penalty does or does not deter homicides**, mainly because **not enough research has been done** into the subject
@@ -134,10 +137,12 @@ To start off with [a bit from Amnesty International](https://www.amnesty.org/dow
 - [Reconsidering the Death Penalty in a Time of Economic Crisis](https://files.deathpenaltyinfo.org/documents/pdf/CostsRptFinal.f1560295688.pdf)
   - A **poll of police chiefs rank the death penalty at the bottom of their priorities for safer societies**
   - They say the death penalty in the U.S. is an enormously expensive and wasteful program with no clear benefits
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/prisons-crime-04.jpg?raw=true)
 
 - [Executions, Deterrence, and Homicide: A Tale of Two Cities](http://www.law.uchicago.edu/files/files/JELS%20Singapore-HK%20Final.pdf)
   - Study in Hong Kong (who abolished the death penalty in the 90s) and Singapore (who increased use of it)
   - Finds no detectable effect on crime with use of death penalty
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/prisons-crime-05.jpg?raw=true)
 
 ## The Dealth Penalty Comes With an Expensive Cost
 

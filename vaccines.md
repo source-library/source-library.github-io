@@ -25,6 +25,7 @@ In light of all of the debate about COVID vaccines, it’s important to note tha
 
 - [https://www.cdc.gov/vaccines/pubs/pinkbook/pert.html](https://www.cdc.gov/vaccines/pubs/pinkbook/pert.html)
   - Finds that incidence of pertussis (whooping cough) has seen an **80% decline since the introduction of the DTP vaccine** in the 1940s
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/vaccines-01.png?raw=true)
 
 - [Panhuis et al. 13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4175560/)
   - Study that digitized all weekly surveillance reports of notifiable diseases for U.S. cities and states published between 1888 and 2011.
@@ -47,7 +48,8 @@ In light of all of the debate about COVID vaccines, it’s important to note tha
 - [https://sciencebasedmedicine.org/outbreaks-among-somali-immigrants-in-minnesota-thanks-for-the-measles-again-andy/](https://sciencebasedmedicine.org/outbreaks-among-somali-immigrants-in-minnesota-thanks-for-the-measles-again-andy/)
   - Graph showing the declining immunization rates among Minnesota-born children of Somali descent.
   - A small [survey](https://www.jabfm.org/content/27/4/458.full) found that Somali parents in Minnesota were significantly more likely to believe autism is caused by vaccines
-  - Anti Vaccine misinformation was spread heavily in Minnesota by anti vaccine groups like the Vaccine Safety Council of Minnesota among Somali parents which **led to this spike in vaccine refusal and ultimately resulted in outbreaks**.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/vaccines-02.png?raw=true)  
+- Anti Vaccine misinformation was spread heavily in Minnesota by anti vaccine groups like the Vaccine Safety Council of Minnesota among Somali parents which **led to this spike in vaccine refusal and ultimately resulted in outbreaks**.
 
 # **Vaccines Do Not Cause Autism Or SIDS**
 **This misinformation has been spread largely by “Anti-Vaxxers” and discredited papers. These claims too often rely on confusing correlation with causation, or have other issues with them.**
@@ -87,6 +89,7 @@ In light of all of the debate about COVID vaccines, it’s important to note tha
     - Anti-vaccine activists claimed that the CDC only required birth certificates for African Americans in the study so they could be excluded from the birth certificate subgroup analysis.
     - This was supposed to show that the CDC wanted to cover up a link between MMR vaccine and autism in African American boys.
     - However, the researchers used birth certificates for all the children in the study. Image below is from the [study](https://pubmed.ncbi.nlm.nih.gov/14754936/).
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/vaccines-03.jpg?raw=true)
 
 - [Hooker 14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128611/)
   - A re-analysis of the 2004 CDC study by Brian Hooker concluded that African American boys who received the MMR vaccine between 24 and 36 months were at a 3-fold increased risk for autism. Found no association for any other group.

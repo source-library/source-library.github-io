@@ -6,9 +6,11 @@
   - Only **13% of employees** worldwide are engaged at work
   - The bulk of employees worldwide (63%) **lack motivation** and are less likely to invest discretionary effort in organizational goals or outcomes.
   - Just **one in eight** are fully involved in and enthusiastic about their jobs
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-01.png?raw=true)
 
 - [Inequality.org](https://inequality.org/facts/income-inequality/)
   - Despite low engagement, workers are still producing a lot, but are not compensated adequately
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-02.png?raw=true)
 
 - [https://www.epi.org/productivity-pay-gap/](https://www.epi.org/productivity-pay-gap/) discusses reasons why productivity and compensation have diverged
   - Keep in mind this productivity-compensation gap has been challenged by multiple economists and might not be accurate
@@ -22,6 +24,11 @@
     - Own **fewer homes** themselves
     - Are failing to out-earn their parents
     - Are burdened with record **student debt**
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-03.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-04.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-05.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-06.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-07.png?raw=true)
 
 # **Innovation**
 **Innovation and potential innovators are restricted by issues like wealth and exposure to innovators. Leaders of innovation tend to be places where most people have more stable access to money via safety nets.**
@@ -33,6 +40,7 @@
 
 - [European Innovation Scoreboard 19](https://ec.europa.eu/growth/industry/policy/innovation/scoreboards_en)
   - In the EU, countries with more functional safety nets (mainly in Scandinavia and Western Europe) perform better when it comes to innovation
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-08.png?raw=true)
 
 - [https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(16)00705-4.pdf](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736\(16\)00705-4.pdf)
   - **Almost no R&D funding is put towards diseases that predominantly affect developing countries**. Perhaps that’s because there is little profit in doing so.

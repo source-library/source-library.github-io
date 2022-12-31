@@ -194,6 +194,7 @@
   - **Study indicates that with a decriminalization and legalization of drugs, a large black market can be destroyed, and a majority of prisoners can be released from prison and new ones prevented**
 
 - [Donato Di Carlo, Julia Schulte-Cloos & Giulia Saudelli 18](https://blogs.lse.ac.uk/europpblog/2018/03/03/has-immigration-really-led-to-an-increase-in-crime-in-italy/)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/immigration-europe-01.png?raw=true)
   - Data for 2007-2016 (within the 2011 and 2015 migrant crises)
   - Finds that overall crime per 1,000 inhabitants has decreased by **25%** on average between 2007 and 2016 across all Italian regions
   - The majority of the 20 Italian regions plus the 2 autonomous provinces display a **lower** crime rate than their individual regional average of the previous ten years.
@@ -219,6 +220,7 @@
 # **Jobs and wages**
 
 - [Phillip Connor, Jeffrey S. Passel 19: Pew Research Center](https://www.pewresearch.org/fact-tank/2019/11/14/5-facts-about-unauthorized-immigration-in-europe/)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/immigration-europe-02.png?raw=true)
   - Data showing the **EU has way less illegal immigrants than the US**, which alongside the study of the JRC and the effect of illegal immigrants that is observed in the US can indicate that **medium to long term illegal immigrants can integrate and provide a net benefit to the EU** as well:
 
 - [https://ec.europa.eu/futurium/sites/futurium/files/jrc107441_wp_kancs_and_lecca_2017_4.pdf](https://ec.europa.eu/futurium/sites/futurium/files/jrc107441_wp_kancs_and_lecca_2017_4.pdf)

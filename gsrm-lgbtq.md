@@ -234,7 +234,7 @@
     - *In total, 29,291 youth entered the survey website. Among these respondents, 17,112 completed at least 10 percent of the survey, 12,005 completed at least half, and 9,460 completed the entire survey. In this report, the 50 percent and up sample (n=12,005) was utilized for analyses.*
 
 - [Pew Research 13](https://www.pewsocialtrends.org/2013/06/13/a-survey-of-lgbt-americans/)
-  - [![](https://www.pewresearch.org/social-trends/wp-content/uploads/sites/3/2013/06/SDT-2013-06-LGBT-0-02.png)](https://www.pewresearch.org/social-trends/wp-content/uploads/sites/3/2013/06/SDT-2013-06-LGBT-0-02.png)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-01.png?raw=true)
 
 - [University of Chicago Chapin Hall Youth Homelessness Report 17](https://voicesofyouthcount.org/wp-content/uploads/2017/11/ChapinHall_VoYC_NationalReport_Final.pdf)
   - **LGBTQ youth** are **120%** more likely to **experience homelessness** than cisgender and heterosexual youth.
@@ -354,6 +354,10 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 - [https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf](https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf) the CDC in 2014 said 3.4% of the US population didn’t say they’re straight
 
 - [Pew Research 2013](https://www.pewsocialtrends.org/2013/06/13/a-survey-of-lgbt-americans/) - (population stats are not the best because non-heterosexual trans folk are counted once as *either* trans or non-heterosexual)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-02.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-03.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-04.png?raw=true)
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-05.png?raw=true)
 
 - [Williams Institute 16](https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/) ([pdf](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf))
   - **WIDELY CITED** population estimate for transgender people
@@ -422,6 +426,7 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 - [Regnerus 12](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12000610), sometimes called the New Family Structures Study ([wikipedia](https://en.wikipedia.org/wiki/New_Family_Structures_Study))
   - **Claims that same-sex couples have a negative impact on their children** as opposed to heterosexual couples
     - Common image which uses this study’s data ([image link](https://archive.ph/o/uY9Yr/https://cdn.discordapp.com/attachments/695440504057495642/695464817057595442/1568074204241.png))
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-06.png?raw=true)
   - **METHODOLOGICAL FLAWS - ignores factors like family instability**
     - This problem goes as deep as the questionnaire that defined the samples - the questions basically barred unstable, broken straight homes out of the sample whereas unstable gay families were included in the data. [This Slate article explains it well](https://slate.com/technology/2012/06/new-family-structures-study-is-gay-parenthood-bad-or-is-gay-marriage-good.html):
       - “_The survey went on to ask: “From when you were born until age 18 … did either of your parents ever have a romantic relationship with someone of the same sex?” If the respondent said yes, he was put in the “gay father” (GF) or “lesbian mother” (LM) category, regardless of subsequent answers. But if he said no, a later question about the relationship between “your biological parents” was used to classify him as the product of an “intact biological family” (IBF) or of an “adopted,” “divorced,” “stepfamily,” or “single-parent” household. **In other words, broken families were excluded from the IBF**_ **[straight couple] _category but included in the GF and LM_ [gay couple] _categories_**_._”
@@ -465,6 +470,7 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 - [*Emotionally Absent Fathers: Furthering the Understanding of Homosexuality* aka Seutter & Rovers 2004](https://journals.sagepub.com/doi/abs/10.1177/009164710403200105)
   - Study used to claim that weak/unstable father relations cause homosexuality
   - The crux of the point relies on a 4.27 point difference between gays and straights on “Intimacy with Father”, the difference between a score of 39.27 and 35. See the table below:
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-07.png?raw=true)
   - In general, **the average scores that gays and straights got are very similar across the board**, none of them being more than 5 points apart. The standard deviations (labeled “SD”) are all remarkably similar too.
   - People will hone in on how gay people scored lower on “Intimacy with Father” compared to straights, but **the difference is scores is a pretty small 4.27 difference**. Given the small sample size (only 24 gay people surveyed!) even one outlier could make the difference here.
   - **EVEN IF gay people scored SIGNIFICANTLY lower on father intimacy, this doesn’t mean anything about father absence CAUSING gayness**. Correlation doesn’t automatically mean causation. On the flip side, you could argue the causation goes the other way around - gay people are often rejected from their families for being gay (a homosexuality → father absence effect).
