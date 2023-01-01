@@ -4,17 +4,15 @@ This extensive factsheet is a compilation of various studies, datapoints, pieces
 
 ## Document Access
 
-- Archive link (September 2022): https://archive.ph/uY9Yr
+- **CURRENT LINK: [https://source-library.github.io/](https://source-library.github.io/)**
 
-- Archive link (October 2022): https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit
+- Archive link (September 2022): [https://archive.ph/uY9Yr](https://archive.ph/uY9Yr)
 
-- Join us on Discord!
-[https://discord.gg/JNXrNC8Yja](https://discord.gg/JNXrNC8Yja)
-You can help with the Source Library here!
+- Archive link (October 2022): [https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit](https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit)
 
-- Follow our Reddit account for updates!
-/u/sourcelibrarian
-If something happens to this doc or a related one, you can check there.
+- Join us on [Discord!](https://discord.gg/JNXrNC8Yja) You can help with the Source Library here!
+
+- Follow our Reddit account, [/u/sourcelibrarian](https://www.reddit.com/user/sourcelibrarian/), for updates! If something happens to this doc or a related one, you can check there.
 
 #### On doc changes
 
@@ -22,85 +20,54 @@ The original source library was created as a Google document on June 15, 2019, b
 
 ## Table of Contents
 
-[Transgender Issues](https://source-library.github.io/trans-rights)
-
-[Gender and Sex](https://source-library.github.io/gender-and-sex)
-
-[GSRM/LGBTQ Issues](https://source-library.github.io/gsrm-lgbtq)
-
-[Understanding Capitalism](https://source-library.github.io/capitalism)
-
-[Wealth Inequality](https://source-library.github.io/wealth-inequality)
-
-[Worker Ownership](https://source-library.github.io/worker-ownership)
-
-[Financial Support](https://source-library.github.io/financial-support)
-
-[Other Economy](https://source-library.github.io/other-economy)
-
-[Socialism](https://source-library.github.io/socialism)
-
-[Healthcare](https://source-library.github.io/healthcare)
-
-[Terror and Extremism](https://source-library.github.io/terror-extremism)
-
-[Democracy (US politics)](https://source-library.github.io/democracy)
-
-[General Race/Racism](https://source-library.github.io/general-racism)
-
-[Criminal Justice Racism](https://source-library.github.io/criminal-justice-racism)
-
-[Drug Decriminalization](https://source-library.github.io/drug-decriminalization)
-
-[Prisons and Crime](https://source-library.github.io/prisons-crime)
-
-[Police - Non-racism](https://source-library.github.io/police-non-racism)
-
-[Racialism and Race Realism](https://source-library.github.io/racialism-race-realism)
-
-[Women & Feminism](https://source-library.github.io/women-feminism)
-
-[Guns](https://source-library.github.io/guns)
-
-[Sex (outside the context of gender)](https://source-library.github.io/sex)
-
-[Imperialism](https://source-library.github.io/imperialism)
-
-[Immigration (US politics)](https://source-library.github.io/immigration-usa)
-
-[Immigration (EU politics)](https://source-library.github.io/immigration-europe)
-
-[Fossil Fuels](https://source-library.github.io/fossil-fuels)
-
-[Renewable Energy](https://source-library.github.io/renewable-energy)
-
-[Nuclear Energy](https://source-library.github.io/nuclear-energy)
-
-[Climate and Pollution](https://source-library.github.io/climate-pollution)
-
-[Social Media](https://source-library.github.io/social-media)
-
-[Vaccines](https://source-library.github.io/vaccines)
-
-[Contra Capitalism](https://source-library.github.io/contra-capitalism)
-
-[Contra Reactionary Ideology](https://source-library.github.io/contra-reactionary-ideology)
-
-[Contra Alt-right Ideology](https://source-library.github.io/contra-alt-right-ideology)
-
-[Miscellaneous](https://source-library.github.io/miscellaneous)
+| **SECTIONS**                                                                                | **SUBSECTIONS**                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Transgender Issues](https://source-library.github.io/trans-rights)                         | Medical Consensus ● Medical Transition ● Social Transition ● Puberty Blockers ● Prevalence of Discrimination ● Impact of Discrimination ● Impact of Social/Familial Support ● Chosen Name/Pronoun Usage ● Bathroom Bills ● Prisons ● Public Perception and Depiction ● Trans Athletes ● Neurology/Biology ● Detransition/Regret ● Canada's C-16 Bill ● In the Military ● Depathologization ● Addressing Reactionary Claims ● Additional Resources |
+| [Gender and Sex](https://source-library.github.io/gender-and-sex)                           | Gendered Behavior ● They/Them Pronouns ● Sex is Not Binary ● Gender and Sex are Different ● Gender in the Past ● Gender Across Cultures ● Gender Equality Paradox ● Addressing Misconceptions about Gender and Sex                                                                                                                                                                                                                                |
+| [GSRM/LGBTQ Issues](https://source-library.github.io/gsrm-lgbtq)                            | Conversion Therapy ● Homosexual Parenting ● Gay Nature vs Nurture ● Family Support ● Marriage Equality ● Legal Protection ● Bullying, Harassment, and Discrimination ● Homosexuality and Pedophilia ● Demographic Reference ● Rebutting myths about LGB people                                                                                                                                                                                    |
+| [Understanding Capitalism](https://source-library.github.io/capitalism)                     | What is Capitalism? ● What is the Labor Theory of Value? (Classical and Marxian Theory) ● What is the Marginal Utility ("Subjective") Theory of Value? (Mainstream/Neoclassical Theory) ● On LTV Empirical Evidence                                                                                                                                                                                                                               |
+| [Wealth Inequality](https://source-library.github.io/wealth-inequality)                     | General ● Wages ● Growth ● Stocks and Investment ● Unions ● Wage Theft (non-marxian)                                                                                                                                                                                                                                                                                                                                                              |
+| [Worker Ownership](https://source-library.github.io/worker-ownership)                       | Worker Co-ops ● ESOP and Employee Ownership ● Additional Resources                                                                                                                                                                                                                                                                                                                                                                                |
+| [Financial Support](https://source-library.github.io/financial-support)                     | Minimum Wage ● UBI and Redistributive Cash Transfers ● Welfare ● Government Assistance Doesn't Make People Lazy                                                                                                                                                                                                                                                                                                                                   |
+| [Other Economy](https://source-library.github.io/other-economy)                             | Workplace Engagement and Compensation ● Generational Gap ● Innovation                                                                                                                                                                                                                                                                                                                                                                             |
+| [Socialism](https://source-library.github.io/socialism)                                     | Quality of Life ● Polling in Socialist Countries ● Socialist Democracy and the extent of its Authoritarianism                                                                                                                                                                                                                                                                                                                                     |
+| [Healthcare](https://source-library.github.io/healthcare)                                   | U.S. Healthcare Problems ● U.S. Medicare for All ● General Universal Healthcare Benefits                                                                                                                                                                                                                                                                                                                                                          |
+| [Terror and Extremism](https://source-library.github.io/terror-extremism)                   | Murders and Attacks ● Hate Crime                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [Democracy (US politics)](https://source-library.github.io/democracy)                       | Flawed Democracy ● Electoral College ● Gerrymandering ● Felon Disenfranchisement ● Voter Fraud ● Reforms to Democracy ● Authoritarianism                                                                                                                                                                                                                                                                                                          |
+| [General Race/Racism](https://source-library.github.io/general-racism)                      | Racism Misconceptions ● Subconscious Bias ● Housing/Lending ● Jobs and Hiring ● Education ● Voting and Voter ID ● Youth ● Affirmative Action ● Black Culture ● Racial Segregation (Historical) ● Defending Juneteenth ● Additional Resources                                                                                                                                                                                                      |
+| [Criminal Justice Racism](https://source-library.github.io/criminal-justice-racism)         | Police Far Right Connections ● Police Subconscious Bias ● Policing and Traffic Stops ● Stop and Frisk ● Bias in Police Use of Force ● Juries and Jury Selection ● Death Penalty Racism ● Prosecutors, Discretion, and Plea Bargaining ● Judges and Sentencing ● Prison and Incarceration ● Drug War and Racism ● In Other Countries ● Possible Solutions ● Additional Studies ● Addressing Reactionary/Anti-BLM Claims                            |
+| [Drug Decriminalization](https://source-library.github.io/drug-decriminalization)           | The Drug War - General ● Decriminalization ● Treatment ● Safe Consumption Rooms                                                                                                                                                                                                                                                                                                                                                                   |
+| [Prisons and Crime](https://source-library.github.io/prisons-crime)                         | Predictors of Crime ● Rehabilitation ● Private Prisons ● Deterrence Theory ● Death Penalty                                                                                                                                                                                                                                                                                                                                                        |
+| [Police - Non-racism](https://source-library.github.io/police-non-racism)                   | Casualties ● Policing Efficacy & Corruption                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Racialism and Race Realism](https://source-library.github.io/racialism-race-realism)       | General ● Race Classification ● Nature vs Nurture ● Twin Studies and EEA ● GWAS & PGS ● Missing heritability & Nonadditive variation ● IQ and g ● Race and Craniology ● Public Perception (Regarding genetics) ● Testosterone Differences? ● Race & Crime ● Taboo on Race & Intelligence is nonexistent ● Modern Eugenics? ● Certain Authors                                                                                                      |
+| [Women & Feminism](https://source-library.github.io/women-feminism)                         | Anti-Abortion Legislation ● Impact of Abortion on Women ● Abortion - Philosophical Stuff ● Gender Wage/Income Gap ● False Rape Accusations                                                                                                                                                                                                                                                                                                        |
+| [Guns](https://source-library.github.io/guns)                                               | Violence & Video Games                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [Sex (outside the context of gender)](https://source-library.github.io/sex)                 | Sex Work ● Casual Sex                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| [Imperialism](https://source-library.github.io/imperialism)                                 | U.S. Interventionism ● Anti-American Terrorism ● Arms Deals                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Immigration (US politics)](https://source-library.github.io/immigration-usa)               | Crime ● Diversity Doesn't Hurt Social Cohesion ● Economic Growth ● Jobs and Wages ● Taxes and Social Security ● Public Benefits ● Deportation ● Southern Border                                                                                                                                                                                                                                                                                   |
+| [Immigration (EU politics)](https://source-library.github.io/immigration-europe)            | Brexit ● Crime ● Jobs and Wages ● Taxes and Welfare ● Economic Growth                                                                                                                                                                                                                                                                                                                                                                             |
+| [Fossil Fuels](https://source-library.github.io/fossil-fuels)                               | Land and Air Damage ● Subsidies ● Trump and Coal                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [Renewable Energy](https://source-library.github.io/renewable-energy)                       | Effectiveness                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [Nuclear Energy](https://source-library.github.io/nuclear-energy)                           | Benefits                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [Climate and Pollution](https://source-library.github.io/climate-pollution)                 | Rising Temperatures ● Rising CO2 Emissions ● Ice Loss ● Impact of Climate Change ● Anthropogenic Consensus ● Air Pollution ● Climate Denialism - Analysis ● Climate Denialism - Rebuttals ● Additional Resources                                                                                                                                                                                                                                  |
+| [Social Media](https://source-library.github.io/social-media)                               | Censorship ● Misinformation                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Vaccines](https://source-library.github.io/vaccines)                                       | Vaccines are Good ● Vaccines Do Not Cause Autism Or SIDS ● Debunking Misc Anti-Vax Claims                                                                                                                                                                                                                                                                                                                                                         |
+| [Contra Capitalism](https://source-library.github.io/contra-capitalism)                     | Pro-Capitalism ● Social Democracy                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [Contra Reactionary Ideology](https://source-library.github.io/contra-reactionary-ideology) | Their Talkers ● Miscellaneous                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [Contra Alt-right Ideology](https://source-library.github.io/contra-alt-right-ideology)     | 13/50 and related FBI-UCR stats ● Conceptualization of African History ● Holocaust Denial/Revisionism                                                                                                                                                                                                                                                                                                                                             |
+| [Miscellaneous](https://source-library.github.io/miscellaneous)                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## Some other notes:
 
-This factsheet is constantly updating and greatly benefits from viewer input! Feel free to contact us with any comments or suggestions you might have! Again, check the discord for the fastest responses.
+- This factsheet is constantly updating and greatly benefits from viewer input! Feel free to contact us with any comments or suggestions you might have! Again, check the discord for the fastest responses.
 
-This isn't the sort of doc you send over to someone if you’re in the middle of a debate. Telling someone to just debunk a 200+ page document off-hand is just a bad-faith approach which won’t win people over. It’s better to use this document as a source reference, and to use those specific sources in a debate rather than just throwing the whole google doc at people.
+- This isn't the sort of doc you send over to someone if you’re in the middle of a debate. Telling someone to just debunk a 200+ page document off-hand is just a bad-faith approach which won’t win people over. It’s better to use this document as a source reference, and to use those specific sources in a debate rather than just throwing the whole google doc at people.
 
-If you want to look further into reading studies so you can more critically analyze them and etc, give this a look. This sort of stuff is especially helpful for beginners, and plenty of guides like this exist online in case the one linked here isn’t helpful.
+- If you want to look further into reading studies so you can more critically analyze them and etc, give this a look. This sort of stuff is especially helpful for beginners, and plenty of guides like this exist online in case the one linked here isn’t helpful.
 
-It's highly recommended that you at least skim some of these sources and become familiar with some of them. Citing these blindly is a risky and often bad-faith thing to do. Take your time learning about subjects before trying to talk about them.
+- It's highly recommended that you at least skim some of these sources and become familiar with some of them. Citing these blindly is a risky and often bad-faith thing to do. Take your time learning about subjects before trying to talk about them.
 
-For clarity, this is NOT Vaush’s [Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit). We did start this as a copy of his doc, but no, they’re not the same thing.
+- For clarity, this is NOT Vaush’s [Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit). We did start this as a copy of his doc, but no, they’re not the same thing.
 
 ## Contact Us
 This factsheet is maintained by a large team of contributors.
