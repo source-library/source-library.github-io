@@ -1,6 +1,6 @@
 **TERROR AND EXTREMISM (USA)**
 
-<details>
+<details markdown="1">
 <summary>Murders and Attacks</summary>
 
   # **Murders and Attacks**
@@ -37,7 +37,7 @@
 - [http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf) pages 44-50
 </details>
 
-<details>
+<details markdown="1">
 <summary>Hate Crimes</summary>
 
 # **Hate Crime**
