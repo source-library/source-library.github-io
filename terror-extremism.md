@@ -2,7 +2,7 @@
 
 <details>
 <summary>Murders and Attacks</summary>
-<br>  
+
   # **Murders and Attacks**
 **Right-wing terror and the rise of white nationalism are the current biggest terrorist threats in the United States, constituting a majority of domestic terrorist cases.**
 
@@ -39,7 +39,7 @@
 
 <details>
 <summary>Hate Crimes</summary>
-<br>
+
 # **Hate Crime**
 **The prevalence of hate crime is growing at increasing rates, especially those crimes with a racial bias, and especially coincide with violent or reactionary rhetoric.**
 
