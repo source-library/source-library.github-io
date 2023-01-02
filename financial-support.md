@@ -1,4 +1,8 @@
 **FINANCIAL SUPPORT**
+
+<details markdown="1">
+<summary>Minimum Wage</summary>
+
 # **Minimum Wage**
 - [https://www.reddit.com/r/Economics/wiki/faq_minwage](https://www.reddit.com/r/Economics/wiki/faq_minwage) brief on the basic economics of minimum wage
 
@@ -73,6 +77,12 @@ Additionally, from a minimum wage increase may improve productivity independentl
 ### **7. "If the minimum wage goes up then everything you have to pay for goes up!"**
 
 This is only true for a perfectly competitive economy. Both because of the relatively small share of production costs accounted for by minimum wage labor and because of the limited spillovers from a minimum wage increase to wages of other workers, the effect of a minimum wage increase on the overall price level is likely to be small, which it is: [a 10% US minimum wage increase raises overall prices by no more than 0.4%](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6419.2007.00532.x).
+
+------------
+
+</details>
+<details markdown="1">
+<summary>UBI and Redistributive Cash Transfers</summary>
 
 # **UBI and Redistributive Cash Transfers**
 **Yeah it’s socdem but there’s utility in defending it, especially considering how advocating for UBI could move rightists further left (see how Yang temporarily brought over some republicans, for example). Regardless, UBI and RCT do seem to be effective at reducing poverty without causing many other problems, making it a viable policy in a capitalist system.**
@@ -165,6 +175,12 @@ This is only true for a perfectly competitive economy. Both because of the relat
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-07.png?raw=true)
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/financial-support-08.png?raw=true)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Welfare</summary>
+
 # **Welfare**
 [https://docs.google.com/document/d/1jM3CK34U64Bsp_vdNkZBGI3VWcI9LkdZKgca27oC20c/edit](https://docs.google.com/document/d/1jM3CK34U64Bsp_vdNkZBGI3VWcI9LkdZKgca27oC20c/edit)
 ## Food Stamps/SNAP
@@ -211,6 +227,12 @@ This is only true for a perfectly competitive economy. Both because of the relat
 
 - [https://onlinelibrary.wiley.com/doi/full/10.1111/obr.12987](https://onlinelibrary.wiley.com/doi/full/10.1111/obr.12987)
   - In this study, we find more positive than negative findings when excluding the null findings regarding the association between access to public transport and childhood obesity.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Government Assistance Doesn't Make People Lazy</summary>
 
 # **Government Assistance Doesn’t Make People Lazy**
 **You can also [cite this doc](https://docs.google.com/document/d/1jM3CK34U64Bsp_vdNkZBGI3VWcI9LkdZKgca27oC20c/edit?usp=sharing) for easier convenience**
@@ -303,3 +325,5 @@ This is only true for a perfectly competitive economy. Both because of the relat
   - No, the government does *not* cause crowding out when it spends
   - “It seems policymakers can no longer use financial crowding-out theory to validate fiscal withdrawal within sovereign economies.”
   - Translation: The justifications for austerity are nonsense
+
+</details>

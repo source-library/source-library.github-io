@@ -1,5 +1,8 @@
 **GENDER AND SEX**
 
+<details markdown="1">
+<summary>Gendered Behavior</summary>
+
 # **Gendered Behavior**
 **At a young age, children learn and copy perceived a lot of gendered behavior, which in many cases leads to the limiting of children’s expression. This doesn’t necessarily prove that *all* gendered norms have a firm basis in nurture, that’s something that this doc hasn’t adequately addressed yet.**
 
@@ -32,6 +35,12 @@
 
 - [https://www.researchgate.net/profile/Zlatan_Krizan/publication/271722875_Evaluating_Gender_Similarities_and_Differences_Using_Metasynthesis/links/55c35cdf08aea2d9bdc06e70/Evaluating-Gender-Similarities-and-Differences-Using-Metasynthesis.pdf](https://www.researchgate.net/profile/Zlatan_Krizan/publication/271722875_Evaluating_Gender_Similarities_and_Differences_Using_Metasynthesis/links/55c35cdf08aea2d9bdc06e70/Evaluating-Gender-Similarities-and-Differences-Using-Metasynthesis.pdf)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>They/Them Pronouns</summary>
+
 # **They/Them Pronouns**
 **Singular “they” is grammatically correct**
 
@@ -47,12 +56,19 @@
   - Latin scholars pieced together a guide for gender inclusivity in the Latin language
   - Shows that scholars of different languages accept gender neutral and non-gendered language
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Sex is Not Binary</summary>
+
 # **Sex is Not Binary**
 **Modern science endorses a bimodal model in its understanding of sex**
 
 - [Scientific American: Montañez 17](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/) ([IMAGE](https://static.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg)) ([png of that image](https://web.archive.org/web/20201111204557/https://cdn.discordapp.com/attachments/543333556856815617/589195017952690177/Beyond_XX_and_XY_scientific_american.png))
   - Graphic describing the many characteristics which factor into one's **sexual identity**.
   - Helpful in indicating the **ambiguous and bimodal** nature of sex/responding to people who believes it’s as simple as **XX/XY**
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gender-sex-01.png?raw=true)
 
 - [New York Times: Fausto-Sterling 18](https://www.nytimes.com/2018/10/25/opinion/sex-biology-binary.html?ref=oembed)
   - NY Times Op-Ed from a professor of biology & gender studies
@@ -70,6 +86,12 @@
 - [https://www.ubcpress.ca/the-spectrum-of-sex](https://www.ubcpress.ca/the-spectrum-of-sex) a whole book
 
 - [https://www.nature.com/articles/d41586-018-07238-8](https://www.nature.com/articles/d41586-018-07238-8)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Gender and Sex are Different</summary>
 
 # **Gender and Sex are Different**
 **Modern science also recognizes an important distinction between gender and sex. .**
@@ -134,6 +156,12 @@ Whether or not “gender” and “sex” are distinct basically depends entirel
 
 - Even though immaturity is associated with young people and maturity with adults, we see James breaking that norm by being both mature and a young person. Similarly, even though we expect men to act in a certain way and women a certain way, transgender people break that norm insofar as they pick up social roles not associated with their biological sex.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Gender in the Past</summary>
+
 # **Gender in the Past**
 **We didn’t always hold the same attitudes or use the same terminology for genders that we do now.**
 
@@ -156,11 +184,23 @@ Whether or not “gender” and “sex” are distinct basically depends entirel
   - **When it was introduced it was done specifically with a gender-sex distinction in mind**: “*Money (1996) later wrote that he imported the term gender into sexological science “to make it possible to write about people who came into one’s office as either male or female, but of whom it could not be said that their sex role in the specific genital sense was either male or female insofar as they had a history of birth defect of the sex organs.*”
     - Yes, Money did introduce the word - “*Excluding grammatical uses, most, if not all, of the gender-containing titles in SCI and SSCI from the 1960s appear to have derived the term from Money.*”
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Gender Across Cultures</summary>
+
 # **Gender Across Cultures**
 **A substantial number of cultures have had and/or continue to have non-binary, gender-fluid, or third gender identities within their gender constructs.**
 
 - [Public Broadcasting Service: A Map of Gender-Diverse Cultures](https://www.pbs.org/independentlens/content/two-spirits_map-html/)
   - Nice interactive, gives briefs on a variety of cultures across all continents except Antarctica
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Gender Equality Paradox</summary>
 
 # **Gender Equality Paradox**
 **Gender essentialists claim that gender differences in career choice remain even in highly egalitarian countries - named the gender equality paradox. This claim is founded on a poor study which the academic community rejects and ridicules. See the [wikipedia page**](https://en.wikipedia.org/wiki/Gender-equality_paradox)**
@@ -179,10 +219,17 @@ Whether or not “gender” and “sex” are distinct basically depends entirel
     - Members of wealthier and more egalitarian countries tend to fall back to gender-essentialist norms for self-identification and self-expression
     - The importance of math between developed and developing countries
     - The strength of parent involvement in education creating more chances for spreading gender-stereotypes
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gender-sex-02.png?raw=true)
 
 Additional Resources:
 
 - [Explanations for low representation of women](https://en.wikipedia.org/wiki/Women_in_STEM_fields%23Explanations_for_low_representation_of_women)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Addressing Misconceptions about Gender and Sex</summary>
 
 # **Addressing Misconceptions about Gender and Sex**
 ### 1. “But sex is determined by chromosomes! XX for women and XY for men.”
@@ -209,6 +256,8 @@ Regardless, not all intersex people are sterile, and in fact [plenty of intersex
 
 This question is a bit dishonest. It’s like taking a color wheel and asking for a number for how many colors there are.
 
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/gender-sex-03.png?raw=true)
+
 Gender as a concept (socially constructed and something which varies based on the specific person) is comparable to emotions and personalities. Basically, **there's ways to express yourself which are basically qualitative, not quantitative - emotions and personalities, and of course, gender**. How many emotions exist? How many personalities? There is no true answer to how many personalities exist or how many emotions exist. These are qualitative ideas, just like gender.
 
 Yes, people do try to categorize ideas like emotions and personalities, just as people categorize gender. [Here’s an emotion color wheel](https://cdn.discordapp.com/attachments/614966433281212433/812129928484749352/emotion_wheel2_colour.png) which does just that. This doesn't mean that there is a fixed number of emotions or personalities.
@@ -234,3 +283,5 @@ Someone using this argument might then clarify “what I’m trying to say is th
 - [https://www.psychologytoday.com/us/blog/old-school-parenting-modern-day-families/201907/time-move-beyond-gender-is-socially-constructed?amped](https://www.psychologytoday.com/us/blog/old-school-parenting-modern-day-families/201907/time-move-beyond-gender-is-socially-constructed?amped) some more points here to address down the road
 
 - The sex-binary based on SRY take (briefly addressed [here](https://blogs.scientificamerican.com/voices/stop-using-phony-science-to-justify-transphobia/))
+
+</details>

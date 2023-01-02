@@ -1,5 +1,8 @@
 **WEALTH INEQUALITY**
 
+<details markdown="1">
+<summary>General</summary>
+
 # **General**
 **Inequality is rising and concentrating wealth at the top of the wealthy class, which contributes to worse economic mobility**
 
@@ -66,6 +69,12 @@
 
 - [https://www.pewtrusts.org/en/projects/archived-projects/financial-security-and-mobility](https://www.pewtrusts.org/en/projects/archived-projects/financial-security-and-mobility) general thing to look at down the road
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Wages</summary>
+
 # **Wages**
 **A majority of workers are in debt and struggling to get by; many work multiple jobs**
 
@@ -99,6 +108,12 @@
   - Since 1960, CEO compensation vs worker compensation has increased from 20x higher to 270x higher - **compared to their workers, are CEOs 13x more productive today than they were in 1960?**
   - Also shows that an upper capitalist class can be wealthy without having an exorbitant amount of money go their way, as it was in 1960
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Growth</summary>
+
 # **Growth**
 **The rich are getting richer far faster than the poor, while poverty is steady**
 
@@ -114,6 +129,12 @@
   - **82%** of the wealth generated in 2017 **went to the richest one percent** of the global population.
   - The **3.7 billion people** who make up the poorest half of the world **saw no increase** in their wealth in 2017.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Stocks and Investment</summary>
+
 # **Stocks and Investment**
 **Control over businesses and the stock market is also heavily concentrated among the richest of the rich**
 
@@ -124,6 +145,12 @@
 
 - [https://scholar.harvard.edu/files/straub/files/mss_richsavingglut.pdf](https://scholar.harvard.edu/files/straub/files/mss_richsavingglut.pdf) 
   - “*Rising income inequality since the 1980s in the United States has generated a substantial increase in saving by the top of the income distribution, which we call the saving glut of the rich. **The saving glut of the rich has been as large as the global saving glut, and it has not been associated with an increase in investment. Instead, the saving glut of the rich has been linked to the substantial dissaving and large accumulation of debt by the non-rich**. Analysis using variation across states shows that the rise in top income shares can explain almost all of the accumulation of household debt held as a financial asset by the household sector. Since the Great Recession, the saving glut of the rich has been financing government deficits to a greater degree.*”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Unions</summary>
 
 # **Unions**
 **Unions are on the decline while inequality remains extreme**
@@ -142,6 +169,12 @@
   - Unionized workers receive better pension plans. Not only are they more likely to have a guaranteed benefit in retirement, their employers contribute 28% more toward pensions.
   - Unionized workers receive 26% more vacation time and 14% more total paid leave
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Wage Theft (non-marxian)</summary>
+
 # **Wage Theft (non-marxian)**
 **This section deals with wage theft in the non-marxian sense, where employers just refuse to pay their employees what they both agreed to. Unfortunately, this costs workers billions of dollars**
 
@@ -151,3 +184,5 @@
   - An estimated **$50 billion is stolen from 30 million low-income workers annually** in the US, far exceeding costs from typical theft or robbery
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/wealth-inequality-16.png?raw=true)
   - [Image source](https://www.tcworkerscenter.org/2018/09/wage-theft-vs-other-forms-of-theft-in-the-u-s/)
+
+</details>

@@ -1,9 +1,18 @@
 **UNDERSTANDING CAPITALISM**
 
+<details markdown="1">
+<summary>What is Capitalism?</summary>
+
 # **What is Capitalism?**
 **A socioeconomic system where social relations are primarily based on commodities for exchange, specifically through private ownership of the means of production and distribution of said commodities and its use for the competitive maximization of capital (i.e. any form of profit) ultimately through the exploitation of wage labor.**
 
 The underlying assumption that this definition has, that is, that capitalism is fundamentally based on the exploitation of wage labor, comes from the premise that the labor theory of value is true, in particular, Karl Marx’s. There are, however, competing theories of value in economics. One being the more classical labor theory of value, and the other being the neoclassical mainstream marginal utility theory of value. The “[capital debates](https://en.wikipedia.org/wiki/Cambridge_capital_controversy)” or the “[Cambridge capital controversy](https://heteconomist.com/three-economic-ideas-threatening-to-defenders-of-the-status-quo/)” is a memory-holed event in economic history where debates between both camps settled how marginalist views were divorced from economic reality in trying to deny that surplus labor is the basis of all profit in contrast to the Marxian/Post-Keynesian perspective.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>What is the Labor Theory of Value? (Classical and Marxian Theory)</summary>
 
 # **What is the Labor Theory of Value? (Classical and Marxian Theory)**
 
@@ -21,9 +30,21 @@ A labor theory of value is a theory of economic value used to determine what wou
 
 The labour theory of value according to Karl Marx’s “[law of value](https://www.marxists.org/archive/marx/works/1865/value-price-profit/ch02.htm%23c6)” holds that the common unit of measurement to determine the intrinsic value within commodities for their exchange, is determined by the socially necessary labor time required to produce it. **Socially necessary labor time is the average amount of labor time needed to produce or obtain something which is socially demanded for in the market, making it “necessary”.**
 
+------------
+
+</details>
+<details markdown="1">
+<summary>What is the Marginal Utility (“Subjective”) Theory of Value? (Mainstream/Neoclassical Theory)</summary>
+
 # **What is the Marginal Utility (“Subjective”) Theory of Value? (Mainstream/Neoclassical Theory)**
 
 WIP
+
+------------
+
+</details>
+<details markdown="1">
+<summary>On LTV Empirical Evidence</summary>
 
 # **On LTV Empirical Evidence**
 **There is very strong empirical evidence confirming the validity of the labor theory of value  over that of the mainstream marginal utility theory of value.**
@@ -48,3 +69,5 @@ WIP
 - [https://www.semanticscholar.org/paper/Testing-the-labor-theory-of-value-in-Sweden-April-Zachariah/9cbad31cae110e8cb2b05dc0bd6427cd37f2ba6e](https://www.semanticscholar.org/paper/Testing-the-labor-theory-of-value-in-Sweden-April-Zachariah/9cbad31cae110e8cb2b05dc0bd6427cd37f2ba6e) 
 
 - [https://www.tandfonline.com/doi/abs/10.1080/09538259.2016.1260804](https://www.tandfonline.com/doi/abs/10.1080/09538259.2016.1260804)
+
+</details>

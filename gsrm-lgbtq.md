@@ -1,5 +1,8 @@
 **GSRM/LGBTQ ISSUES**
 
+<details markdown="1">
+<summary>Conversion Therapy</summary>
+
 # **Conversion Therapy**
 **CT increases depression and suicide attempts, does not have public nor professional backing, and lacks proof of its effectiveness.**
 
@@ -60,6 +63,12 @@
 
 - [https://www.susans.org/wiki/Conversion_therapy](https://www.susans.org/wiki/Conversion_therapy)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Homosexual Parenting</summary>
+
 # **Homosexual Parenting**
 **Homosexual parents are just as good as heterosexual ones, according the the majority of research on the subject. However, most of the research is poor in quality or flawed in some other way, leaving a need for higher quality research.**
 
@@ -107,6 +116,12 @@
  - Nationally representative data, does a good job with distinguishing between cohabiting households and married households
 
 - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000058/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000058/)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Gay Nature vs Nurture</summary>
 
 # **Gay Nature vs Nurture**
 **Much of this article takes its sources from [this Scientific American article](https://blogs.scientificamerican.com/guest-blog/is-homosexuality-a-choice/) and it should be cited if referring to this whole section.**
@@ -160,6 +175,12 @@
 
 - [Hines, 2011](https://pubmed.ncbi.nlm.nih.gov/21333673/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Family Support</summary>
+
 # **Family Support**
 **Familial support and acceptance is vital to the mental health and wellbeing of GSRM youth**
 
@@ -168,6 +189,12 @@
   - A **LITERATURE REVIEW** of **42 peer-reviewed studies** that analyzed the links between family support and the health and well-being of LGBT youth
     - **25 studies** found that accepting behavior by parents toward their children’s sexual orientation or gender identity is linked to the health and well-being of LGBT youth.
     - The other **17 studies** found that family support in general (i.e. not necessarily in response to children’s sexual orientation or gender identity) is linked to the health and well-being of LGBT youth.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Marriage Equality</summary>
 
 # **Marriage Equality**
 **Associated with positive mental health outcomes, establishing a more utilitarian argument to the legalization of same-sex marriage**
@@ -201,6 +228,12 @@
 
 - [https://www.washington.edu/news/2017/04/13/married-lgbt-older-adults-are-healthier-happier-than-singles-study-finds/](https://www.washington.edu/news/2017/04/13/married-lgbt-older-adults-are-healthier-happier-than-singles-study-finds/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Legal Protection</summary>
+
 # **Legal Protection**
 **Anti-bullying laws decrease suicidal ideation and increase safety**
 
@@ -210,6 +243,12 @@
     - **feeling safe** at school or on the way to or from school.
     - lower risk for forced sexual intercourse
     - *Results did not differ by sexual orientation.*
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Bullying, Harassment, and Discrimination</summary>
 
 # **Bullying, Harassment, and Discrimination**
 **LGBT People experience disproportionate homelessness, hostility of family (negative statements. shaming), harassment at school, and physical and sexual abuse**
@@ -288,6 +327,12 @@
 
 - [https://drugfree.org/download/preventing-substance-abuse-among-lgbtq-teens/](https://drugfree.org/download/preventing-substance-abuse-among-lgbtq-teens/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Homosexuality and Pedophilia</summary>
+
 # **Homosexuality and Pedophilia**
 **WIP**
 
@@ -350,6 +395,12 @@ Essentially, **normal gay people are entirely different from pedophiles because 
   - Study that uses phallometric testing to measure the “true” sexual preference of 465 child molesters, 90+% of whom were understood to be pedophiles. By doing this they found a 11:1 straight:gay ratio among pedophiles, so around 92% of pedophiles are straight and 8% are gay
   - While the methodology isn’t necessarily bad, **the results need to be reinterpreted**. Activists will often say it means 8% of pedophiles are gay, which is a disproportionate amount relative to the gay population (4% of the US population), but it’s only *slightly* disproportionate, an amount so small you could chalk it up to statistical error. For reference, straight people were reportedly 96% of the US population and were predicted by the study to be 92% of all pedophiles, a measly difference which could be due to statistical error. The difference just seems bigger for gay people (4% vs 8%) because the gay population is simply way smaller than the straight population, even though the statistical error is the exact same size. Ergo, **neither straight people nor gay people are disproportionately represented among pedophiles**.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Demographic Reference</summary>
+
 # **Demographic Reference**
 - [https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf](https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf) the CDC in 2014 said 3.4% of the US population didn’t say they’re straight
 
@@ -363,8 +414,13 @@ Essentially, **normal gay people are entirely different from pedophiles because 
   - **WIDELY CITED** population estimate for transgender people
   - Estimates a transgender population of around 0.6%, or 1.4 million people, in the United States
   - This is double the amount estimated by a 2011 study (0.3%) which had limited data to work with
+------------
 
-# **Rebutting myths about LGB people**
+</details>
+<details markdown="1">
+<summary>Rebutting Myths about LGB People</summary>
+
+# **Rebutting Myths about LGB People**
 **This [related document](https://docs.google.com/document/d/1OLt4soHdYjSmCLRikD1hkLUekr4Mhk9sKf_v4mEXhis/edit) also covers some material so I'd recommend you give it a look as well.**
 
 ### 1. Gay people molest kids far more frequently than straight people.
@@ -483,3 +539,5 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 - More briefs on how anti-gay groups have misrepresented scientific data to support their agendas:
   - [https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/](https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/)
   - [https://respectmyresearch.org/qa/](https://archive.ph/o/uY9Yr/https://respectmyresearch.org/qa/)
+
+</details>

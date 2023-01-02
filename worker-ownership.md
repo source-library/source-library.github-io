@@ -1,4 +1,8 @@
 **WORKER OWNERSHIP**
+
+<details markdown="1">
+<summary>Worker Co-ops</summary>
+
 # **Worker Co-ops**
 **Co-ops are more productive, robust, resistant to price shocks, and increase worker pay and engagement (as opposed to a firm organized by a traditional employer-employee framework). Check out [this resource](https://docs.google.com/document/d/1NGbV3GAIxjQBOGetJFuWghhDLg5HurS-hN7kxibFDU4/edit) too for more information.**
 
@@ -63,6 +67,12 @@
 
 - [https://core.ac.uk/download/pdf/6294741.pdf](https://core.ac.uk/download/pdf/6294741.pdf)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>ESOP and Employee Ownership</summary>
+
 # **ESOP and Employee Ownership**
 **Increased employee engagement in decision-making at all levels is consistently associated with better performance.**
 
@@ -94,6 +104,12 @@
   - **META-ANALYSIS of 52 studies** regarding employee ownership, focusing primarily on employee attitudes/behaviours and productivity/profitability
   - **Finds higher levels of employee commitment** in ESOPS but **mixed results in regards to stuff like satisfaction and motivation**
   - While it’s hard to make out a clear causal relation between **employee ownership and more productivity, the two factors are certainly associated** with each other
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Additional Resources</summary>
 
 # **Additional Resources**
 - [ISR: International Socialist Review](https://isreview.org/issue/93/are-workers-cooperatives-alternative-capitalism)
@@ -132,3 +148,5 @@
 - [ownership structures, evidence for socialism](https://docs.google.com/document/d/19IVZ4uT_SGNL0BBht9N1tD5LeNAgwp1Fa-8Qbn_aS4Y/edit) - compilation of studies in favor of worker coops
 
 - [https://www.co-oplaw.org/special-topics/worker-cooperatives-performance-and-success-factors/#:~:text=15-,Why%20Worker%20Cooperatives%20Are%20So%20Scarce,creation%2C%20not%20to%20their%20survival](https://www.co-oplaw.org/special-topics/worker-cooperatives-performance-and-success-factors/%23:~:text=15-,Why%20Worker%20Cooperatives%20Are%20So%20Scarce,creation,%20not%20to%20their%20survival) talks about barriers to worker coop penetration into the market, mostly summing up these barriers not to coop non-competitiveness but difficulty getting them started
+
+</details>

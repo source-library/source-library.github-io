@@ -1,4 +1,8 @@
 **OTHER ECONOMY**
+
+<details markdown="1">
+<summary>Workplace Engagement and Compensation</summary>
+
 # **Workplace Engagement and Compensation**
 **Despite record productivity, workers are unengaged and underpaid**
 
@@ -15,6 +19,12 @@
 - [https://www.epi.org/productivity-pay-gap/](https://www.epi.org/productivity-pay-gap/) discusses reasons why productivity and compensation have diverged
   - Keep in mind this productivity-compensation gap has been challenged by multiple economists and might not be accurate
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Generational Gap</summary>
+
 # **Generational Gap**
 **Younger people face unique systemic disadvantages, such as unemployment, lack of housing, and student debt, indicative of an inadequate economy**
 
@@ -29,6 +39,12 @@
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-05.png?raw=true)
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-06.png?raw=true)
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/other-economy-07.png?raw=true)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Innovation</summary>
 
 # **Innovation**
 **Innovation and potential innovators are restricted by issues like wealth and exposure to innovators. Leaders of innovation tend to be places where most people have more stable access to money via safety nets.**
