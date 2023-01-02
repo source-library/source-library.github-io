@@ -1,5 +1,9 @@
 **TERROR AND EXTREMISM (USA)**
-# **Murders and Attacks**
+
+<details>
+  <summary>Murders and Attacks</summary>
+  
+  # **Murders and Attacks**
 **Right-wing terror and the rise of white nationalism are the current biggest terrorist threats in the United States, constituting a majority of domestic terrorist cases.**
 
 - [ADL 18](https://www.adl.org/news/press-releases/adl-report-white-supremacist-murders-more-than-doubled-in-2017)
@@ -31,6 +35,10 @@
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/terror-extremism-05.png?raw=true)
 
 - [http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf) pages 44-50
+</details>
+
+<details>
+  <summary>Hate Crimes</summary>
 
 # **Hate Crime**
 **The prevalence of hate crime is growing at increasing rates, especially those crimes with a racial bias, and especially coincide with violent or reactionary rhetoric.**
@@ -52,3 +60,5 @@
 - [ADL 18](https://www.adl.org/news/press-releases/white-supremacist-propaganda-on-us-college-campuses-rises-77-percent-over-past)
   - White supremacist groups continued to escalate their propaganda campaign targeting U.S. college campuses, with incidents **increasing by 77%**  during the 2017-2018 academic year
   - *“White supremacists’ propaganda campaign continues to accelerate, both on and off campus, online and on the ground”*
+
+</details>
