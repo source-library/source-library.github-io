@@ -3,7 +3,7 @@
 <details markdown="1">
 <summary>Murders and Attacks</summary>
 
-  # **Murders and Attacks**
+# **Murders and Attacks**
 **Right-wing terror and the rise of white nationalism are the current biggest terrorist threats in the United States, constituting a majority of domestic terrorist cases.**
 
 - [ADL 18](https://www.adl.org/news/press-releases/adl-report-white-supremacist-murders-more-than-doubled-in-2017)
