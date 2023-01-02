@@ -1,5 +1,8 @@
 **TRANSGENDER ISSUES**
 
+<details markdown="1">
+<summary>Medical Consensus</summary>
+
 # Medical Consensus
 **This is an incomplete list of the reputable scientific & social organizations which affirm the validity of transgender people (that transness is not an illness, that trans people deserve access to transgender healthcare, etc). This also serves as a list of the institutions which recognize the difference between sex and gender. [This list was compiled by the TLDEF and they should be cited when referring to this list](https://transhealthproject.org/resources/medical-organization-statements/ "This list was compiled by the TLDEF and they should be cited when referring to this list").**
 
@@ -32,6 +35,12 @@
 - Society for Adolescent Health and Medicine
 - World Medical Association
 - World Professional Association for Transgender Health
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Medical Transition</summary>
 
 # Medical Transition
 **Medical transition decreases dysphoria, suicide attempts, and improves depression and anxiety. However, most research on this subject is very low quality so we should be open to conducting better future research.** 
@@ -117,6 +126,12 @@ So that leaves us with a much more limited set of options for how we can measure
 Another issue is that as **we are dealing with a small population here** (trans people make up under 1% of the US population, according to nearly all estimates) and certain subsets of this population, e.g. trans people who haven’t had medical transition or are currently going through it, are particularly hard to reach out to. This is especially true for specific topics like trans people in sports (miniscule number of trans athletes) and in the military, for example. This problem of a small population is usually bridged via [convenience sampling](https://en.wikipedia.org/wiki/Convenience_sampling "convenience sampling") and in general by [recruiting small samples rather than going through the extra effort to get a large sample](https://en.wikipedia.org/wiki/Sample_size_determination "recruiting small samples rather than going through the extra effort to get a large sample"), but this also means that our samples are less useful overall. These sample issues can hopefully be avoided more in the future as more attention and funding goes towards studying trans issues.
 We should absolutely keep an eye out for newer, higher quality research as it comes out. In the meantime, we ought to work with the existing research and acknowledge the limitations that come with it.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Social Transition</summary>
+
 # **Social Transition**
 **Social transition improves depression, anxiety, and psychological function**
 
@@ -126,6 +141,11 @@ We should absolutely keep an eye out for newer, higher quality research as it co
 
 - [Journal of the American Academy of Child and Adolescent Psychiatry: Durwood et al. 17](/https://www.jaacap.org/article/S0890-8567\(16\)31941-4/fulltext)
   - **Children who socially transition** report levels of depression and anxiety which **closely match** levels reported by **cisgender children**, indicating social transition massively decreases the risk factor of both.
+------------
+
+</details>
+<details markdown="1">
+<summary>Puberty Blockers</summary>
 
 # **Puberty Blockers**
 **Puberty blockers are safe, well-studied, completely reversible, endorsed by credible medical and endocrinological associations, and effective at reducing dysphoria, anxiety, and depression.**
@@ -141,6 +161,7 @@ We should absolutely keep an eye out for newer, higher quality research as it co
   - **BIG** report on trans youth and transition
   - Endorsed by the **American Academy of Pediatrics** & the **American College of Osteopathic Pediatricians** which affirms the validity of **transgender youth**, encourages **appropriate care and respect** for their transness and provides resouces on how to do so.
   - Outlines TYPES OF TRANSITION: hormone blockers are the **ONLY** treatment used on adolescents and are **COMPLETELY reversible**.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/transgender-01.png?raw=true)
 
 - [Karalexi et al. 20](https://doi.org/10.1016/j.psyneuen.2020.104721)
   - Study on the cognitive side-effects of puberty blockers
@@ -284,6 +305,11 @@ These case studies only focus on one person at a time. While they don’t have t
   - Demonstrates that **puberty blockers can be used to more to help more accurately diagnose gender dysphoria**
   - This should make puberty blockers an appealing option even to people who accept the science around being transgender but still believe that it’s mostly a trend
 
+------------
+</details>
+<details markdown="1">
+<summary>Prevalence of Discrimination</summary>
+
 # **Prevalence of Discrimination**
 **Discrimination against trans people is a real thing and is pervasive in many aspects of society. It’s not something that we can simply ignore when talking about trans people.**
 
@@ -305,6 +331,12 @@ These case studies only focus on one person at a time. While they don’t have t
   - Quantitative survey results came alongside qualitative ‘further comments’ by some respondents to better explain their experiences
   - General trend in play in which **most transgender employees received some support and acceptance, though with a substantial minority experiencing discrimination**
   - Most discrimination tended to come from fellow employees and customers, not so much management.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Impact of Discrimination</summary>
 
 # **Impact of Discrimination**
 **Suicidality is heavily influenced by bullying, discrimination, and poor treatment. Suicide attempt rates are also far higher among individuals who experience substantial discrimination or harrassment. [The ~40% suicide attempt statistic is often misrepresented/misunderstood](https://docs.google.com/document/d/1hL53EbFmjWGeJMYuiN5msDjfjRY35q2K6vi91r0lVjY/edit).**
@@ -422,6 +454,12 @@ An extra bit on calculating *successful* suicide rates:
 
 - [https://jamanetwork.com/journals/jamapediatrics/fullarticle/2704490](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2704490)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Impact of Social/Familial Support</summary>
+
 # **Impact of Social/Familial Support**
 **Family support decreases suicide attempts and drug usage while improving the mental health of trans people.**
 
@@ -456,6 +494,12 @@ An extra bit on calculating *successful* suicide rates:
   - “Social support and discrimination were found to have opposing contributions to QoL”
   - N = 94, median age = 26
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Chosen Name/Pronoun Usage</summary>
+
 # **Chosen Name/Pronoun Usage**
 **The use of trans people’s chosen name decreases suicide ideation, severe depression, and suicide attempts**
 
@@ -469,6 +513,12 @@ An extra bit on calculating *successful* suicide rates:
 Some additional notes:
 - If someone were to adopt children, there's no biological basis for calling them that kid's parent, because they're not biologically related. However, there is a social reason and a legal reason to call them that kid's parent -- functionally, they serve the same purpose as any other parent would, so it makes much more sense to call them parents than it does to call them glorified child buyers. Similarly, it doesn't make sense to use he/him pronouns on a trans woman, nor vice versa. If the trans person identifies and passes as being a certain gender, they ought to be treated with the respective pronouns. In most contexts, the ‘trans-cis’ distinction will be about as relevant as the biological-adopted distinction with parents.
 - "You don't have to call someone by their preferred pronouns." Yeah and you don't have to flush your poop down the toilet after shitting in a public restroom but it's a respectful thing to do.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Bathroom Bills</summary>
 
 # **Bathroom Bills**
 **Evidence for the public safety argument in regards to bathroom bills is unsubstantiated in data. Bathroom bills would give rise to other problems which proponents leave unaddressed as well. Also, check out [this resource](https://dynalist.io/d/VuwRennroubDzZWlQrNI-hqO) for additional material on the subject.**
@@ -555,6 +605,12 @@ Keep in mind that singular incidents don’t actually prove a broader statistica
 - The burden of proof that transphobes for stuff like this can easily be turned against them. Someone could find several instances of cis people harrassing trans people in bathrooms ([which is far more common anyway](https://www.reuters.com/article/us-usa-lgbt-survey-idUSKBN13X0BK)) but that doesn’t justify banning cis people from their respective bathrooms.
 - You don’t want to ask “find me one instance of a bathroom assault”, as you can find one instance of all sorts of unusual things. It’s instead better to ask “show me the statistical trends on bathroom sexual assault" as that information is infinitely more useful when talking about broader societal issues.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Prisons</summary>
+
 # **Prisons**
 
 - [Just Detention International Organization 13](https://justdetention.org/wp-content/uploads/2015/10/FS-Targets-For-Abuse-Transgender-Inmates-And-Prisoner-Rape.pdf)
@@ -567,6 +623,12 @@ Keep in mind that singular incidents don’t actually prove a broader statistica
   - That translates to around 1/1250 prison inmates being trans, and 0.08% is well below the typical 0.6% general population estimate for transgender people.
 
 - [https://transequality.org/blog/federal-survey-40-of-transgender-prisoners-are-sexually-abused-each-year](https://transequality.org/blog/federal-survey-40-of-transgender-prisoners-are-sexually-abused-each-year)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Public Perception and Depiction</summary>
 
 # **Public Perception and Depiction**
 **In media, trans and LGBT people are generally depicted either negatively or in shallow, stereotypical ways. Polling usually shows a substantial minority who oppose trans-affirming policies, though fortunately most Americans are fine with trans people.**
@@ -584,11 +646,18 @@ Keep in mind that singular incidents don’t actually prove a broader statistica
 
 - [UCLA Williams Institute: Luhur, Brown, & Flores 17](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf)
   - While a majority of Americans agree on giving a number of rights to trans people, there is still a substantial minority who oppose such
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/transgender-02.png?raw=true)
 
 - [YouGov 19](https://today.yougov.com/topics/politics/articles-reports/2019/10/11/american-views-transgender-people-poll)
   - A majority of Americans support a number of trans-affirming rights and policies, but there’s still some divide in places and a substantial opposing minority for nearly every related issue
 
 - [https://www.tandfonline.com/doi/full/10.1080/19359705.2013.777007](https://www.tandfonline.com/doi/full/10.1080/19359705.2013.777007)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Trans Athletes</summary>
 
 # **Trans Athletes**
 **Trans athletes are at no significant advantage in athletics, especially since hormones reverse any strength discrepancies, yet face substantial discrimination in athletics. Keep in mind that specific instances of trans people winning sports competitions doesn’t actually prove anything about broader trends. Also worth noting the low quality of much of this research because there’s very few trans athletes and nobody cared about this until like 2015, which means we should be open to new research developments for this topic and a lot isn’t settled science yet**
@@ -647,6 +716,12 @@ Keep in mind that singular incidents don’t actually prove a broader statistica
 
 **On general “fairness” args:** The pretty obvious rebuttal is that sex segregated sports does not somehow make everything fair. Some of this is more general (not all players of the same sex have the same testosterone levels) and some of it is specific to the sport (in basketball, taller players have an obvious advantage over shorter players). In the case of basketball, someone who is 6’4” in height has an obvious biological advantage over someone who is 5’4”, however we allow these two players to compete together while a typical cis man is barred from competing with a typical cis woman because of the man’s biological advantages. The question then comes down to what sort of fairness we want to promote, and for who, as different people benefit from different approaches to fairness in sports. [This article](https://www.outsports.com/2019/4/11/18296976/trans-athlete-fair-sports-rules-lgbtq-fairness) covers the broader point fairly well.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Neurology/Biology</summary>
+
 # **Neurology/Biology**
 **Some trans individuals neurologically reflect cisgender people of their desired gender, suggesting a neurological component to their experiences. This suggests that gender has some biological basis, but not necessarily that gender is 100% biological. There’s obviously a sociological basis to gender and gender roles which complement its biological aspects.**
 
@@ -682,6 +757,12 @@ Keep in mind that singular incidents don’t actually prove a broader statistica
 - [https://sillyolyou.wordpress.com/2019/05/16/the-illusion-of-neurosex-your-brain-is-not-male-nor-female/](https://sillyolyou.wordpress.com/2019/05/16/the-illusion-of-neurosex-your-brain-is-not-male-nor-female/) This source argues that the brain is not truly ‘male’ nor ‘female’ and that the dichotomy doesn’t make much sense in the context of neuroscience
 
 - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987404/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987404/)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Detransition/Regret</summary>
 
 # **Detransition/Regret**
 **Detransitioning is rare in the first place, and when it does happen it is overwhelmingly driven by various forms of discrimination, not uncertainty with regards to identity. Regret rates (distinct from detransition rates) are also very low. This seems to be true for both trans adults and trans kids. Credit for most of this stuff goes to [this doc](https://docs.google.com/document/d/1KxCxhpj1CAOr8CzWow-rUeBZig6q6n49x3MPdFXhzL8/edit?usp=drivesdk) by [u/Albamc35](https://www.reddit.com/user/Albamc35/), feel free to cite it for convenience**
@@ -812,6 +893,12 @@ I'll also leave some links that you can look at about those poor studies and thi
 
 - [https://gidreform.wordpress.com/2017/02/10/revisiting-flawed-research-behind-the-80-childhood-gender-dysphoria-desistance-myth/](https://gidreform.wordpress.com/2017/02/10/revisiting-flawed-research-behind-the-80-childhood-gender-dysphoria-desistance-myth/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Canada's C-16 Bill</summary>
+
 # **Canada’s C-16 Bill**
 **C-16 is about hate crimes, not pronoun usage. Misgendering doesn’t cross the threshold for being a hate crime in Canada.**
 
@@ -845,6 +932,12 @@ I'll also leave some links that you can look at about those poor studies and thi
   - Unrelated to C-16, dealt instead with section 7 of British Columbia’s [Human Rights Code](https://www.bclaws.ca/civix/document/id/complete/statreg/00_96210_01) (keep in mind C-16 was national legislation, not provincial legislation)
   - Whatcott was spreading anti-trans misinformation in general, specifically targeting Oger who was running for political office at the time and lost by a small margin
   - [Original source](https://www.westcoastleaf.org/wp-content/uploads/2019/03/58_Oger_v_Whatcott_No_7_2019_BCHRT_58.pdf) in regards to this case, provides more context — C-16 not cited in it, aside from the *Canadian Human Rights Act* being brought up *once* in 104 pages
+
+------------
+
+</details>
+<details markdown="1">
+<summary>In the Military</summary>
 
 # **In the Military**
 **Transgender people should be allowed to serve in the military. There is a notable lack of evidence for transgender personnel disrupting unit cohesion, and other concerns e.g. costs and deployability disruption aren’t THAT big a deal.**
@@ -896,6 +989,12 @@ If we do want to make a policy decision based on this, though, we could definite
 
 - [Condemnation of the rationale for Trump admin’s transgender military ban by SIX FORMER SURGEONS GENERAL](https://www.palmcenter.org/six-former-surgeons-general-%E2%80%8Brebut-pentagon-assertions-about-medical-fitness-of-transgender-troops/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Depathologization</summary>
+
 # **Depathologization**
 **+ its impact**
 
@@ -929,6 +1028,12 @@ If we do want to make a policy decision based on this, though, we could definite
   - Also acknowledges that characterizing trans people as inherently having a mental illness opens the door to sigmatization and discrimination
 
 - [https://www.apa.org/topics/lgbtq/transgender](https://www.apa.org/topics/lgbtq/transgender) “*A psychological state is considered a mental disorder only if it causes significant distress or disability. Many transgender people do not experience their gender as distressing or disabling, which implies that identifying as transgender does not constitute a mental disorder.*”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Addressing Reactionary Claims</summary>
 
 # **Addressing Reactionary Claims**
 **Some claims about trans people are addressed in [this doc](https://docs.google.com/document/d/1Cx2skhMH-WhVi0VmoW-TQfZ-hbOBupAnsREmZfSAAoI/edit) by [this person](https://www.youtube.com/channel/UCrtaDFiK6Z-v0hqf3sNWhtA), if you want to take a look. [This webpage](https://transgendersg.com/myths/), this [document](https://docs.google.com/document/d/1OLt4soHdYjSmCLRikD1hkLUekr4Mhk9sKf_v4mEXhis/edit) and this [second webpage](https://transgendersg.com/trans-101-faq/) also have a lot of material to work with. Certain myths have also been addressed elsewhere in the Source Library on this page.**
@@ -1065,6 +1170,7 @@ Not always. It depends on the aspects of transition someone chooses to go throug
 - [Leinung et al. 18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5944393/) sometimes cited as [this article](https://www.bumc.bu.edu/busm/2018/02/20/medicine-alone-does-not-completely-suppress-testosterone-levels-among-transgender-women/)
   - **The study claims that hormonal therapy does not help reduce testosterone levels to that of a cis woman’s**
   - However, the study uses the testosterone blocker known as Spiro, which inhibits testosterone receptors rather than stopping its production, making the data useless. On the other hand, [a different study](https://pubmed.ncbi.nlm.nih.gov/15476439/) ([non-paywall](https://eje.bioscientifica.com/downloadpdf/journals/eje/151/4/425.pdf)) using Cypro (a testosterone blocker that actually lowers testosterone in the blood) shows testosterone levels lower than average female levels. This doesn’t mean that HRT doesn’t reduce testosterone, but only that a certain form of HRT isn’t that effective.
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/transgender-03.png?raw=true)
 
 - [PBS: Women fear drug they used to halt puberty led to health problems](https://www.pbs.org/newshour/health/women-fear-drug-they-used-to-halt-puberty-led-to-health-problems)
   - **Commonly cited by anti-trans activists in order to try and prove the false claim that puberty blockers are harmful**
@@ -1136,6 +1242,12 @@ Not always. It depends on the aspects of transition someone chooses to go throug
   - The author also tries to make conclusions about trans youth suicides, but he never actually uses data specific to trans people. Instead, he pulls general suicide data for all of Gen Z and decides that somehow this reflects the specific situation for trans youth. His report doesn’t include any data whatsoever that’s specific to trans youth, even though this is the group of people he’s making such sweeping conclusions about.
   - The author notices that as transgender-related search terms increased, so did the suicide rate among Gen Z. However, this doesn’t mean that the transgender debate or trans people is the big thing fueling Gen Z’s depression. Correlation doesn’t automatically mean causation. In fact, there’s a number of other factors influencing Gen Z’s higher levels of suicidality and those factors are well documented - chalking it all up to “more trans healthcare” is insane.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Additional Resources</summary>
+
 # **Additional Resources**
 
 - [ASAP Science: "The Science of Being Transgender"](https://www.youtube.com/watch?v=MitqjSYtwrQ)
@@ -1195,3 +1307,5 @@ Not always. It depends on the aspects of transition someone chooses to go throug
   - Interesting read, but the research on this specific topic is young so there’s a lot that’s just not conclusive. Also worth noting more research has come out since 2014 which this paper doesn’t account for
 
 - [https://genderanalysis.net/](https://genderanalysis.net/)
+
+</details>
