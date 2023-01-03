@@ -1,3 +1,5 @@
+![](https://github.com/source-library/source-library.github.io/blob/main/assets/title.png?raw=true)
+
 # Welcome Viewers!
 
 This extensive factsheet is a compilation of various studies, datapoints, pieces of academic literature, media, and otherwise helpful and informative resources aimed at combating reactionary rhetoric and detailing the many logical approaches to justifying leftist and progressive values.
