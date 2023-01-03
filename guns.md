@@ -1,4 +1,8 @@
 **GUNS**
+
+<details markdown="1">
+<summary>Violence & Video Games</summary>
+
 # **Violence & Video Games**
 **Violent video games do not cause mass shootings: there is no relationship between aggressive behavior and time spent on violent video games.**
 
@@ -12,3 +16,5 @@
     - It significantly **reduces violent crime** in the evening on the day of exposure
     - by an even larger percent, it reduces violent crime during the night hours following exposure
     - It has no significant impact in the days and weeks following the exposure.
+
+</details>

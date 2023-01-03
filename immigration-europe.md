@@ -2,6 +2,12 @@
 
 [Here’s a better doc](https://docs.google.com/document/d/1TrLqG-EDiNGmKa5Ued3bqY6bd0qozXBGahvPMcGnFXM/edit) for this issue specifically
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Brexit</summary>
+
 # **Brexit**
 - Disproving claims that a majority of EU laws are not influenced by the UK:[ https://fullfact.org/europe/uk-law-what-proportion-influenced-eu/](https://fullfact.org/europe/uk-law-what-proportion-influenced-eu/) 
 
@@ -16,6 +22,12 @@
 - [https://www.dailymail.co.uk/news/article-6793255/MICHAEL-GOVE-backing-Prime-Ministers-deal-EU-ensure-Brexit-happens.html](https://www.dailymail.co.uk/news/article-6793255/MICHAEL-GOVE-backing-Prime-Ministers-deal-EU-ensure-Brexit-happens.html) “Some may say that ditching this deal will allow us to leave without any compromises. But we didn’t vote to leave without a deal. That wasn’t the message of the campaign I helped lead.” - Gove
 
 - [https://www.standard.co.uk/news/politics/brexit-latest-matt-hancock-refuses-to-rule-out-deaths-from-medicine-shortages-in-uk-crashes-out-of-a3990706.html](https://www.standard.co.uk/news/politics/brexit-latest-matt-hancock-refuses-to-rule-out-deaths-from-medicine-shortages-in-uk-crashes-out-of-a3990706.html) “We cannot guarantee people will not die as a result of a no-deal brexit” - Hancock
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Crime</summary>
 
 # **Crime**
 ## Europe Overall
@@ -217,7 +229,13 @@
   - Finds that once immigrants’ economic circumstances are controlled for, the effect of the share of immigrants becomes insignificant, suggesting that immigrants are not ‘inherently’ more likely to commit crimes than the rest of the population. In addition,  results indicate that unemployed immigrants are more likely to commit crimes than unemployed nonimmigrants, because immigrants’ circumstances are more adverse. Hence, because unemployed immigrants tend to have less wealth to support them, lower education, and generally less accumulated capital or opportunities. Thus, policies that improve the economic circumstances of immigrants may go a long way to lowering crime rates.
   - Study does not factor in either age or gender, which may play a role.
 
-# **Jobs and wages**
+------------
+
+</details>
+<details markdown="1">
+<summary>Jobs and Wages</summary>
+
+# **Jobs and Wages**
 
 - [Phillip Connor, Jeffrey S. Passel 19: Pew Research Center](https://www.pewresearch.org/fact-tank/2019/11/14/5-facts-about-unauthorized-immigration-in-europe/)
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/immigration-europe-02.png?raw=true)
@@ -321,6 +339,12 @@
   - Findings are **near-identical**; immigration leads to **across-the-board wage increases** for all except a **small minority of low-education native workers**.
   - Reaffirms conclusion that there is **low substitutability between native workers and immigrant workers**.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Taxes and Welfare</summary>
+
 # **Taxes and Welfare**
 
 - [M. Dolores Collado & Guadalupe Valera 04: International Tax and Public Finance](https://ur.booksc.eu/dl/11289872/a19562)
@@ -378,6 +402,12 @@
   - Routine anonymized data were used to identify people who appear as registering with a general practitioner (GP) for the first time in England yet are aged 15 or over. We assumed that most long-term residents will have registered before the age of 15, and therefore the majority of those registering for the first time later in life will be international immigrants. The study compared hospital admissions among first registrants to the general population of England and to within-England migrants, selected using propensity scoring.
   - The first registrants aged 15 or over had around half the rate of hospital admission as that of the general population of England. They were also less likely to have a hospital admission than a matched group of within-England migrants. The lower admission rates persisted over several years and were consistent in three consecutive cohorts of first registrants (each consisting of over half a million people).
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Economic Growth</summary>
+
 # **Economic Growth**
 
 - [Mongelli I., Ciscar J.-C. 18: Joint Research Center](https://publications.jrc.ec.europa.eu/repository/handle/JRC109196) 
@@ -410,3 +440,5 @@
   - Evidence that immigration has, on average, a positive impact on productivity. Some evidence that this impact is larger for high-skilled migrants than lower-skilled migrants.
   - No evidence that migration has reduced the training opportunities of the UK-born, meaning the quality of their education and therefore their wages don’t suffer as a result.
   - Evidence that migration, especially lower-skilled, has reduced the prices of personal services. Evidence that migration has raised house prices, more in areas where house building is more restricted. The solution is then to make house building easier.
+
+</details>

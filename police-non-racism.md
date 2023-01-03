@@ -1,5 +1,8 @@
 **POLICE - NON-RACISM**
 
+<details markdown="1">
+<summary>Casualties</summary>
+
 # **Casualties**
 - [BMJ Journals Injury Prevention: Miller et al. 17](https://injuryprevention.bmj.com/content/23/1/27)
   - Analyzed 12.3 million police interventions
@@ -18,6 +21,12 @@
 - [Criminal Legal News: Chappell 18](https://www.criminallegalnews.org/news/2018/jun/16/doj-police-shooting-family-dogs-has-become-epidemic/)
   - The DOJ estimates that around **25 to 30** dogs are killed by cops **every day**, with some numbers as high as 10,000 per year.
   - The totals **could be higher** -- most police agencies do not formally track officer-involved shootings involving animals.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Policing Efficacy & Corruption</summary>
 
 # **Policing Efficacy & Corruption**
 - [Goldstein et al. 18](https://www.law.nyu.edu/sites/default/files/upload_documents/YOU_policing.pdf)
@@ -51,7 +60,7 @@
   - The overall standard clearance rate, comparing total crimes reported to police with clearance rates in 2018, is **21.64%, meaning 78.36% of crimes are not cleared.**
   -  **True clearance rates presumably consider a large swath of crimes that could be reported to police but are not. Starting in 1990, the overall true percent of crimes cleared was 10.03%. In 1998, the true percent cleared was 7.92%.216 For 2004 and 2006, the overall true percent cleared was 9.26% and 9.19%, respectively. For 2009, police improved clearance to 12.10% of overall crimes, and in 2014, it was 11.71%. Finally, in 2018 the overall true percent cleared went back down to 10.61%. Overall, true clearance rates in the last thirty years remained around 10%.**
 
-- [**Kleck and Barnes 2010**](https://journals.sagepub.com/doi/abs/10.1177/0011128710382263?journalCode=cadc)
+- [Kleck and Barnes 2010](https://journals.sagepub.com/doi/abs/10.1177/0011128710382263?journalCode=cadc)
   - Tests the association between survey respondents’ perceptions of arrest risk and the level of police strength prevailing in the counties where they live.
   - **“No relationship between the number of police officers per capita and perceptions of the risk of arrest was found, suggesting that increases in police manpower will not increase general deterrent effects and decreases will not reduce these effects. The authors also considered the possibility that police manpower levels influence the number of criminals incarcerated, and thus affect crime rates via the incapacitative effects of incarceration, but concluded that such an effect is unlikely.”**
 
@@ -59,3 +68,5 @@
   - Report on why cops help protect other cops when they abuse their power
   - Goes over framing, perjury, evidence suppression, the “blue wall of silence”, and how the justice system in inadequately equipped to respond
 - [https://onlinelibrary.wiley.com/doi/10.1111/gove.12281](https://onlinelibrary.wiley.com/doi/10.1111/gove.12281)
+
+</details>

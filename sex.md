@@ -1,4 +1,8 @@
 **SEX**
+
+<details markdown="1">
+<summary>Sex Work</summary>
+
 # **Sex Work**
 **Sex work decriminalization (at least on the seller’s side) decreases violence and displacement while supporting risk reduction and peer support networks among sex workers**
 
@@ -18,6 +22,12 @@
 - WIP
   - [https://commons.emich.edu/cgi/viewcontent.cgi?article=1230&context=theses](https://commons.emich.edu/cgi/viewcontent.cgi?article=1230&context=theses)
   - [https://www.eurekalert.org/pub_releases/2017-12/oupu-dpc121917.php](https://www.eurekalert.org/pub_releases/2017-12/oupu-dpc121917.php)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Casual Sex</summary>
 
 # **Casual Sex**
 **Casual sex is generally associated with normal levels of well-being. However, in certain instances, it may be harmful. Certain attitudes towards sexuality tend to moderate the negative psychological effects that may occur in younger individuals.**
@@ -57,3 +67,5 @@
 
 - [Michigan State University: Lie et al. 16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052677/)
   - High frequency of sex is **positively related to later risk of cardiovascular events** for men but not women, whereas good sexual quality seems to **protect women but not men from cardiovascular risk** in later life
+
+</details>

@@ -1,4 +1,8 @@
 **HEALTHCARE**
+
+<details markdown="1">
+<summary>U.S. Healthcare Problems</summary>
+
 # **U.S. Healthcare Problems**
 **U.S. lags behind developed countries on a number of metrics in regards to healthcare, especially in terms of cost-efficiency and effectiveness**
 
@@ -54,6 +58,12 @@
 
 - 50% of polled Americans fear medical bankrupcy [https://news.gallup.com/poll/317948/fear-bankruptcy-due-major-health-event.aspx](https://news.gallup.com/poll/317948/fear-bankruptcy-due-major-health-event.aspx) 
 
+------------
+
+</details>
+<details markdown="1">
+<summary>U.S. Medicare for All</summary>
+
 # **U.S. Medicare for All**
 **Universal health care could save money if properly implemented**
 
@@ -89,6 +99,12 @@
 
 - Sixty-one percent of enrollees who had used their insurance to get care said they would not have been able to afford or access it prior to enrolling. Doctor availability and appointment wait times are similar to those reported by insured Americans overall. Majorities with marketplace or Medicaid coverage continue to be satisfied with their insurance. [https://pubmed.ncbi.nlm.nih.gov/27224966/](https://pubmed.ncbi.nlm.nih.gov/27224966/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>General Universal Healthcare Benefits</summary>
+
 # **General Universal Healthcare Benefits**
 
 - [Kirros et al. 20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7060592/) 
@@ -119,3 +135,5 @@
   - [https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2605525](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2605525)
   - [https://www.americanprogress.org/issues/healthcare/reports/2019/10/18/475908/truth-wait-times-universal-coverage-systems/](https://www.americanprogress.org/issues/healthcare/reports/2019/10/18/475908/truth-wait-times-universal-coverage-systems/) 
   - [https://www.healthaffairs.org/doi/10.1377/hlthaff.2012.1018](https://www.healthaffairs.org/doi/10.1377/hlthaff.2012.1018)
+
+</details>

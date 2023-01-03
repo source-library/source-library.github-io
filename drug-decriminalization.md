@@ -1,4 +1,8 @@
 **DRUG DECRIMINALIZATION**
+
+<details markdown="1">
+<summary>The Drug War - General</summary>
+
 # **The Drug War - General**
 **The war on drugs has wasted billions while coinciding with higher drug usage, production, and creation of new criminals while failing to stop substance abuse in any capacity.**
 
@@ -26,6 +30,12 @@
   - Great article on the failure of the war on drugs, but also features their own study on whether or not locking up drug offenders causes less drug use
   - *'Pew compared state drug imprisonment rates with three important measures of drug problems— self-reported drug use (excluding marijuana), drug arrest, and overdose death—and found **no statistically significant relationship between drug imprisonment and these indicators**'*
   - **The results hold even when controlling for standard demographic variables**, including the percentage of the population with bachelor’s degrees, the unemployment rate, the percentage of the population that is nonwhite, and median household income.*
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Decriminalization</summary>
 
 # **Decriminalization**
 **The decriminalization of marijuana and other drugs has been demonstrated to massively reduce gang violence and decimate illegal markets.**
@@ -57,6 +67,12 @@
   - Looks at adolescent marijuana use before and after legalization of medical marijuana
   - *'There were **no statistically significant differences in marijuana use before and after policy change for any state pairing**. In the regression analysis, we did not find an overall increased probability of marijuana use related to the policy change'*
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Treatment</summary>
+
 # **Treatment**
 **Drug treatment from a public health approach functions far more successfully at reducing drug addiction and abuse**
 
@@ -72,6 +88,12 @@
 
 - [Justice Policy Institute: McVay et al. 04](http://www.justicepolicy.org/uploads/justicepolicy/documents/04-01_rep_mdtreatmentorincarceration_ac-dp.pdf) 
   - Offenders who went through treatment showed a nearly **two-thirds decline** in overall arrests and an over **50% drop** in drug possession arrests
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Safe Consumption Rooms</summary>
 
 # Safe Consumption Rooms
 
@@ -91,3 +113,5 @@
 - [Bayoumi & Zaric 08](https://www.cmaj.ca/content/179/11/1143) 
   - Another study on Vancouver, this time concentrating on cost
   - *‘Focusing on the base assumption of decreased needle sharing as the only effect of the supervised injection facility, we found that the facility was associated with an incremental **net savings of almost $14 million and 920 life-years gained over 10 years**. When we also considered the health effect of increased use of safe injection practices, the incremental net savings increased to **more than $20 million and the number of life-years gained to 1070**. Further increases were estimated when we considered all 3 health benefits: the incremental **net savings was more than $18 million and the number of life-years gained 1175**.’*
+
+</details>

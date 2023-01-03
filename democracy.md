@@ -1,4 +1,11 @@
 **DEMOCRACY (USA)**
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Flawed Democracy</summary>
+
 # **Flawed Democracy**
 - [EIU Index 18](http://www.eiu.com/topic/democracy-index)
   - America’s position among other nations -- it doesn’t even make the top ten
@@ -15,6 +22,12 @@
   - Even though voter fraud in america isn’t a big deal, these flaws still expose it to voter fraud and need to be dealt with
 
 - [https://www.aclu.org/sites/default/files/field_document/aclu_voter_id_fact_sheet_-_final.pdf](https://www.aclu.org/sites/default/files/field_document/aclu_voter_id_fact_sheet_-_final.pdf)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Electoral College</summary>
 
 # **Electoral College**
 **The EC distorts the popular vote, discourages voters in non-swing states, and has maintained net unpopularity among Americans over time.**
@@ -113,6 +126,12 @@ There's a number of indicators that show small, rural counties fare worse econom
 
 Most states are a mix of farmland and cities - SC, PA, NC, OH, AL, TN, NY, KS, NE, and so on. Some of these states are big (OH, NY, NC) and some are small (KS, NE). The idea that most states are either “all urban” or “all rural”, which is somewhat implied with the claim, is just false.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Gerrymandering</summary>
+
 # **Gerrymandering**
 - [Committee for Economic Development 18](https://www.ced.org/reports/solving-the-problem-of-partisan-gerrymandering%23section4)
   - “An analysis of districting plans conducted by [Professor Simon Jackman of Stanford University](https://campaignlegal.org/sites/default/files/Jackman-WHITFORD%20V.%20NICHOL-Report_0.pdf), which encompassed 786 state legislative elections in 41 states in the period from 1972–2014, found that the maps approved in the most recent redistricting cycle exhibited some of the worst partisan asymmetries at both the congressional and state level in the past 40 years.”
@@ -124,6 +143,12 @@ Most states are a mix of farmland and cities - SC, PA, NC, OH, AL, TN, NY, KS, N
   - Disproportionately harms communities of color, as African-Americans represent 41.3% of our prison population
   - Rural communities also use their incarcerated population to increase their political influence, as they only make up 20% of the U.S. population, but host 40% of all incarcerated persons. Additionally, states with predominantly rural areas are more likely to deny incarcerated persons voting rights.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Felon Disenfranchisement</summary>
+
 # **Felon Disenfranchisement**
 
 - [Sentencing Project 2016](https://www.sentencingproject.org/publications/6-million-lost-voters-state-level-estimates-felony-disenfranchisement-2016/)
@@ -134,6 +159,12 @@ Most states are a mix of farmland and cities - SC, PA, NC, OH, AL, TN, NY, KS, N
     - “Assuming that Democrats who might have been elected in the absence of felon disenfranchisement had held their seats as long as the Republicans who narrowly defeated them, we estimate that the Democratic Party would have gained parity in 1984 and held majority control of the U.S. Senate from 1986 to [2002].”
     - Bush’s victory in 2000 against Al Gore would have been reversed as well
     - “Disenfranchised felons and ex-felons currently make up 2.28 percent of the voting-age population”; “because the margin of victory in 3 of the last 10 presidential elections has been 1.1 percent of the voting-age population or less, felon disenfranchisement could be a decisive factor in future presidential races.”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Voter Fraud</summary>
 
 # **Voter Fraud**
 - [https://scholars.org/sites/scholars/files/ssn_key_findings_minnite_on_the_myth_of_voter_fraud.pdf](https://scholars.org/sites/scholars/files/ssn_key_findings_minnite_on_the_myth_of_voter_fraud.pdf)
@@ -154,6 +185,12 @@ Most states are a mix of farmland and cities - SC, PA, NC, OH, AL, TN, NY, KS, N
 
 - [https://threadreaderapp.com/thread/1324435797374808066.html](https://threadreaderapp.com/thread/1324435797374808066.html) big twitter thread responding to some of the more common myths about 2020 voter fraud, irregularities, etc
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Reforms to Democracy</summary>
+
 # **Reforms to Democracy**
 **[This doc](https://docs.google.com/document/d/1a1xEn2NCXCPOoFWxYZD0Bc6TZrJgpcQTsj6Rp19gdDk/edit) includes much more on the subject and is definitely worth a look.**
 
@@ -163,6 +200,12 @@ Most states are a mix of farmland and cities - SC, PA, NC, OH, AL, TN, NY, KS, N
   - [https://www.researchgate.net/publication/248874800_Why_Compulsory_Voting_Can_Enhance_Democracy](https://www.researchgate.net/publication/248874800_Why_Compulsory_Voting_Can_Enhance_Democracy)
 
   - [http://archive.unu.edu/unupress/sample-chapters/full_participation_web.pdf](http://archive.unu.edu/unupress/sample-chapters/full_participation_web.pdf) 
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Authoritarianism</summary>
 
 # **Authoritarianism**
 **Despite common belief, authoritarian and autocratic states fare poorly on economic indicators**
@@ -174,3 +217,5 @@ Most states are a mix of farmland and cities - SC, PA, NC, OH, AL, TN, NY, KS, N
 - [https://www.nber.org/papers/w20004.pdf](https://www.nber.org/papers/w20004.pdf)
 
 - [https://journals.sagepub.com/doi/abs/10.1177/0022002795039001001](https://journals.sagepub.com/doi/abs/10.1177/0022002795039001001)
+
+</details>

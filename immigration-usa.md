@@ -2,6 +2,9 @@
 
 Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1TrLqG-EDiNGmKa5Ued3bqY6bd0qozXBGahvPMcGnFXM/edit%23) as well – much more up-to-date and thorough than what the Source Library has to offer.
 
+<details markdown="1">
+<summary>Crime</summary>
+
 # **Crime**
 **Immigrants to the US commit less crime than native citizens.**
 
@@ -40,6 +43,12 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
   - Specifically deals with DACA and local crime rates
   - **“Thee results of this analysis show no evidence that DACA statistically significantly affected the incarceration rate of undocumented youth. Furthermore, [..] implementation of DACA is not associated with a statistically significant change in violent crime rate.”**
   - **“ However, there is evidence that the enactment of DACA is associated with lower property crime rates. An increase of one DACA application approved per 1,000 population (∼1 S.D. increase) is associated with 1.6% decline in overall property crime rate. Further analysis shows that this reduction is driven by the decline in burglary and larceny rates.”**
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Diversity Doesn't Hurt Social Cohesion</summary>
 
 # **Diversity Doesn’t Hurt Social Cohesion**
 **Diversity and immigration don’t hurt social cohesion. Keep in mind that this section is not focused specifically on mass immigration. (credit to [Mouthy Infidel](https://www.youtube.com/channel/UCTqctWuiqMJBehe1BH0JKtg) for some of this research) Keep in mind that this research needs to be reviewed again by us because I’ve heard it misrepresents stuff and lacks nuance**
@@ -86,6 +95,12 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
 
 - [https://journals.sagepub.com/doi/10.1177/1745691615598513](https://journals.sagepub.com/doi/10.1177/1745691615598513)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Economic Growth</summary>
+
 # **Economic Growth**
 **Immigrants greatly benefit the economy, growth, and innovation**
 
@@ -116,6 +131,12 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
 
 - [https://www.kauffman.org/resources/entrepreneurship-policy-digest/the-economic-case-for-welcoming-immigrant-entrepreneurs/](https://www.kauffman.org/resources/entrepreneurship-policy-digest/the-economic-case-for-welcoming-immigrant-entrepreneurs/)
   - immigrants are twice as likely to become entrepreneurs and that number is going up. A quarter of engineering and technology companies started in the United States between 2006–2012  had at least one key founder who was an immigrant. Immigrant startups hire over 500,000 in America and they generated $63 billion in sales in 2012. Immigrant founders from top venture-backed firms have created an average of approximately 150 jobs per company in the United States
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Jobs and Wages</summary>
 
 # **Jobs and Wages**
 **Immigrants are a necessary component of the job market and entrepreneurship. Low-skill immigrants only sometimes cause minor depressions in the wages of low-skill native workers (those without high school diploma) and other low-skill immigrants, yet even in these cases, wage depressions are very small.**
@@ -166,6 +187,12 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
   - Keep in mind, that legalization occurred at the same time in a period when the U.S. unemployment rate rose from 5.3% to 7.5%
   - “Almost immediately, **IRCA-based legalization had the effect of giving rights to more workers, raising the low wage floor of the economy, reducing the demand for easily exploitable immigrants, and reducing illegal crossings and apprehensions**. (-- without huge expenditures on a border wall).”
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Taxes and Social Security</summary>
+
 # **Taxes and Social Security**
 **(Undocumented) Immigrants consistently pay into the system**
 
@@ -187,6 +214,12 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
 
 - [https://www.brookings.edu/wp-content/uploads/2016/07/braingain_chapter.pdf](https://www.brookings.edu/wp-content/uploads/2016/07/braingain_chapter.pdf)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Public Benefits</summary>
+
 # **Public Benefits**
 **Immigrants use less public benefits than native citizens**
 
@@ -199,6 +232,12 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
     - **33 percent** of native citizens, **25 percent** of naturalized citizens, and **29 percent** of non-citizens received SNAP benefits in 2011’
   - SSI / INCOME
     - SSI receipt was **higher for native** and naturalized citizens than non-citizen immigrants.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Deportation</summary>
 
 # **Deportation**
 **From a purely economic perspective, mass deportation of illegal immigrants would severely undermine stability and economic well-being**
@@ -228,8 +267,16 @@ Check out [this document by MrKazuma](https://docs.google.com/document/u/1/d/1Tr
 
 - [Fellow & Lum 13](http://www.strategycenter.net/docLib/20130224_CenAmGangsandTCOs.pdf): ([And a very good news source for elaboration](https://www.latimes.com/local/la-me-gang30oct30-story.html)) One of the most pivotal findings from a report on transnational criminal organizations and Central American gangs finds that one of the most infamously known gangs, MS-13, “is actively seeking to expand its presence around Latin America and Europe through a variety of methods” which primarily included “**seeking deportation to countries where they do not yet have a presence in order to begin forming new structures**.” Where they “would falsely declare one of those countries as their country of origin when arrested and facing deportation from the United States or elsewhere. Since gang members seldom have travel documents, authorities cannot prove an individual is not from the country he declares as his point of origin. **Some of the deportations are reported to be deliberately planned as a way for a selected MS-­‐13 member to obtain a ‘free ride’ to a specific country**.” Through targeting deportations, the gang is able to deepen their influence through gathering more recruits and resources across countries, only later to come back to the US even bigger than before, and a vicious cycle is born.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Southern Border</summary>
+
 # **Southern Border**
 
 - Study that shows The Family Case Management program for asylum seekers in the US achieved a 99% compliance rate with ICE and immigration court requirements at a fraction of the cost of Trump's concentration camps proving they are just an expensive tax-payer-funded fascist virtue signaling policy. [https://reliefweb.int/report/united-states-america/family-case-management-program-why-case-management-can-and-must-be-part](https://reliefweb.int/report/united-states-america/family-case-management-program-why-case-management-can-and-must-be-part)
 
 - Amnesty International identified Trump's policies in regards to the concentration camps for asylum seekers to be in violation of human rights and international law and standards. [https://www.amnesty.org/en/latest/research/2018/10/usa-treatment-of-asylum-seekers-southern-border/](https://www.amnesty.org/en/latest/research/2018/10/usa-treatment-of-asylum-seekers-southern-border/)
+
+</details>

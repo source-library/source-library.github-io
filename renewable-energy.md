@@ -1,4 +1,8 @@
 **RENEWABLES**
+
+<details markdown="1">
+<summary>Effectiveness</summary>
+
 # **Effectiveness**
 **Renewable sources of energy are becoming cheaper, more reliable, and more viable**
 
@@ -14,3 +18,5 @@
     - We do not need to alter the design of the electric grid radically to accommodate 100 percent renewables: The shift is well underway and accelerating.
     - **Costs won’t be overwhelming**. A grid based on 100 percent renewables can compete in cost with fossil fuel systems, even before factoring in the tremendous costs of pollution, global warming and water usage.
     - A number of nations and regions are at or close to 100 percent renewables already, including Denmark, Norway and parts of Germany. Canada is at 62 percent renewables and Brazil at 76 percent.
+
+</details>

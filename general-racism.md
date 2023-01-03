@@ -1,4 +1,8 @@
 **GENERAL RACE/RACISM**
+
+<details markdown="1">
+<summary>Racism Misconceptions</summary>
+
 # **Racism Misconceptions**
 
 ### **1. "How does institutional racism explain disparities?"**
@@ -58,6 +62,12 @@ The psychic hold of slavery is not a set of mental manacles that hold us back fr
 
 If you have such a problem about hearing race 24/7, take it up with the founders of this country and their descendants who benefit from it.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Subconscious Bias</summary>
+
 # **Subconscious Bias**
 **Even disregarding forms of overt racism, subconscious bias has been demonstrated by a number of studies and undoubtedly affects others forms of discrimination against black people. Neuroscience studies have shown that different regions of the brain are activated in conscious versus unconscious processing, suggesting that unconscious processes are distinct mental activities. Implicit biases are more likely to drive behavior under conditions of ambiguity, high time pressures and cognitive loads, or inattentiveness to the task.**
 
@@ -91,6 +101,12 @@ If you have such a problem about hearing race 24/7, take it up with the founders
   -  In the penultimate year before Trump’s reelection campaign, **the strongest predictors of supporting Trump, in order of magnitude, were political party, xenophobia, identifying as African American (negative), political ideology, Christian nationalism, and Islamophobia.** 
 
 - [https://www.researchgate.net/publication/10974305_The_Police_Officer's_Dilemma_Using_Ethnicity_to_Disambiguate_Potentially_Threatening_Individuals](https://www.researchgate.net/publication/10974305_The_Police_Officer)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Housing/Lending</summary>
 
 # **Housing/Lending**
 **While racial disparities/discrimination have declined in some forms here, it is still persistent in others. Historically, housing discrimination was big against black people, and the effects of such have carried on into the present day.**
@@ -187,6 +203,12 @@ If you have such a problem about hearing race 24/7, take it up with the founders
   - [https://lusk.usc.edu/sites/default/files/working_papers/Wolch.parks_.pdf](https://lusk.usc.edu/sites/default/files/working_papers/Wolch.parks_.pdf)
   - [https://www.nrs.fs.fed.us/pubs/jrnl/2009/nrs_2009_boone_001.pdf](https://www.nrs.fs.fed.us/pubs/jrnl/2009/nrs_2009_boone_001.pdf)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Jobs and Hiring</summary>
+
 # **Jobs and Hiring**
 **Black people have less access to good jobs than whites, and experience a disproportionate amount of job hiring discrimination compared to whites.**
 
@@ -231,6 +253,12 @@ If you have such a problem about hearing race 24/7, take it up with the founders
 ### **2. "The welfare state made black people unemployed."**
 
 The link between welfare and joblessness is groundless and blinds us to what actually happened, leading to a distorted and dehumanizing understanding of both racism and poverty in the US. For unemployment rates to reach the massive rates they did (around 40-50% for the lowest-skilled Black working-age men from 1980-2000, compared to 20-25% among the same demographic from 1940-1960,) there is almost always a problem with the number of jobs available, not simply how many people want to work. So what would decrease the number of jobs available? First, there was a large wave of Black migration from the rural south to the urban north and west—as well as the urban south—in the 1940s and 50s, and the cities from the urban north were never able to provide enough jobs for all of these folks (who were seeking reprieve from the brutality and economic exploitation of the Jim Crow south). Racism drove them to these cities, where they were segregated into neighborhoods of other poor Black folks. Even though there weren’t enough jobs to go around, the manufacturing boom gave enough employment to improve the lot of many fleeing the south, reducing poverty during the '60s. Then, deindustrialization. The economy began to transition from an industrial and manufacturing economy—where most of the Black folks in these cities worked—to a deindustrialized, service-based economy in the ‘60s, ‘70s, and ‘80s. Capital (and the affluent, disproportionately white population, as well as the small Black middle class) moved out of cities and into suburbs, and the employment system Black folks had relied upon and which had already strained under the number of jobseekers finally collapsed. The welfare state policies of the War on Poverty were not useless, but they did not come anywhere close to the scope of the problems caused by these other structural factors. The knock-on effects of this concentration and subsequent deindustrialization were the rise in crime and decline in marriage that people often erroneously pin on welfare state programs. If a huge proportion of working-age men in your community cannot find any work, you can expect that many of them might seek out less legitimate ways of earning money through crime, and this would cyclically break down social networks of care and trust. The loss of tax dollars from the affluent residents of cities who had moved to the suburbs meant that services and infrastructure that were most necessary were crippled. You might expect that women would struggle to find men they were willing to marry if jobs were scarce. It certainly did not help that means-tested benefits would often drop off sharply if you were married, but this is not an inevitable feature of the welfare state. It’s the result of a badly designed policy. Universal benefits—say, a child allowance—that do not change if you get married would not have this disincentive effect. Pointing to the moment when the War on Poverty programs started and then pointing at the rise of unemployment and crime in the latter half of the 20th century is exactly the problem with correlation not being the same as causation and it’s a post hoc fallacy too. The problem is that the story basically ignores any structural factor other than welfare—and quite a number of things happened in the lead-up to the dramatic rise of unemployment and crime that you link to the welfare state. Popular videos on the internet again and again show the problem of correlation: there’s no time spent establishing that the welfare state was the primary cause, you’re just simply asserting it to be so. International comparisons also cast doubt on this story. If welfare disincentivizes work, you would expect that countries that spend a lot on welfare also have lower rates of work. But this is not at all what we find: employment rates and workforce participation rates are consistently high in countries like the Nordics where welfare spending is also much higher than in the US. We’ve gotten it wrong and blamed poor and Black people for social problems that would not exist without massive structural factors working against them. If we want to know how to help the least of these, we must first know why things are the way they are. In the case of this phenomenon, racism and deindustrialization—not the growth of America’s modest welfare state—were the driving forces.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Education</summary>
 
 # **Education**
 - [Jarvis et al. 19](https://journals.sagepub.com/doi/abs/10.1177/1948550619875150?mod=article_inline) ([cited](https://www.marketwatch.com/story/black-children-are-more-likely-to-be-disciplined-than-white-kids-for-the-same-behavior-2019-10-16))
@@ -319,6 +347,12 @@ The link between welfare and joblessness is groundless and blinds us to what act
 
 - Despite efforts to improve the situation on college and university campuses, such as implementing affirmative action plans, anti-Black racism and violence continue to occur. [https://journals.sagepub.com/doi/10.1177/0002764207307742](https://journals.sagepub.com/doi/10.1177/0002764207307742)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Voting and Voter ID</summary>
+
 # **Voting and Voter ID**
 **Voter ID isn’t inherently racist but can and has been strategically used before to target racial minorities. Strict Voter ID laws tend to disproportionately impact minorities.**
 
@@ -365,6 +399,12 @@ The link between welfare and joblessness is groundless and blinds us to what act
 
 - [https://www.snopes.com/fact-check/north-carolina-voter-id/](https://www.snopes.com/fact-check/north-carolina-voter-id/) North carolina again but in 2013-4
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Youth</summary>
+
 # **Youth**
 **Focusing on black youth is particularly important as racial discrimination can still impact them even in these more formative years, setting them up for a worse future compared to their white peers.**
 
@@ -373,6 +413,12 @@ The link between welfare and joblessness is groundless and blinds us to what act
 
 - [The Essence of Innocence: Consequences of Dehumanizing Black Children](www.apa.org/pubs/journals/releases/psp-a0035663.pdf) 
   - "We find converging evidence that Black boys are seen as older and less innocent and that they prompt a less essential conception of childhood than do their White same-age peers. Further, our findings demonstrate that the Black/ape association predicted actual racial disparities in police violence toward children."
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Affirmative Action</summary>
 
 # **Affirmative Action**
 **Affirmative action is about accounting for the inequality experienced in school systems. Despite studies showing that students benefit from having teachers who look like them, the overwhelming majority of teachers are white, even in areas with a high percentage of racial minorities and black people aren’t treated well in the school system either. Many children enter the public school system without knowing English and somehow manage to make enough progress to graduate high school with high GPAs. Not to mention the differences between ethnicities that have low levels of parent involvement in education due to systemic racism. Affirmative action isn't about skin color, it's about accounting for struggles overcome that other students haven't dealt with. Overlooking these factors would not only be unfair to minorities, but it would mean that colleges wouldn't always get the best students.**
@@ -438,6 +484,12 @@ Income-based approaches don’t yield equal results when it comes to increasing 
 - A study sponsored by the Office of Federal Contract Compliance Programs showed that between 1974 and 1980 federal contractors (who were required to adopt affirmative action goals) added Black and female officials and managers at twice the rate of non contractors. [https://eric.ed.gov/?id=ED248283](https://eric.ed.gov/?id=ED248283)
 
 - There have also been a number of well-publicized cases in which large companies (e.g., AT&T, IBM, Sears Roebuck) increased minority employment as a result of adopting affirmative action policies.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Black Culture</summary>
 
 # **Black Culture**
 **Culture is still an institution/system. Implicit learning of culture is largely subliminal but people pick up on certain cultural cues throughout the course of their life and learn certain behaviors based on how those around them act. This comes as a direct or indirect result of their material conditions; in fact in order to change the “culture”, the environment would have to change completely.**
@@ -636,6 +688,12 @@ This topic also wraps into the work of researcher Lee Jussim, who has heavily ad
 - <https://archive.ph/BqQ7X> 
  - Thread shows why the data is often horribly wrong - **read the thread**
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Racial Segregation (Historical)</summary>
+
 # **Racial Segregation (Historical)**
 **Compilation of historical documents and sources regarding racial segregation across the globe**
 
@@ -716,6 +774,12 @@ Slavery was a contentious issue from the start. In the original draft of the dec
 
 The number was between 20 and 25%, and in some states, the rate was twice as high. According to the 1860 census every third white person in those states had a direct commitment to slavery. [https://socialequity.duke.edu/wp-content/uploads/2020/08/8.10.20.pdf](https://socialequity.duke.edu/wp-content/uploads/2020/08/8.10.20.pdf) [https://www.politifact.com/factchecks/2020/jul/30/facebook-posts/us-was-one-last-countries-abolish-slavery/](https://www.politifact.com/factchecks/2020/jul/30/facebook-posts/us-was-one-last-countries-abolish-slavery/)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Defending Juneteenth</summary>
+
 # **Defending Juneteenth**
 **This is a relatively minor issue, but worth including just for when it comes around on the calendar (also because most of the arguments against Juneteenth are embarrassingly bad, so it’s more fun to rebut them)**
 
@@ -728,6 +792,12 @@ The number was between 20 and 25%, and in some states, the rate was twice as hig
 4. **"It's a pointless virtue signal that doesn't lead to actual meaningful change."** For once, this is true. We should work towards meaningful policies which actually work to improve the condition of minority communities. However, it is worth noting that if Juneteenth doesn't really change anything, getting it repealed won't change anything either - so saying it's a virtue signal isn't a very compelling argument for *removing* the holiday. It's also worth noting that holidays in general are virtue signals that don't have much of an impact on the country - July 4th, for example, is essentially a virtue signal in support of American independence, but the fact that it’s just a virtue signal is not a compelling argument to stop celebrating July 4th.
 
 5. **"It's another pride day that we don't need. We already have gay pride month, black history month, and so on. Why do we need more pride celebrations?"** Celebrating the abolition of slavery isn't necessarily something only black people can take pride in, but rather it's something everyone can take pride in as a step forward for America as a whole. Also, we can brand plenty of holidays as "pride days" and then use that as a pretext to oppose them. Going back to July 4th, we could easily rebrand that as "American pride day" and then ask why we have yet another unneeded pride day on our calendars. What's essentially happening with Juneteenth in this case is the rebranding of "celebrating slavery's abolition" into "celebrating black pride" so it can be dismissed as another pride day.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Additional Resources</summary>
 
 # **Additional Resources**
 - [https://greatergood.berkeley.edu/article/item/what_happens_when_you_educate_liberals_about_white_privilege](https://greatergood.berkeley.edu/article/item/what_happens_when_you_educate_liberals_about_white_privilege)
@@ -763,3 +833,5 @@ If someone makes this claim, they’re making a positive statement. In order for
 - Prove how when including the confounded invariably doesn’t introduce multicollinearity in the model.
 
 Systemic racism is a field of study that uses inductive reasoning. Including too many variables in a model can lead to [overfitting](https://en.wikipedia.org/wiki/Overfitting "overfitting") which can produce biased results. In disparate impact testing, the primary statistical concern is most often “included variable bias” – the worry that the statistical estimates of disparate impact are biased because the regression inappropriately includes non-race variables.
+
+</details>

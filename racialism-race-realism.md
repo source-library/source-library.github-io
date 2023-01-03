@@ -1,5 +1,8 @@
 **RACIALISM AND RACE REALISM**
 
+<details markdown="1">
+<summary>General</summary>
+
 # **General**
 **Race is an arbitrary social category: there is more differentiation among members of a race than between races. This is backed up by a consensus among anthropology researchers and experts.**
 
@@ -18,6 +21,12 @@
 - [Complexity, Genetic Causation, and Hereditarianism](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1148&context=humbiol_preprints) (Alternative approach to hereditarianism)
 
 - **This topic matters** in regards to the spread of white supremacy (see: [Panofsky et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.24150?af=R)) and how information is spread ([Carlson & Harris 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000860&utm_source=STAT+Newsletters&utm_campaign=a67d95b43c-MR_COPY_01&utm_medium=email&utm_term=0_8cab1d7961-a67d95b43c-149575301))
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Race Classification</summary>
 
 # **Race Classification**
 
@@ -113,6 +122,12 @@ Rebuttals:
 - West African Sprinters as evidence of meaningful racial categorization?
   - Often posited is the claim that racial differences are represented in sports such as in the Olympics. For example, most men of the Olympics 100M have been males of West Arica origin. This claim is, however, irrelevant as we would then expect those with the “most West African ancestry” to do best on these events. However, this is not shown from actual data: [see here](https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/IOC/Who-We-Are/Commissions/Medical-and-Scientific-Commission/Encyclopaedia/2011_Bouchard.pdf%23page=137)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Nature vs Nurture</summary>
+
 # **Nature vs Nurture**
 - [Bird 20](https://osf.io/preprints/socarxiv/2qfkt/)
   - Respond to two major claims by proponents of the genetic hypothesis:
@@ -151,6 +166,12 @@ Rebuttals:
 - WIP
   - [https://www.nature.com/articles/nature02842](https://www.nature.com/articles/nature02842)
   - [Rosenberg et al. 18](https://academic.oup.com/emph/article/2019/1/26/5262222)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Twin Studies and EEA</summary>
 
 # **Twin Studies and EEA**
 
@@ -244,6 +265,12 @@ While adoption studies suffer fewer flaws than do Twin studies ([Joseph 2013](ht
 - [Briley & Tucker-Drob 13](https://pubmed.ncbi.nlm.nih.gov/23818655/)
 - From Dickens 19 down: gene-environment interaction and gene-environment (evocative and active) correlation explanations of the increase.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>GWAS & PGS</summary>
+
 # **GWAS & PGS**
 
 - [Richardson & Jones 19](https://www.sciencedirect.com/science/article/abs/pii/S0732118X1830196X?via%3Dihub) 
@@ -297,7 +324,13 @@ Rebuttals:
     - They found that there are “lower prediction accuracies for PGS based on sib-based GWAS” which “indicate that complications such as assortative mating or indirect effects contribute to the standard GWAS estimates”
     - The application of Mostafavi’s results to Lee et al. is that they find prediction accuracy can differ even across groups with similar ancestry. They also imply that controlling for environmental variance will not be enough as factors like “differences in the magnitude of genetic effects among groups, indirect effects and assortative mating, also lead to differences in the prediction accuracy of PGS, in ways that may make applications of phenotypic prediction less reliable, even within a single ancestry group”
 
-# **Missing heritability & Nonadditive variation**
+------------
+
+</details>
+<details markdown="1">
+<summary>Missing Heritability & Nonadditive Variation</summary>
+
+# **Missing Heritability & Nonadditive Variation**
 - [Kim et al. 17](https://pubmed.ncbi.nlm.nih.gov/28893854/)
   - The search for missing heritability has NOT concluded
 
@@ -319,6 +352,12 @@ Rebuttals:
   - gene-gene interactions explain ~4.3% of variance, and in some cases interaction explaining more than the additive part
 
 - **Dominance variation contributes little to the missing heritability** ([Nolte et al. 17](https://www.nature.com/articles/ejhg201750?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_deeplink_PID100011630&utm_content=deeplink), [Sanjak et al. 16](https://www.biorxiv.org/content/10.1101/048819v2), [Zhu et al. 15](https://www.cell.com/ajhg/fulltext/S0002-9297\(15\)00009-9))
+
+------------
+
+</details>
+<details markdown="1">
+<summary>IQ and g</summary>
 
 # **IQ and g**
 
@@ -622,15 +661,33 @@ Rebuttals:
   - Well-structured tasks had high correlations with each other, while the same was true for brainstorming, the creative task.
   - The average correlation of well-structured tasks is r = 0.49, while the correlation for  creativity on the first factor is r = 0.35.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Race and Craniology</summary>
+
 # **Race and Craniology**
 
 There is a huge section about this in [this document debunking scientific racist myths](https://docs.google.com/document/d/1-ZJhkME8qqfm7GVLLk8tGwWNriWCl8UTRMlcCuNW-_Q/edit%23heading=h.xcbe3fwsse0q), which debunks both the premises behind studies of craniology in race, and debunks many specific studies used by racists
 
-# **Public Perception (Regarding genetics)**
+------------
+
+</details>
+<details markdown="1">
+<summary>Public Perception (Regarding Genetics)</summary>
+
+# **Public Perception (Regarding Genetics)**
 
 ` `“… people seem to deploy elements of fatalism or determinism into their worldviews or life goals when they suit particular ends, either in ways that are thought to ‘explain’ why other groups are the way they are or in ways that lessen their own sense of personal responsibility (Condit, 2011)” ([Alexander, 2017: 17-18](https://www.cambridge.org/core/books/genes-determinism-and-god/FBC3ADE65CD0C8F211D2AED04A0D7D92)).
 
 the public understands genes as playing more of a role when it comes to bodily traits and environment plays more of a role when it comes to things that humans have agency over—for things relating to the mind ([Condit & Shen 11](https://www.karger.com/Article/PDF/314915))
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Testosterone Differences?</summary>
 
 # **Testosterone Differences?**
 **Often cited by hereditarians are inaccurate claims on the differences of Testosterone (T) between races and its implications. Here are some sources often cited by hereditarians to support their hierarchical view on testosterone differences and counterarguments.**
@@ -663,6 +720,12 @@ the public understands genes as playing more of a role when it comes to bodily t
 - What about Asians? See [here](https://ethnicmuse.wordpress.com/2013/04/19/east-asian-testosterone-i/)
 
 - Now, because the racial differences in testosterone have shown to be vastly lower than hereditarians claim, connections to crime are also inaccurate. no matter if it’s prenatal androgen exposure or not, the evidence is clear that testosterone is not the cause of things like prostate cancer, aggression, and crime (for crime see [here](http://racehist.blogspot.com/2009/10/can-racial-differences-in-circulating.html?m=1) and [here](https://notpoliticallycorrect.me/2017/06/18/why-testosterone-does-not-cause-crime/))
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Race & Crime</summary>
 
 # **Race & Crime**
 
@@ -727,7 +790,13 @@ No one is claiming that it does, but if you are poor, you are statistically more
 
   - Most crime is within races anyway, applies to whites too
 
-# Taboo on Race & Intelligence is nonexistent
+------------
+
+</details>
+<details markdown="1">
+<summary>Taboo on Race & Intelligence is Nonexistent</summary>
+
+# Taboo on Race & Intelligence is Nonexistent
 
 [Jackson & Winston 20](https://journals.sagepub.com/doi/abs/10.1177/1089268020953622)
 - Analysis of 4 core arguments hereditarians make in their claims about being silenced
@@ -764,12 +833,24 @@ No one is claiming that it does, but if you are poor, you are statistically more
 - Finally, while there certainly is no movement to silence hereditarians through the means listed above, :
   - “...there is a substantial scholarly literature that is almost never discussed or cited. We refer to the five decades of careful, archival investigations documenting the involvement of psychologists and the Pioneer Fund with the campaign to overturn the Brown decision and preserve segregation, anti-immigration activism, and active involvement with neo-Nazi groups (Billig, 1979; J. P. Jackson, 2005; Lombardo, 2002, 2003; Newby, 1969; Saini, 2019; Tucker, 1994, 2002, 2003, 2009; Winston, 1998)”
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Modern Eugenics</summary>
+
 # **Modern Eugenics?**
 
 - [Wilson 2019](https://philarchive.org/archive/WILEU-3)
   - Attempts to redefine eugenics represents a blatant disregard for history and policy implications
   - Even then, modern attempts at redefining eugenics to fit the hereditarian narrative are confusing
   - The aftermath of WWII did not cause a slew of anti-hereditarian beliefs to suddenly arise (arguments against race, arguments against g, etc….)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Certain Authors</summary>
 
 # **Certain Authors**
 
@@ -910,3 +991,4 @@ Ned Block's rebuttal of Bell Curve. [https://www.nyu.edu/gsas/dept/philo/faculty
 
 **Donald Templer**
 
+</details>

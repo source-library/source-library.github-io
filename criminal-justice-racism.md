@@ -12,7 +12,13 @@ A few major links I’d cite when it comes to quickly proving CJS systemic racis
 
 - [White Privilege and Systemic Racism Resources](https://docs.google.com/document/d/1Qq2ahq5EW5njcOjx3Ai5yQGEfHvIgo87UCcsOCftPmI/edit%23heading=h.bg8913y78pso)
 
-A youtube video which goes over a lot of evidence: [https://www.youtube.com/watch?v=fAA-w5DiAAU](https://www.youtube.com/watch?v=fAA-w5DiAAU) (video form might be the best way to present info for some people)
+- [The U.S. Police System is Racist - Here's the Proof](https://www.youtube.com/watch?v=fAA-w5DiAAU) - video by [T1J](https://www.youtube.com/user/the1janitor) on YouTube
+
+### Contents
+
+<details markdown="1">
+<summary>Police Far Right Connections</summary>
+
 # **Police Far Right Connections**
 
 - [FBI 2006 Report on White Supremacist Infiltration of Law Enforcement](http://s3.documentcloud.org/documents/402521/doc-26-white-supremacist-infiltration.pdf) ([cited](https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement))
@@ -33,6 +39,12 @@ A youtube video which goes over a lot of evidence: [https://www.youtube.com/watc
 ### Historical Connections to White Supremacy
 - [https://plsonline.eku.edu/insidelook/history-policing-united-states-part-1](https://plsonline.eku.edu/insidelook/history-policing-united-states-part-1)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Police Subconscious Bias</summary>
+
 # **Police Subconscious Bias**
 - [Lecount 17](https://www.researchgate.net/publication/319660605_More_Black_than_Blue_Comparing_the_Racial_Attitudes_of_Police_to_Citizens)
   - Highlights the philosophical (social power and group power) and racial reasons why white police officers have a discriminatory bias against African-Americans
@@ -45,6 +57,12 @@ A youtube video which goes over a lot of evidence: [https://www.youtube.com/watc
   - Found that even after controlling for a number of factors, **racial disparities still existed in how police treated people**: “*We find that officers speak with consistently less respect toward black versus white community members, even after controlling for the race of the officer, the severity of the infraction, the location of the stop, and the outcome of the stop.*”
     - This is the case in spite of there being widespread police use of body cameras
   - This has **important implications for police relations with black communities**, especially considering that such relations aren’t known to be great.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Policing and Traffic Stops</summary>
 
 # **Policing and Traffic Stops**
 - [Wheeler 19](https://www.tandfonline.com/doi/abs/10.1080/07418825.2019.1630471)
@@ -127,6 +145,12 @@ A youtube video which goes over a lot of evidence: [https://www.youtube.com/watc
 
 - [https://people.ucsc.edu/~jwest1/articles/West_RacialBiasPolice.pdf](https://people.ucsc.edu/~jwest1/articles/West_RacialBiasPolice.pdf)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Stop and Frisk</summary>
+
 # **Stop and Frisk**
 - [An ACLU study](https://www.aclum.org/sites/default/files/wp-content/uploads/2015/06/reports-black-brown-and-targeted.pdf) of stop and frisk incidents in Boston between 2007 and 2010 that did not result in a citation or arrest found that 63 percent of such stops were of black people. Blacks made up 24 percent of the city’s population. Incredibly, 97.5 percent of these encounters resulted in no arrest or seizure of contraband.
 
@@ -159,6 +183,12 @@ Some of these links talk about racial discrimination, others talk about general 
 - [https://www.econ.berkeley.edu/sites/default/files/nathaniel_barlow_thesis.pdf](https://www.econ.berkeley.edu/sites/default/files/nathaniel_barlow_thesis.pdf) 
 
 - [https://www.rand.org/pubs/technical_reports/TR534.html](https://www.rand.org/pubs/technical_reports/TR534.html) found small differences overall but makes a lot of recommendations
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Bias in Police Use of Force</summary>
 
 # **Bias in Police Use of Force**
 **Black people are overrepresented as victims of police brutality, both with use of force and with shootings specifically. This holds true even after accounting for relevant factors that would otherwise mask discrimination. To be honest, the [data on this particular topic is oftentimes shaky and unreliable](https://www.nature.com/articles/d41586-019-02601-9), and [violent crime is a small portion of what police deal with](https://www.nytimes.com/2020/06/19/upshot/unrest-police-time-violent-crime.html), so if you want to prove that there’s systemic racism in the police force at large, this isn’t the first section you want to go to.**
@@ -237,6 +267,12 @@ This is just because “police-related deaths” is not a metric the CDC measure
 
 - [https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1882&context=articles](https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1882&context=articles)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Juries and Jury Selection</summary>
+
 # **Juries and Jury Selection**
 - [https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=1315&context=wvlr](https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=1315&context=wvlr)
   - In this study, **two groups of mock jurors were given a collection of race-neutral evidence** from an armed robbery, with **one group’s alleged perpetrator** being shown to be **light-skinned** and the other **dark-skinned.**
@@ -256,6 +292,12 @@ This is just because “police-related deaths” is not a metric the CDC measure
 - [https://www.nacdl.org/Article/June2018-ThePersistenceofDiscrimination](https://www.nacdl.org/Article/June2018-ThePersistenceofDiscrimination)
 
 - [https://academic.oup.com/qje/article/127/2/1017/1826107](https://academic.oup.com/qje/article/127/2/1017/1826107)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Death Penalty Racism</summary>
 
 # **Death Penalty Racism**
 **A number of studies show disparities in the rates at which whites and blacks are given death sentences, even after controlling for relevant factors. These studies also show that white victims are favored over black victims by a considerable margin.**
@@ -283,6 +325,12 @@ This is just because “police-related deaths” is not a metric the CDC measure
 
 - [https://docs.google.com/document/d/1Jc30ECidjRdsP5BrSyt5lu07DOP6FB4PGmC9Ok9tiMI/edit](https://docs.google.com/document/d/1Jc30ECidjRdsP5BrSyt5lu07DOP6FB4PGmC9Ok9tiMI/edit) might be useful for posting many stats on the subject at once
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Prosecutors, Discretion, and Plea Bargaining</summary>
+
 # **Prosecutors, Discretion, and Plea Bargaining**
 **Depending on which study you look at, somewhere between 80 and 95 percent of criminal cases are resolved with a plea bargain before ever getting to trial. While [most legal observers](https://www.nytimes.com/2012/03/11/opinion/sunday/go-to-trial-crash-the-justice-system.html) agree that plea bargaining [is widely abused](https://www.theatlantic.com/politics/archive/2017/05/plea-bargaining-courts-prosecutors/524112/) and [does little](https://www.economist.com/leaders/2014/10/04/a-plea-for-change) to serve the [interests](https://www.theatlantic.com/magazine/archive/2017/09/innocence-is-irrelevant/534171/) of justice, [most also believe](https://web.archive.org/web/20180522050257/http://www.vindy.com/news/2010/nov/14/gains-justice-system-8216would-grind-to-/) that if every defendant were to insist on a trial, the system would come [grinding to a halt](https://blog.simplejustice.us/2014/10/04/the-economist-discovers-plea-bargaining/). The bias here comes in when we look at who gets plea bargains, what kinds of deals they’re offered and how many, though innocent, feel pressured to accept.**
 
@@ -295,6 +343,12 @@ This is just because “police-related deaths” is not a metric the CDC measure
 - [A 2008 analysis](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.821.8079&rep=rep1&type=pdf) found that black defendants with multiple prior convictions are 28 percent more likely to be charged as “habitual offenders” than white defendants with similar criminal records. The authors conclude that “assessments of dangerousness and culpability are linked to race and ethnicity, even after offense seriousness and prior record are controlled.”
 
 - [https://archive.triblive.com/news/nation/trib-investigation-cops-often-let-off-hook-for-civil-rights-complaints/](https://archive.triblive.com/news/nation/trib-investigation-cops-often-let-off-hook-for-civil-rights-complaints/)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Judges and Sentencing</summary>
 
 # **Judges and Sentencing**
 - [U.S. Sentencing Commission 17](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf)
@@ -334,6 +388,12 @@ This is just because “police-related deaths” is not a metric the CDC measure
   - This finding holds true even when controlling for differences in criminal histories and the effects of policies that have a disparate impact on people of color, like drug laws and hot spots policing practices discussed in [these](https://www.researchgate.net/profile/Cassia-Spohn/publication/237754097_Thirty_Years_of_Sentencing_Reform_The_Quest_for_a_Racially_Neutral_Sentencing_Process/links/53f674170cf2fceacc735a5b/Thirty-Years-of-Sentencing-Reform-The-Quest-for-a-Racially-Neutral-Sentencing-Process.pdf?origin=publication_detail) [studies](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf).
   - 43% of studies at the state level and 68% at the federal level reported direct racially discriminatory sentencing outcomes, impacting both the initial decision to incarcerate and the length of any ultimate sentence to incarceration.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Prison and Incarceration</summary>
+
 # **Prison and Incarceration**
 **Black people are of course overrepresented in the prison population. And, as noted in one particular study below, they’re overrepresented even after you account for variables such as the crime rate among blacks.**
 
@@ -344,6 +404,12 @@ This is just because “police-related deaths” is not a metric the CDC measure
 - In surveying the research on the topic, [the Sentencing Project estimates](https://sentencingproject.org/wp-content/uploads/2015/11/Black-Lives-Matter.pdf) that 61 to 80 percent of black overrepresentation in prisons can be explained by higher crime rates in the black population. (Of course, those higher crime rates themselves could be due in part to racial bias.) The rest is probably because of racial bias.
 
 - [The BJS](https://bjs.ojp.gov/content/pub/pdf/p11.pdf) found that African American males are 6 times more likely to be incarcerated than white males.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Drug War and Racism</summary>
 
 # **Drug War and Racism**
 **Black people are consistently arrested, charged and convicted of drug crimes including possession, distribution and conspiracy at far higher rates than white people. This, despite research showing that both races use and sell drugs at about the same rate.**
@@ -432,6 +498,12 @@ Also see the National Research Council's report on The Growth of Incarceration i
 
 It is a complex topic which requires adopting systems lenses. I would keep in mind that structural and institutional racism does not require Black Americans (and other racialized minorities) to be purely passive to exist, and that they exist within the system being described.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>In Other Countries</summary>
+
 # **In Other Countries**
 **Resources that go over non-USA criminal justice racism are harder to come across, but if it comes up in a conversation these might be useful.**
 
@@ -467,6 +539,12 @@ It is a complex topic which requires adopting systems lenses. I would keep in mi
 
 - [Silver & Danielowski 19](https://www.tandfonline.com/doi/abs/10.1080/10511482.2018.1524443)
   - Fighting Housing Discrimination in Europe (includes Netherlands)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Possible Solutions</summary>
 
 # **Possible Solutions**
 **Unconscious bias training, taking power from the police, and meaningfully increasing their accountability.**
@@ -539,6 +617,12 @@ cons
 - weakening local/irl communities, result of social media and etc, could minimize the impact or ability of police to build relationships with local people
 - corruption, police could make unfair deals with local people who they know well and essentially lead to favoritism by police
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Additional Studies</summary>
+
 # **Additional Studies**
 - According to [a 2014 study by the Vera Institute of Justice](https://www.ncjrs.gov/pdffiles1/nij/grants/247227.pdf), black and Latino defendants in New York City were more likely to be detained before trial for comparable crimes. They were also more likely to have charges dismissed. The study didn’t look at this, but that may have been because they were more likely to be wrongly arrested in the first place. The study found that race played a role at nearly every step in the process, from arrest to detention to setting bail to sentencing.
 
@@ -555,6 +639,12 @@ cons
 - [A national study of misdemeanor arrests](https://poseidon01.ssrn.com/delivery.php?ID=506001013065023026088095086076005123025021068055070082025086087026071116090016002031057122111022009036109119004086001004085076017084012076061120001001069121088073091009075044009084079111069097030067093109069120077070125090008004012091116114088085000007&EXT=pdf) published in the Boston University Law Review found that the “black arrest rate is at least twice as high as the white arrest rate for disorderly conduct, drug possession, simple assault, theft, vagrancy, and vandalism. The black arrest rate for prostitution is almost five times higher than the white arrest rate, and the black arrest rate for gambling is almost ten times higher.”
 
 - [https://journals.sagepub.com/doi/10.1111/cico.12388](https://journals.sagepub.com/doi/10.1111/cico.12388) “We find that complaints by black and Latino citizens and against white officers are less likely to be sustained.”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Addressing Reactionary/Anti-BLM Claims</summary>
 
 # **Addressing Reactionary/Anti-BLM Claims**
 **Credit goes where it’s due, see more of this good stuff in [this doc](https://docs.google.com/document/d/1SbI4NIqFrQ1gqOvt9LJxV4cfwF4dyfWolqJ-CRX3rfw/edit) and from [this person](https://www.reddit.com/user/flesh_eating_turtle/comments/h0qll6/debunking_myths_about_the_police_aka_refuting/). A detailed 13/50 debunk can be found [here](https://docs.google.com/document/d/1L_qk_3lC20swQVEGDQPRJko-0FSH-egnNtmFW5gOFFI/edit).**
@@ -827,3 +917,5 @@ Specifically, 5.2% of African Americans were likely to experience threat or exce
 - significance tests alone are not sufficient. This is because when instruments are only weakly correlated with the endogenous regressor, IV estimates of parameters will be biased in the same direction as OLS and estimated standard error will be unreliable. Specifically, standard errors will be too small and the null will be rejected too often. Staiger and Stock recommend conducting an F-test on the instruments in the first-stage regression; an F-statistic of at least 10, in their view, is indicative of relevance. Of course, if the first-stage regression indicates one instrument is irrelevant (i.e., not individually significant) the researcher should consider dropping the instrument as efficiency is not improved by its use. This study did not make use of that in fact their testing and results of instrument relevance seem poor ngl. They also didn’t properly test if not, didn’t test, for instrument validity. What they did was show no significant association between pre-COPS crime and paid officers granted. However this is invalid because (1) this approach may be limited without introducing controls for current crime and (2) this is not a formal test of instrument validity. In order to assess instrument validity, a model must be over-identified. Evans and Owens has only one instrument so their model is just-identified and the validity of the instruments cannot be tested. Evans and Owens combined two hiring grant programs (UHP and DNP) into a single measure of paid officers granted, again yielding a just-identified model yielding invalid instruments.
 - [https://paperhub.ir/dl4.php?doi=10.1177/0032258x15612702&key=phx7RLw73ufiw](https://paperhub.ir/dl4.php?doi=10.1177/0032258x15612702&key=phx7RLw73ufiw)
   - This meta analysis, which analyzed Evans and Owens along with other studies, found that although there is a small, inverse association between police levels and overall index crime, when this relationship is examined across individual crime types, the effect decreases in magnitude, loses statistical significance and, in some cases, changes direction.
+
+</details>

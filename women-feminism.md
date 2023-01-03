@@ -1,5 +1,8 @@
 **WOMEN & FEMINISM**
 
+<details markdown="1">
+<summary>Anti-Abortion Legislation</summary>
+
 # **Anti-Abortion Legislation**
 **Creates high maternal mortality, escalating pregnancy deaths, and crippling protection for women and infants**
 
@@ -18,6 +21,12 @@
   - Hostility to reproductive rights tended to go hand-in-hand with a **lack of state-level policies supporting women’s and infant health**.
   - The states with the harshest restrictions on abortions also have the **worst infant mortality rates.**
     - *Note to debaters: This also requires you to explain link causation and should not be the forefront of an argument. The longer the link, the weaker the link chain.*
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Impact of Abortion on Women</summary>
 
 # **Impact of Abortion on Women**
 **The near totality of women feel benefitted by their decision**
@@ -40,6 +49,12 @@ WIP
 [https://bixbycenter.ucsf.edu/sites/bixbycenter.ucsf.edu/files/Abortion%20restrictions%20risk%20women%27s%20health.pdf](https://bixbycenter.ucsf.edu/sites/bixbycenter.ucsf.edu/files/Abortion%20restrictions%20risk%20women's%20health.pdf)
 
 [https://annals.org/aim/article-abstract/2735869/self-reported-physical-health-women-who-did-did-terminate-pregnancy](https://annals.org/aim/article-abstract/2735869/self-reported-physical-health-women-who-did-did-terminate-pregnancy)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Abortion - Philosophical Stuff</summary>
 
 # **Abortion - Philosophical Stuff**
 **[This book](https://www.pdfdrive.com/a-defense-of-abortion-d33433597.html) is way more comprehensive if you actually want to learn about the subject**
@@ -85,6 +100,12 @@ i. [Guttmacher Institute: Boonstra et al. 2006](https://www.guttmacher.org/sites
 
 a. The American College of Obstericians and Gynecologists, the largest group of reproductive health doctors in the U.S, is strongly pro-choice in its official statements.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Gender Wage/Income Gap</summary>
+
 # **Gender Wage/Income Gap**
 **While many studies manage to adjust for major factors in wage differences, there are too many minor factors to create a truly accurate picture and many major factors are directly detrimental to women's ability to increase their income.**
 
@@ -101,6 +122,12 @@ a. The American College of Obstericians and Gynecologists, the largest group of 
 
 - [https://rationalwiki.org/wiki/Gender_pay_gap](https://rationalwiki.org/wiki/Gender_pay_gap)
   - “*The adjusted pay is substantially smaller than the unadjusted pay gap, as the adjusted pay gap thus measures only overt workplace discrimination against women workers. This has led many conservatives and libertarians to denounce sexism being a factor behind the pay gap. However, this view ignores that the origins of the adjusted factors can be argued to be sexist in themselves, as they are theorized to be almost entirely the result of the different societal pressures on males and females, as well as the fact that mothers miss out on pay as the result of maternity leave.*”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>False Rape Accusations</summary>
 
 # **False Rape Accusations**
 **Rape reports are rarely false, and even stats like “2-10% are false” can still be put into more context. Much of this is credited to [this thorough reddit post](https://www.reddit.com/r/MensLib/comments/9hraly/fact_checking_false_rape_accusations_and_why_we/) by [u/LefthandedLunatic**](https://www.reddit.com/user/LefthandedLunatic/)**
@@ -165,3 +192,5 @@ As this shows that the majority of the time, **false accusers aren't the serial 
 Also there are no correlations with the age of the accusation or the number of sexual partners of the accuser and whether their accusations are true or not. Add this to the fact that [most legitimate victims lie to themselves and others saying that they weren't sexually assaulted when they really were. This denial often is due to the fact that the majority of victims know their abusers personally before the assault and often change their stories or denied that they were as a way to cope with the trauma.](http://journals.sagepub.com/doi/pdf/10.1177/0886260517726412?casa_token=TR0lDTFQ-9cAAAAA:XFQbcARRx9QC1UnefnGp3FIc0pMTR4K5X-49EvzFMnXxeQxUba98DKlj4DcWjJOvFeihHXQTGwd5Vw&)
 
 [https://pubmed.ncbi.nlm.nih.gov/28213722/](https://pubmed.ncbi.nlm.nih.gov/28213722/)
+
+</details>

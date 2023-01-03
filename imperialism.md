@@ -1,5 +1,8 @@
 **IMPERIALISM**
 
+<details markdown="1">
+<summary>U.S. Interventionism</summary>
+
 # **U.S. Interventionism**
 **Interventionism has a detrimental impact: it starts civil wars, kills hundreds of thousands, generates migrant crises, fuels poverty and gang violence, and supports dictators.**
 
@@ -19,6 +22,12 @@
     - Created the rampant and **bloody gang violence**, **dire poverty**, **displacement** and migration from El Salvador.
 
 *This is just a brief overview of some of the U.S.’ most famous Latin American interventions. RockyDerFailure#6781 has a MASSIVE list of a variety of worldwide interventions [here](https://docs.google.com/document/d/1o3UycdBFOziaBxEtoEuUaC_NuJPfQlDsMA4YA1KRlkM/edit).*
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Anti-American Terrorism</summary>
 
 # **Anti-American Terrorism**
 ` `**Anti-American terrorism is primarily fueled by foreign policy and a legacy of interventionalism, rather than a distrust in democracy or “western values.”**
@@ -44,6 +53,12 @@
     - Turkey (48%)
     - Pakistan (43%)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Arms Deals</summary>
+
 # **Arms Deals**
 **Arms deals and similar forms of military aid create, prolong, and intensify conflict.**
 
@@ -54,3 +69,5 @@
   - Studies:
     - Sub-Saharan Africa study: “arms transfers are significant and positive predictors of increased probability of war.’”
     - Africa study: “Weapons imports are essential additives in this recipe for armed conflict and carnage.”
+
+</details>

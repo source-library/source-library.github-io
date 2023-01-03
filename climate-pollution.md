@@ -1,4 +1,8 @@
 **CLIMATE & POLLUTION**
+
+<details markdown="1">
+<summary>Rising Temperatures</summary>
+
 # **Rising Temperatures**
 **Puts thousands of species and their ecosystems at risk**
 
@@ -25,6 +29,12 @@
   - *'The team compared 17 increasingly sophisticated model projections of global average temperature developed between 1970 and 2007, including some originally developed by NASA, with actual changes in global temperature observed through the end of 2017.'*
   - *'The results: 10 of the model projections closely matched observations. Moreover, after accounting for differences between modeled and actual changes in atmospheric carbon dioxide and other factors that drive climate, the number increased to 14. The authors found no evidence that the climate models evaluated either systematically overestimated or underestimated warming over the period of their projections.'*
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Rising CO2 Emissions</summary>
+
 # **Rising CO2 Emissions**
 - [World Resource Institute 18](https://www.wri.org/blog/2018/12/new-global-co2-emissions-numbers-are-they-re-not-good) 
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-02.png?raw=true)
@@ -34,6 +44,12 @@
 
 - [UPI: Roach 20](https://www.upi.com/Top_News/World-News/2020/06/12/Carbon-dioxide-reaches-a-record-level-despite-COVID-19s-drastic-impact/5991592007323/)
   - CO2 emissions are reaching record highs even among the COVID-19 pandemic
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Ice Loss</summary>
 
 # **Ice Loss**
 **Occurs rapidly on both poles**
@@ -46,6 +62,12 @@
   - Model projections suggest **further declines** of the polar ice sheets in the future, but the uncertainties are large.
   - The melting of the polar ice sheets is estimated to contribute up to **50 cm** of global sea level rise during the 21st century.
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/climate-pollution-03.png?raw=true)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Impact of Climate Change</summary>
 
 # **Impact of Climate Change**
 **Climate change causes floods, exacerbates natural disasters, and puts homes underwater**
@@ -326,6 +348,12 @@
 - [Calel et al. 20](https://www.nature.com/articles/s41467-020-18797-8) 
   - Suggests we could be underestimating the financial impact of climate change by trillions of dollars
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Anthropogenic Consensus</summary>
+
 # ` `**Anthropogenic Consensus**
 **The near totality of available scientific knowledge verifies the link between rising CO2 and observations of climate change**
 
@@ -352,6 +380,12 @@
   - [Brief list from NASA listing major scientific organizations which recognize climate change](https://climate.nasa.gov/scientific-consensus/)
   - [More comprehensive list of scientific organizations which recognize it](http://www.opr.ca.gov/facts/list-of-scientific-organizations.html)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Air Pollution</summary>
+
 # **Air Pollution**
 **Air pollution, primarily caused by the same energy emission that harms the climate, has detrimental effects on public health, including premature death, lung disease, and cancer.**
 
@@ -367,6 +401,12 @@
   - More than **3 billion peopl**e worldwide rely on **polluting technologies** and fuels
   - Air quality is **closely linked** to earth’s climate and ecosystems globally. Many of the drivers of air pollution (i.e. combustion of fossil fuels) are also sources of **high CO2 emissions.**
   - Some air pollutants such as ozone and black carbon are short-lived **climate pollutants** that greatly contribute to climate change and affect agricultural productivity.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Climate Denialism - Analysis</summary>
 
 # **Climate Denialism - Analysis**
 **For debunks of common false claims, check out [this section](https://archive.ph/uY9Yr#h.j9bqjkw0ojh6) instead.**
@@ -389,6 +429,12 @@
 - [Scientific American: Fischer 13](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/)
   - **Most donations to climate denial efforts are of dark money**, meaning that they can’t be traced back to their original donors
   - “*In all, 140 foundations funneled $558 million to almost 100 climate denial organizations from 2003 to 2010. Meanwhile **the traceable cash flow from** more traditional sources, such as **Koch Industries and ExxonMobil, has disappeared**.*”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Climate Denialism - Rebuttals</summary>
 
 # **Climate Denialism - Rebuttals**
 
@@ -506,6 +552,12 @@
 - Steven Milloy
   - [https://m.huffpost.com/us/entry/us_59785395e4b01cf1c4bb7462](https://m.huffpost.com/us/entry/us_59785395e4b01cf1c4bb7462) 
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Additional Resources</summary>
+
 # **Additional Resources**
 - [Main Wikipedia article about global warming](https://en.wikipedia.org/wiki/Global_warming)
 
@@ -518,3 +570,5 @@
 
 - [Climate Change FAQ - NASA](https://climate.nasa.gov/faq/)
   - Concisely answers common questions about climate change
+
+</details>

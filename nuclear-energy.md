@@ -1,4 +1,8 @@
 **NUCLEAR ENERGY**
+
+<details markdown="1">
+<summary>Benefits</summary>
+
 # **Benefits**
 **Nuclear energy, already deployed widely with a variety of purposes, is safe, saves lives, and reduces pollution**
 
@@ -33,3 +37,5 @@
     - Nuclear power plant capacity factors: over 85%.
     - Fossil fired plants: 50-60%
     -  Solar and wind: 30% or lower
+
+</details>

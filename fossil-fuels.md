@@ -1,4 +1,8 @@
 **FOSSIL FUELS**
+
+<details markdown="1">
+<summary>Land and Air Damage</summary>
+
 # **Land and Air Damage**
 **Fossil fuels cause an extraordinary amount of land and air damage**
 
@@ -41,6 +45,12 @@
   - The 2010 Enbridge spill in southwest Michigan released more than 20,100 barrels of tar sands oil into the Kalamazoo River, creating one of the largest inland oil spills in U.S. history.
   - The Taylor oil spill is on track to become the largest in American history, having released tens of thousands of gallons every day into the Gulf of Mexico for more than 14 years.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Subsidies</summary>
+
 # **Subsidies**
 **Subsidies uphold and enable the fossil fuel industry to carry out large-scale pollution**
 
@@ -61,6 +71,12 @@
 
 - [Erickson et al. 17](https://www.sei.org/publications/how-would-eliminating-subsidies-to-the-u-s-oil-industry-affect-potential-oil-production-and-co2-emissions/)
   - “*We find that, at the current price of $50 per barrel, **about half (53%) of subsidy value goes to projects that would have proceeded anyway**... This fraction of support leaking to profit rises to nearly all (98%) of subsidy value at $100 per barrel, reflecting what other researchers have suggested: that regardless of the oil price, **the majority of taxpayer resources provided to the industry end up as company profits**.*”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Trump and Coal</summary>
 
 # **Trump and Coal**
 **Trump has committed CRINGE**
@@ -100,3 +116,5 @@
 -  Trump's administration has repeatedly tried to scrub or downplay climate change in their reports.[\[1\]](https://www.scientificamerican.com/article/report-detailing-u-s-threats-ignores-climate-change/)[\[2\]](https://www.scientificamerican.com/article/trump-administration-officials-scrubbed-climate-change-from-press-releases/)[\[3\]](https://www.scientificamerican.com/article/in-environment-speech-trump-fails-to-mention-climate-change/)[\[4\]](https://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G)[\[5\]](https://www.independent.co.uk/news/world/americas/us-politics/trump-climate-change-government-websites-global-warming-a9020461.html)
 
 -  The Trump administration disbanded the federal Advisory Committee for the Sustained National Climate Assessment, amid leaks of a report from scientists working for the government which warned that humans have had a major impact on climate change.[\[1\]](https://time.com/4908162/donald-trump-climate-change-panel/)[\[2\]](https://thehill.com/homenews/administration/347269-trump-disbands-federal-advisory-panel-on-climate-change-report)[\[3\]](https://www.cbsnews.com/news/report-trump-dissolves-climate-change-advisory-panel/)
+
+</details>

@@ -4,6 +4,9 @@
 
 If you’re completely lost on what socialism is, [take a look at this webpage](https://www.socialism101.com/basic) as a starting point.
 
+<details markdown="1">
+<summary>Quality of Life</summary>
+
 # **Quality of Life**
 
 - [University of Oxford \| A Reassessment of the Soviet Industrial Revolution](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.507.8966&rep=rep1&type=pdf)
@@ -56,6 +59,12 @@ WIP
 
 - [https://jhu.pure.elsevier.com/en/publications/famine-in-china-1958-61](https://jhu.pure.elsevier.com/en/publications/famine-in-china-1958-61) (Looks into the causes of the GLF Famine)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Polling in Socialist Countries</summary>
+
 # **Polling in Socialist Countries**
 **Polling consistently find that people in most ex-socialist countries feel that life was better under socialism than it is under capitalism.** (Editor’s Note: With the exception of the Russian Levada Poll, all of these were done during the height of the Great Recession. It is possible that they are not measuring desire for the Soviet Union so much as they are dissatisfaction with capitalism)
 
@@ -79,6 +88,12 @@ WIP
 
 - [Reuters \| In Eastern Europe, People Pine for Socialism](https://www.reuters.com/article/us-communism-nostalgia-idUSTRE5A701320091108)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Socialist Democracy and the extent of its Authoritarianism</summary>
+
 # **Socialist Democracy and the extent of its Authoritarianism**
 **People accuse the USSR and other socialist countries of ruling by fear and not having any democratic rule. This is true to an extent, but not to the extent that reactionary historians claim.**
 
@@ -97,3 +112,5 @@ WIP
 - [Yale University Press \| Life and Terror in Stalin's Russia, 1934-1941](https://www.jstor.org/stable/j.ctt32bw0h)
   - Investigates the extent of coercion and force in Stalin's USSR, concluding that "Stalin did not intend to terrorize the country and did not need to rule by fear. Memoirs and interviews with Soviet people indicate that many more believed in Stalin's quest to eliminate internal enemies than were frightened by it." The book also shows that "between 1934 and 1936 police and court practice relaxed significantly. Then a series of events, together with the tense international situation and memories of real enemy activity during the savage Russian Civil War, combined to push leaders and people into a hysterical hunt for perceived 'wreckers.' After late 1938, however, the police and courts became dramatically milder."
   - One of the book's more interesting comments, specifically relating to Stalin: "There was never a long period of Stalinism without a serious foreign threat, major internal dislocation, or both, which makes identifying its true nature impossible." One of the more interesting statements from a bourgeois historian on Stalin, acknowledging that the repression of the Stalin period, far from being the casual whim of the man himself, emerged as a mass response to genuine threats.
+
+</details>

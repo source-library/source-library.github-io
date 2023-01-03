@@ -1,4 +1,8 @@
 **PRISONS AND CRIME**
+
+<details markdown="1">
+<summary>Predictors of Crime</summary>
+
 # **Predictors of Crime**
 **While there are a number of predictors of crime, there’s uncertainty as to what all of the predictors are and how impactful each one truly is. This is a complicated issue and needs a multi-faceted approach, not just something like “increase welfare” or “increase police”.**
 
@@ -55,7 +59,13 @@
   - 'Persons in poor households had a higher rate of violence involving a firearm (3.5 per 1,000) compared to persons above the FPL (0.8-2.5 per 1,000)'
   - **After accounting for poverty and urbanity** (which are strong predictors in crime levels), “***Poor urban blacks** (51.3 per 1,000) **had rates of violence similar to poor urban whites** (56.4 per 1,000)*”
 
-# ` `**Rehabilitation**
+------------
+
+</details>
+<details markdown="1">
+<summary>Rehabilitation</summary>
+
+# **Rehabilitation**
 **Rehabilitation instead of imprisonment is shown to curb crime, lower cost, and increase employment. Check out [this doc](https://docs.google.com/document/d/1icJdF7LQtqKybnqz-Lqe7wVWx6OGDp2yLG4EE_q2UW4/edit) as well.**
 
 - [RAND: Davis et al. 13](https://www.rand.org/content/dam/rand/pubs/research_reports/RR500/RR564/RAND_RR564.pdf) 
@@ -89,6 +99,12 @@
 - [Clear 96](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.497.3373&rep=rep1&type=pdf)
   - Gives some possible explanations for the reason that prisons (in the US) do not result in crime reduction.
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Private Prisons</summary>
+
 # **Private Prisons**
 **The private prison-industrial complex has no or little cost saving benefits compared to public prisons, and high social costs such as tragically higher recidivism and poor rehabilitative opportunities. The [Prison Policy Initiative](https://www.prisonpolicy.org/reports.html) is a great resource on the ineffectiveness of the prison system and criminal justice reform.**
 
@@ -102,6 +118,12 @@
 
 - Federal government ripping on private prisons [https://www.ncjrs.gov/pdffiles1/bja/181249.pdf](https://www.ncjrs.gov/pdffiles1/bja/181249.pdf)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Deterrence Theory</summary>
+
 # **Deterrence Theory**
 **The criminal justice system’s emphasis on punishment yields no meaningful individual or general effect on crime, only to strengthen criminogenic factors of those caught.**
 
@@ -110,6 +132,12 @@
 - Deterrence only had a significant effect on smaller crimes like administration offenses, not serious crimes like homocides [https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=249259](https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=249259) 
 
 - Another study also indicating that deterrence has a weak to no effect in preventing crime [https://www.researchgate.net/publication/279598389_The_Empirical_Status_of_Deterrence_Theory_A_Meta-Analysis](https://www.researchgate.net/publication/279598389_The_Empirical_Status_of_Deterrence_Theory_A_Meta-Analysis) 
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Death Penalty</summary>
 
 # **Death Penalty**
 **Feel free to cite [this doc](https://docs.google.com/document/d/1Jc30ECidjRdsP5BrSyt5lu07DOP6FB4PGmC9Ok9tiMI/edit) for convenience. The [Death Penalty Information Center](https://deathpenaltyinfo.org/) provides a great collection of resources on the death penalty and etc if you want to take a look.**
@@ -174,3 +202,5 @@ So why are death penalty costs so high? [DeathPenaltyInfo](https://deathpenaltyi
 - More stuff happens pre-trial
 - Longer trials
 - More time spent on jury selection process
+
+</details>
