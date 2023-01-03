@@ -1,4 +1,8 @@
-**DEBUNKING ALT-RIGHT IDEOLOGY**
+**CONTRA ALT-RIGHT IDEOLOGY**
+
+<details markdown="1">
+<summary>13/50 and related FBI-UCR stats</summary>
+
 # **13/50 and related FBI-UCR stats**
 
 **“Despite making up 13% of the population, blacks commit 50% of the violent crime.” This claim is addressed thoroughly here without diving too much into socio-economic factors. A lot of the points made here can also be applied to other UCR stats, as we also address the general reliability of the UCR program. [Here is a google doc version of this section**](https://docs.google.com/document/u/2/d/1L_qk_3lC20swQVEGDQPRJko-0FSH-egnNtmFW5gOFFI/edit)**
@@ -59,6 +63,12 @@ What if we do try to account for some of those variables? Let’s see what happe
 
 More stuff [here](https://docs.google.com/document/d/1VAFe_CXE-4zVnx-jxuW1Me8IJr5p3RDMcHC-yoaaNp8/edit)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Conceptualization of African History</summary>
+
 # **Conceptualization of African History**
 - Debunk of “Africans didn’t invent the wheel” argument, general history of continent, etc….[https://www.reddit.com/r/badhistory/comments/2bgqyf/carts_cereals_and_ceramics/](https://www.reddit.com/r/badhistory/comments/2bgqyf/carts_cereals_and_ceramics/)
 
@@ -78,6 +88,12 @@ General resources on African history and civilizational contributions:
 - [https://www.fromnothing.info/sources](https://www.fromnothing.info/sources)
 
 - [https://au.int/sites/default/files/documents/40334-doc-africa_factbook-version-digital.pdf](https://au.int/sites/default/files/documents/40334-doc-africa_factbook-version-digital.pdf) (thorough)
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Holocaust Denial/Revisionism</summary>
 
 # **Holocaust Denial/Revisionism**
 **Here are a few rebuttals to Holocaust denial talking points, though not all unsubstantiated denier claims warrant an academic paper in response. The Liberal Sanity Project, who helped with Vaush’s original document, [has a good video on this](https://www.youtube.com/watch?v=2_YFgugVhns).**
@@ -165,3 +181,5 @@ A few general resources for addressing a wide variety of claims:
 ## Image debunks:
 
 - [https://lefty.booru.org/index.php?page=post&s=list&tags=jew+infographic](https://lefty.booru.org/index.php?page=post&s=list&tags=jew+infographic) list of images most of which should debunk holocaust denialism, all from a leftist image board
+
+</details>

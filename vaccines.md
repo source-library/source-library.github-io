@@ -4,6 +4,9 @@ Vaccines are safe, effective, and do not cause autism. This part of the doc is e
 
 In light of all of the debate about COVID vaccines, it’s important to note that **this section doesn’t talk about the COVID vaccine**. We’ll get to that eventually but we’re lazy and there’s a LOT of ground to cover regarding that specific topic.
 
+<details markdown="1">
+<summary>Vaccines are Good</summary>
+
 # **Vaccines are Good**
 **Vaccines are safe and effective at protecting against infectious diseases. Refusal or failure to vaccinate leads to outbreaks and endangers the lives of children.**  
 
@@ -51,7 +54,13 @@ In light of all of the debate about COVID vaccines, it’s important to note tha
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/vaccines-02.png?raw=true)  
 - Anti Vaccine misinformation was spread heavily in Minnesota by anti vaccine groups like the Vaccine Safety Council of Minnesota among Somali parents which **led to this spike in vaccine refusal and ultimately resulted in outbreaks**.
 
-# **Vaccines Do Not Cause Autism Or SIDS**
+------------
+
+</details>
+<details markdown="1">
+<summary>Vaccines do not Cause Autism or SIDS</summary>
+
+# **Vaccines do not Cause Autism or SIDS**
 **This misinformation has been spread largely by “Anti-Vaxxers” and discredited papers. These claims too often rely on confusing correlation with causation, or have other issues with them.**
 
 ## Autism:
@@ -114,7 +123,7 @@ In light of all of the debate about COVID vaccines, it’s important to note tha
   - Included in the analysis were five cohort **studies involving over 1 MILLION children** and five case-control studies involving 9,920 children.
   - “Findings of this meta-analysis suggest that **vaccinations are not associated with the development of autism or autism spectrum disorder**. Furthermore, the components of the vaccines (thimerosal or mercury) or **multiple vaccines (MMR) are not associated with the development of autism or autism spectrum disorder**.”
 
-## **OTHER CLAIMS:**
+## **Other Claims about Autism:**
 
 ### 1. "In 1986, Autism rates were 1 in 15,000 children. After the National Childhood Vaccination Injury Act of 1986, Autism rate was 1 in 10,000. Today, it is about 1 in 50."
 
@@ -135,6 +144,12 @@ In light of all of the debate about COVID vaccines, it’s important to note tha
   - **Meta-analysis** examining the relationship between immunization and SIDS (Sudden Infant Death Syndrome).
   - Examined nine case-control studies that **found either no association or found an association with a REDUCED risk of SIDS**.
   - “**Immunisations are associated with a halving of the risk of SIDS**. There are biological reasons why this association may be causal, but other factors, such as the healthy vaccine effect, may be important. Immunisations should be part of the SIDS prevention campaigns.”
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Debunking Misc Anti-Vax Claims</summary>
 
 # **Debunking Misc Anti-Vax Claims**
 
@@ -197,3 +212,5 @@ This is a philosophical issue that comes down to different values. I would argue
 - About 70% were settlements in cases where no sufficient evidence was found that the vaccine caused any injury
 - The CDC estimates vaccines have prevented 732,000 deaths among children in just a 20-year period.
   - Even if we accept the number of people who have been compensated as those who have legitimately suffered injury from a vaccine, the lives saved greatly outweighs this risk.
+
+</details>

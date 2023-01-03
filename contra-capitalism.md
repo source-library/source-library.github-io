@@ -1,4 +1,11 @@
-**DEBUNKING PRO-CAPITALISM STUFF**
+**CONTRA PRO-CAPITALIST IDEOLOGY**
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Pro-Capitalism</summary>
+
 # **Pro-Capitalism**
 **Work in progress, hoped to be split up into more specific sections down the road**
 
@@ -63,7 +70,7 @@
 
 See [this section](https://source-library.github.io/socialism).
 
-### 5. "CLAIM: Only capitalism can make major innovations, thanks to free market competition."
+### 5. "Only capitalism can make major innovations, thanks to free market competition."
 
 - It’s good to have mentioned competition, as that's the main driver of innovation here, not capitalism. The world wars and cold war brought about a lot of new innovation, not just in the military but also in various other fields - many of those innovations could be applied in other fields, e.g. nuclear bomb tech being refitted for power plants.
 - Some innovations require lots of resources and few restrictions (e.g. making a profit), which is something which small businesses and many large firms aren't incentived to do. For example, the development of nuclear tech, rocket technology, and the US interstate highway system all revolutionized aspects of american life but would not have been possible with a profit motive restricting incentives and the lack of resources which is accessible only truly by a large state apparatus, like the US government.
@@ -79,7 +86,7 @@ See [this section](https://source-library.github.io/socialism).
 
 How is this not true for other systems? Under feudalism, you were forced to care about those above you in the hierarchy, and to fulfill their needs. In the case of government, you usually need to satisfy the needs of your constituents at least to some extent if you don't want to be overthrown. In ancient hunter-gatherer tribes, if you didn't contribute to the group as a whole you were considered a lot less useful and more likely to be dumped. Why can't altruism not be considered a key component of all functional societies rather than just of capitalist societies specifically?
 
-### 7. "CLAIM: Capitalism is voluntary."
+### 7. "Capitalism is voluntary."
 
 - [https://www.youtube.com/watch?v=S_RcE2o08gA](https://www.youtube.com/watch?v=S_RcE2o08gA)
 
@@ -116,6 +123,12 @@ How is this not true for other systems? Under feudalism, you were forced to care
 
   - [https://www.youtube.com/watch?v=pdXGUZnaLS8](https://www.youtube.com/watch?v=pdXGUZnaLS8)
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Social Democracy</summary>
+
 # **Social Democracy**
 **The welfare state of a social democratic society is only sustainable by imperialism.**
 
@@ -129,3 +142,5 @@ How is this not true for other systems? Under feudalism, you were forced to care
 - [https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 
 - [https://africasacountry.com/2019/07/confronting-monetary-imperialism-in-francophone-africa](https://africasacountry.com/2019/07/confronting-monetary-imperialism-in-francophone-africa)
+
+</details>

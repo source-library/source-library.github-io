@@ -1,4 +1,7 @@
-**DEBUNKING REACTIONARY IDEOLOGY**
+**CONTRA REACTIONARY IDEOLOGY**
+
+<details markdown="1">
+<summary>Their Talkers</summary>
 
 # **Their Talkers**
 **This section is in need of a rehaul.**
@@ -32,6 +35,12 @@
   - [https://dawsonvosburg.medium.com/whats-wrong-with-thomas-sowell-464baab5978e](https://dawsonvosburg.medium.com/whats-wrong-with-thomas-sowell-464baab5978e) critique of his broader narrative about black culture
   - [https://www.evangelicallaborinstitute.org/post/is-welfare-to-blame-for-joblessness-among-black-folks](https://www.evangelicallaborinstitute.org/post/is-welfare-to-blame-for-joblessness-among-black-folks) more about black joblessness and countering that narrative
 
+------------
+
+</details>
+<details markdown="1">
+<summary>Miscellaneous</summary>
+
 # **Miscellaneous**
 - [Langbert et al. 16](https://econjwatch.org/articles/faculty-voter-registration-in-economics-history-journalism-communications-law-and-psychology)
   - **Used to assert that a majority of college and university professors in the humanities departments are Democrats** and thus are ideologically inclined to further a Democrat agenda
@@ -56,3 +65,5 @@
   - Claims that immigration is associated with lower in-migration rates, higher out-migration rates, and a decline in the growth rate of the native workforce.
   - [Peri & Sparber 10](https://www.sciencedirect.com/science/article/abs/pii/S0094119010000628?via%3Dihub) addresses methodological flaws in Borjas 06
   - Check out [this doc](https://docs.google.com/document/u/1/d/1TrLqG-EDiNGmKa5Ued3bqY6bd0qozXBGahvPMcGnFXM/edit%23) too
+
+</details>
