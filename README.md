@@ -6,10 +6,10 @@ This extensive factsheet is a compilation of various studies, datapoints, pieces
 
 - **CURRENT LINK: [https://source-library.github.io/](https://source-library.github.io/)**
 
-- Archive link (September 2022): [https://archive.ph/uY9Yr](https://archive.ph/uY9Yr)
-
-- Archive link (October 2022): [https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit](https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit)
-
+- Archive links (of the Google doc):
+  - [September 2022](https://archive.ph/uY9Yr) (archive.today)
+  - [October 2022](https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit) (Internet Archive's Wayback Machine)
+  
 - Join us on [Discord!](https://discord.gg/JNXrNC8Yja) You can help with the Source Library here!
 
 - Follow our Reddit account, [/u/sourcelibrarian](https://www.reddit.com/user/sourcelibrarian/), for updates! If something happens to this doc or a related one, you can check there.
@@ -22,6 +22,7 @@ The original source library was created as a Google document on June 15, 2019, b
 
 | **SECTIONS**                                                                                | **SUBSECTIONS**                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [More Resource Compilations](https://source-library.github.io/more-resources)               |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Transgender Issues](https://source-library.github.io/trans-rights)                         | Medical Consensus ● Medical Transition ● Social Transition ● Puberty Blockers ● Prevalence of Discrimination ● Impact of Discrimination ● Impact of Social/Familial Support ● Chosen Name/Pronoun Usage ● Bathroom Bills ● Prisons ● Public Perception and Depiction ● Trans Athletes ● Neurology/Biology ● Detransition/Regret ● Canada's C-16 Bill ● In the Military ● Depathologization ● Addressing Reactionary Claims ● Additional Resources |
 | [Gender and Sex](https://source-library.github.io/gender-and-sex)                           | Gendered Behavior ● They/Them Pronouns ● Sex is Not Binary ● Gender and Sex are Different ● Gender in the Past ● Gender Across Cultures ● Gender Equality Paradox ● Addressing Misconceptions about Gender and Sex                                                                                                                                                                                                                                |
 | [GSRM/LGBTQ Issues](https://source-library.github.io/gsrm-lgbtq)                            | Conversion Therapy ● Homosexual Parenting ● Gay Nature vs Nurture ● Family Support ● Marriage Equality ● Legal Protection ● Bullying, Harassment, and Discrimination ● Homosexuality and Pedophilia ● Demographic Reference ● Rebutting myths about LGB people                                                                                                                                                                                    |
@@ -61,9 +62,7 @@ The original source library was created as a Google document on June 15, 2019, b
 
 - This factsheet is constantly updating and greatly benefits from viewer input! Feel free to contact us with any comments or suggestions you might have! Again, check the discord for the fastest responses.
 
-- This isn't the sort of doc you send over to someone if you’re in the middle of a debate. Telling someone to just debunk a 200+ page document off-hand is just a bad-faith approach which won’t win people over. It’s better to use this document as a source reference, and to use those specific sources in a debate rather than just throwing the whole google doc at people.
-
-- If you want to look further into reading studies so you can more critically analyze them and etc, give this a look. This sort of stuff is especially helpful for beginners, and plenty of guides like this exist online in case the one linked here isn’t helpful.
+- If you want to look further into reading studies so you can more critically analyze them and etc, give [this](https://docs.google.com/document/d/1naBql7CTY8Wgw-kDJ7dytnqrBjGNKyHbAbnNBEOzBuQ/edit) a look. This sort of stuff is especially helpful for beginners, and plenty of guides like this exist online in case the one linked here isn’t helpful.
 
 - It's highly recommended that you at least skim some of these sources and become familiar with some of them. Citing these blindly is a risky and often bad-faith thing to do. Take your time learning about subjects before trying to talk about them.
 
