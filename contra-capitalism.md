@@ -1,8 +1,5 @@
 **CONTRA PRO-CAPITALIST IDEOLOGY**
 
-------------
-
-</details>
 <details markdown="1">
 <summary>Pro-Capitalism</summary>
 
