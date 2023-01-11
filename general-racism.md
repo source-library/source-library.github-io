@@ -25,7 +25,7 @@ In an ideal society, we would get to live colorblind, in which race has no meani
 
 Taking on a fully colorblind approach also neglects the role that racist policies and history have had in shaping our present. We are not detached from our past, but rather we are the product of it. As a result of past discrimination, [we see communities and subdivisions divided up by race](https://www.forbes.com/sites/rakeenmabud/2019/12/04/history-and-housing-discrimination-why-neighborhoods-in-the-united-states-are-still-so-segregated/) (an artifact of past segregation), [inequalities in wealth and opportunity](https://oprhc.org/2016/08/how-segregation-creates-chronic-unemployment-poverty-traps-and-crime/) (a lasting result of discrimination past and present, among other things), and so on. Implementing a colorblind agenda RIGHT NOW would obviously not address the consequences of past racism, instead opting to ignore those consequences and shout "racism!" at anyone who actually does try to address those consequences.
 
-### **5. NBA Comparison/"The NBA/NFL is dominated by black players who have made fortunes in the sport"
+### 5. NBA Comparison/"The NBA/NFL is dominated by black players who have made fortunes in the sport"
 
 First of all, the NBA literally used to [block black players](https://www.washingtonpost.com/lifestyle/kidspost/in-nbas-early-years-black-players-werent-welcome/2017/02/15/664aa92e-f1fc-11e6-b9c9-e83fce42fb61_story.html) in its early years. This is not a valid comparison because there's no point of human treatment and racism has to have a subject and an object in which both are humans/human institutions. The NBA and NFL are just demographics. A demographic in and of itself can't be racist. The point of action where someone either interacts with an institution or another human being, that's when it's racist. There's not enough information to conclude whether the NBA or NFL is racist. Who’s hired in the NBA and NFL comes down to beating the clock, scoring, and yardage. Those three things have no opinions nor feelings.
 
@@ -429,12 +429,9 @@ The link between welfare and joblessness is groundless and blinds us to what act
 
 - [http://www.eeoc.gov/initiatives/e-race/significant-eeoc-racecolor-casescovering-private-and-federal-sectors](http://www.eeoc.gov/initiatives/e-race/significant-eeoc-racecolor-casescovering-private-and-federal-sectors) 
 
-- [https://www.aauw.org/](https://www.aauw.org/)
-
 - According to the Commerce Department, there are fewer than 2 million unemployed Black civilians and more than 100 million employed White civilians (U.S. Bureau of the Census, 1994). Thus, even if every unemployed Black worker were to displace a White worker, less than 2% of Whites would be affected. Furthermore, affirmative action pertains only to job-qualified applicants, so the actual percentage of affected Whites would be a fraction of 1%. The main sources of job loss among White workers have to do with factory relocations and labor contracting outside the United States, computerization and automation, and corporate downsizing.
 
-- [https://www.census.gov/library/publications/1994/compendia/statab/114ed.html](https://www.census.gov/library/publications/1994/compendia/statab/114ed.html)  
-  - Even if Harvard removed every black applicant from its admission pool, the odds of a white person getting in only goes up by 1%. [https://journals.sagepub.com/doi/10.1177/0895904815616484](https://journals.sagepub.com/doi/10.1177/0895904815616484)
+- Even if Harvard removed every black applicant from its admission pool, the odds of a white person getting in only goes up by 1%. [https://journals.sagepub.com/doi/10.1177/0895904815616484](https://journals.sagepub.com/doi/10.1177/0895904815616484)
 
 - White women benefit the most from affirmative action.
   - [https://www.vox.com/platform/amp/2016/5/25/11682950/fisher-supreme-court-white-women-affirmative-action](https://www.vox.com/platform/amp/2016/5/25/11682950/fisher-supreme-court-white-women-affirmative-action)
@@ -453,12 +450,11 @@ The link between welfare and joblessness is groundless and blinds us to what act
 
 ### **2. "Affirmative action is discrimination against Asians."**
 
-- [A 2016 study](https://journals.sagepub.com/doi/10.1177/0895904815616484) found that eliminating affirmative action would not increase the number of Asian Americans in elite colleges. When you completely eliminate Black and Latinx applicants from the Harvard admissions pool, the admissions rate for all remaining Asian American and white students only increases by 1%. This means that rejected Asian American and white applicants were unlikely to be admitted even with the omission of race.
+[A 2016 study](https://journals.sagepub.com/doi/10.1177/0895904815616484) found that eliminating affirmative action would not increase the number of Asian Americans in elite colleges. When you completely eliminate Black and Latinx applicants from the Harvard admissions pool, the admissions rate for all remaining Asian American and white students only increases by 1%. This means that rejected Asian American and white applicants were unlikely to be admitted even with the omission of race.
 
-- Affirmative action opponents don’t have the interests of Asians in mind. Rather, Asian students are being weaponized against marginalized college hopefuls. They intentionally invoke the model minority myth by portraying all Asians as highly successful individuals unfairly hurt by affirmative action. This advances the false narrative that Asian American students are a monolith, and completely ignores Asians who do not fit the model minority stereotype.
-  - There are also large discrepancies between various subgroups in the Asian American community. For example, only 27% of Vietnamese Americans and only 17% of Hmong and Cambodian Americans hold a bachelor’s degree or higher.
+Affirmative action opponents don’t have the interests of Asians in mind. Rather, Asian students are being weaponized against marginalized college hopefuls. They intentionally invoke the model minority myth by portraying all Asians as highly successful individuals unfairly hurt by affirmative action. This advances the false narrative that Asian American students are a monolith, and completely ignores Asians who do not fit the model minority stereotype. There are also large discrepancies between various subgroups in the Asian American community. For example, only 27% of Vietnamese Americans and only 17% of Hmong and Cambodian Americans hold a bachelor’s degree or higher.
 
-- Furthermore, Southeast Asian Americans benefit from affirmative action policies. While Blum claims he is protecting the interests of Asian Americans, his lawsuit ignores the fact that an overwhelming majority — 70% —  of Asian Americans agree with affirmative action. It’s no surprise, then, that more than 135 Asian American organizations banded together to support affirmative action.
+While conservatives will claim they are protecting the interests of Asian Americans, [the overwhelming majority — 69% —  of Asian Americans actually agree with affirmative action](https://aapidata.com/blog/affirmative-action-aavs-2022/). It’s no surprise, then, that [more than 150 Asian American organizations banded together to support affirmative action](https://archive.ncapaonline.org/aanhpi_organizations_support_affirmative_action_in_higher_education).
 
 ### **3. "Under affirmative action, minorities receive preferences."**
 
@@ -529,7 +525,13 @@ Income-based approaches don’t yield equal results when it comes to increasing 
   - **Over half of blacks (53 percent)** raised in the **bottom of the family income** ladder remain **stuck in the bottom as adults**, compared with only **a third (33 percent) of whites. Half of blacks (56 percent)** raised** in the **middle of the family income** ladder **fall to the bottom two rungs as adults** compared with just **under a third of whites (32 percent).**
   - **Half of blacks (50 percent)** raised in the **bottom of the family wealth ladder remain stuck in the bottom as adults**, compared with only **a third (33 percent) of whites.** **More than two-thirds of blacks (68 percent)** raised **in the middle fall to the bottom two rungs of the ladder as adults** compared with just **under a third of whites (30 percent).**
 
-## **Common Black Culture Myths:**
+------------
+
+</details>
+<details markdown="1">
+<summary>Common Black Culture Myths</summary>
+
+# Common Black Culture Myths
 
 ### **1. "It has nothing to do with race, and everything to do with culture."**
 
@@ -591,13 +593,25 @@ Why would it be that Black culture would adapt to the material conditions of the
   - So, the average white household spends 1.3 times more than the average black household of the same income group.
   - [The same researchers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6641572/pdf/nihms-1041011.pdf) also looked at specific categories of spending, finding that white households spend about twice as much as black households on entertainment among all income groups and that white households, especially those with low incomes, spend more than black households on cars. The researchers note that “for clothing, jewelry, personal care, entertainment, eating out, and other non-essential spending, our findings show that black consumers in fact spend the same or much less than whites, at all income levels.” The only category in which black households were found to consistently spend more was for utilities, including payments for electricity, heating fuel, water, sewer and telephone service; this may be due to the common utility company practice of risk-based pricing, which requires a deposit or other form of additional payment from customers with low credit scores, without stable employment, or with criminal records. While technically color-blind, risk-based pricing can have a disproportionate impact on black consumers, causing them to be charged more than white households for the same service.
 
-### **8. "Asian people were oppressed and interned during ww2 and discriminated against afterwards, so why aren't they as bad off as blacks are?"**
+### 8. The "[Model Minority](https://en.wikipedia.org/wiki/Model_minority)" Argument, aka "Asian-Americans have become highly successful in spite of past discrimination, so why can't black people also succeed?"
 
-These days, the majority of America's Asian population is only one or two generations removed from legal immigrants who came to America for merit-based citizenship. That automatically puts them, on average, at an advantage - even over poor white Americans.
+There are a number of problems with this argument, which we will address one at a time. **First of all, this argument assumes that Asian-Americans are a monolithic group which has categorically succeeded in America. However, this population can actually be broken down into a wide variety of different groups, each with varying levels of success economically, academically, and socially.** This goes against one of the most fundamental assumptions made by the model minority myth. [Pew Research](https://www.pewresearch.org/fact-tank/2021/04/29/key-facts-about-asian-origin-groups-in-the-u-s/) and the [Urban Institute](https://www.urban.org/urban-wire/model-minority-myth-hides-economic-realities-many-asian-americans) have both talked about this in further depth. Here are some of their visual graphics:
 
-Immigration from Asia was historically suppressed by legislation like the Chinese Exclusion Act (1882) and the Immigration Act of 1924. It wasn’t until the Immigration and Nationality Act in 1965 that immigration from Asia boomed. [In just over 50 years, the population of Asian Americans went from 980,000 in 1960 to 20.4 million in 2015](https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/) - 1960 was *after* the WWII concentration camps. Today 72% of the adult US Asian population was born outside of the US.
+| ![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-06.png?raw=true) | ![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-07.png?raw=true) | ![](https://github.com/source-library/source-library.github.io/blob/main/assets/general-racism-08.png?raw=true) |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Net worth of various Asian groups in Los Angeles (Urban Institute)                                                                        | % of people in each group who has a Bachelor's degree or higher (Pew Research)                                                 | Median household income and % poverty of groups (Pew Research)                                                                 |
 
-Being a heavily-immigrant population, Asian Americans on average have a better education and background compared both to the average white or native-born American and compared to the general populations in their country of origin, due to selection processes by America’s immigration system.
+**When comparing African-Americans to Asian-Americans, you also have to remember that these groups came to America in very different circumstances.** Most African-Americans were shipped to the US as part of the trans-atlantic slave trade, and went on to experience centuries of brutal discrimination by the American government. As a result, most black communities struggled to build wealth and prosper.
+
+The story for Asian-Americans is *very* different.
+
+Immigration from Asia was historically suppressed by legislation like the Chinese Exclusion Act (1882) and the Immigration Act of 1924. It wasn’t until the Immigration and Nationality Act in 1965 that immigration from Asia boomed. [In just over 50 years, the population of Asian Americans went from 980,000 in 1960 to 20.4 million in 2015](https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/). Today, 72% of the adult US Asian population was born outside of the US, and the majority of America's Asian population is only one or two generations removed from legal immigrants who came to America for merit-based citizenship.
+
+Being a heavily-immigrant population, Asian Americans *on average* have a better education and background compared both to the average white or native-born American *and* compared to the general populations in their country of origin, due to selection processes by America’s immigration system. When the immigration system selects for merit, this automatically puts immigrants, *on average*, at an advantage -- even over middle class white Americans.
+
+However, not all Asian-American immigrants arrive on the basis of merit. A significant amount of immigrants are political refugees or immigrated to America via the [green card lottery](https://en.wikipedia.org/wiki/Diversity_Immigrant_Visa), e.g. most [Bhutanese-Americans](https://en.wikipedia.org/wiki/Bhutanese_Americans) and [Burmese-Americans](https://en.wikipedia.org/wiki/Burmese_Americans). These immigrants usually have less wealth, less education, and worse english proficiency, and help to show that the Asian-American population is not as monolithic as the model minority myth would suggest. These worse-off groups also have specific needs which the model minority myth looks over, and this can impact actual government policy when elected officials have sweeping beliefs about Asian-Americans -- beliefs that aren't in touch with the needs of these worse off groups.
+
+All in all, this provides a clear picture of how **the Asian-American population is very different from the African-American population**, and asking "if Asians made it why can't black people make it?" misses the nuances that are key to why those differences exist.
 
 ### **9. "Jewish people were oppressed so why aren’t they as bad off as blacks are?"**
 
@@ -686,7 +700,7 @@ This topic also wraps into the work of researcher Lee Jussim, who has heavily ad
 - <https://docs.google.com/document/d/1AQvATilESV7C6cZN4dQhSswZKSTN0lVGOJRlJ25RbFY/edit#>
 
 - <https://archive.ph/BqQ7X> 
- - Thread shows why the data is often horribly wrong - **read the thread**
+  - Thread shows why the data is often horribly wrong - **read the thread**
 
 ------------
 
@@ -797,19 +811,9 @@ The number was between 20 and 25%, and in some states, the rate was twice as hig
 
 </details>
 <details markdown="1">
-<summary>Additional Resources</summary>
+<summary>Responses to Common Questions about Discrimination Studies</summary>
 
-# **Additional Resources**
-- [https://greatergood.berkeley.edu/article/item/what_happens_when_you_educate_liberals_about_white_privilege](https://greatergood.berkeley.edu/article/item/what_happens_when_you_educate_liberals_about_white_privilege)
-  - Educating social liberals about white privilege is more likely to make them view poor whites negatively than it is to make them empathize with poor blacks
-
-- [Landry & Marsh 11](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-081309-150047)
-  - Explores discrimination of black middle class
-  - Explains how class is tied with race
-
-- [https://www.sciencedirect.com/science/article/abs/pii/S0049089X12002621](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12002621)
-
-## Responses to Common Questions about Discrimination Studies
+# Responses to Common Questions about Discrimination Studies
 
 ### **1. "This study says they can't verify racist intent or to interpret the results with caution regarding intent (they can’t conclude outright that discrimination exists even if the evidence points in that direction)."**
 
@@ -833,5 +837,23 @@ If someone makes this claim, they’re making a positive statement. In order for
 - Prove how when including the confounded invariably doesn’t introduce multicollinearity in the model.
 
 Systemic racism is a field of study that uses inductive reasoning. Including too many variables in a model can lead to [overfitting](https://en.wikipedia.org/wiki/Overfitting "overfitting") which can produce biased results. In disparate impact testing, the primary statistical concern is most often “included variable bias” – the worry that the statistical estimates of disparate impact are biased because the regression inappropriately includes non-race variables.
+
+------------
+
+</details>
+<details markdown="1">
+<summary>Additional Resources</summary>
+
+# **Additional Resources**
+- [https://greatergood.berkeley.edu/article/item/what_happens_when_you_educate_liberals_about_white_privilege](https://greatergood.berkeley.edu/article/item/what_happens_when_you_educate_liberals_about_white_privilege)
+  - Educating social liberals about white privilege is more likely to make them view poor whites negatively than it is to make them empathize with poor blacks
+
+- [Landry & Marsh 11](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-081309-150047)
+  - Explores discrimination of black middle class
+  - Explains how class is tied with race
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0049089X12002621](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12002621)
+
+------------
 
 </details>
