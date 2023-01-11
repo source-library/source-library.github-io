@@ -2,16 +2,11 @@
 
 **MASSIVE thanks to [this right here](https://www.washingtonpost.com/news/opinions/wp/2018/09/18/theres-overwhelming-evidence-that-the-criminal-justice-system-is-racist-heres-the-proof/) which helped immensely with this section. Very useful resource on its own** ([CATO person’s endorsement](https://www.cato.org/blog/someone-disputes-racism-criminal-justice-system-show-them) of it)
 
-A few major links I’d cite when it comes to quickly proving CJS systemic racism is real:
-
+A few major links I’d cite when it comes to quickly proving systemic racism exists in the criminal justice system:
 - [There's racial bias in our police systems. Here's the overwhelming proof.](https://www.washingtonpost.com/graphics/2020/opinions/systemic-racism-police-evidence-criminal-justice-system/) 
-
 - [Documenting Systemic Racism in the United States of America](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec/edit)
-
 - [How Discrimination Creates White Privilege](https://docs.google.com/document/d/1VAFe_CXE-4zVnx-jxuW1Me8IJr5p3RDMcHC-yoaaNp8/edit)
-
 - [White Privilege and Systemic Racism Resources](https://docs.google.com/document/d/1Qq2ahq5EW5njcOjx3Ai5yQGEfHvIgo87UCcsOCftPmI/edit%23heading=h.bg8913y78pso)
-
 - [The U.S. Police System is Racist - Here's the Proof](https://www.youtube.com/watch?v=fAA-w5DiAAU) - video by [T1J](https://www.youtube.com/user/the1janitor) on YouTube
 
 ### Contents
@@ -817,8 +812,13 @@ Specifically, 5.2% of African Americans were likely to experience threat or exce
 - **Lightning comparison**
   - Anybody of any race can get hit by lightning. It is more likely that 320 million people would get hit by lightning, more than 13% of the population getting killed by police. The numbers are still disproportionate because more black people get killed by police per capita than the people in the US get struck by lightning. Also the lighting doesn’t care who it strikes. It doesn’t have feelings. It doesn’t make decisions. The lightning didn’t have 6 months of training.
 
+------------
 
-## Addressing Specific Reactionary Studies:
+</details>
+<details markdown="1">
+<summary>Addressing Specific Reactionary Studies</summary>
+
+# Addressing Specific Reactionary Studies
 
 ### 1. [Fryer 2016](https://scholar.harvard.edu/fryer/publications/empirical-analysis-racial-differences-police-use-force) (sometimes cited as [this NYT article](https://www.nytimes.com/2016/07/12/upshot/surprising-new-evidence-shows-bias-in-police-use-of-force-but-not-in-shootings.html))
   - **Harvard study used to assert that police don’t discriminate against black people**
