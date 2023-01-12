@@ -3,7 +3,7 @@
 <details markdown="1">
 <summary>Conversion Therapy</summary>
 
-# **Conversion Therapy**
+# Conversion Therapy/Sexual Orientation Change Efforts (SOCE)
 **CT increases depression and suicide attempts, does not have public nor professional backing, and lacks proof of its effectiveness.**
 
 - [Cornell University](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-whether-conversion-therapy-can-alter-sexual-orientation-without-causing-harm/)
@@ -51,7 +51,7 @@
   - American Academy of Physician Assistants
   - American College of Physicians
 
-- [http://homoresponse.blogspot.co.uk/2012/10/position-statements.html#03](homoresponse.blogspot.co.uk/2012/10/position-statements.html%2303) a bunch of position statements by relevant academic institutions
+- [http://homoresponse.blogspot.co.uk/2012/10/position-statements.html](http://homoresponse.blogspot.co.uk/2012/10/position-statements.html) a bunch of position statements by relevant academic institutions
 
 - **A number of former ex-gay activists, usually religious, have since come out as gay again**, including:
   - Michael Bussee (co-founder of Exodus International, one of the largest ex-gay groups)
@@ -59,9 +59,9 @@
   - McKrae Game (conversion therapy promoter and founder of Hope for Wholeness)
   - John Paulk (worked with anti-gay group Focus On The Family for several years before coming out as gay again)
 
-- [https://www.lehmiller.com/blog/2014/3/31/are-religiously-motivated-people-able-to-change-their-sexual-orientation](https://www.lehmiller.com/blog/2014/3/31/are-religiously-motivated-people-able-to-change-their-sexual-orientation)
-
 - [https://www.susans.org/wiki/Conversion_therapy](https://www.susans.org/wiki/Conversion_therapy)
+
+- [https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcou0000011](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcou0000011) (covered here as well [https://archive.ph/RGykB](https://archive.ph/RGykB))
 
 ------------
 
@@ -212,7 +212,7 @@
 - [Erlangsen et al. 2019](https://jech.bmj.com/content/74/1/78) ([cited](https://www.weforum.org/agenda/2019/11/suicides-fall-with-gay-marriage-in-sweden-denmark-as-stigma-fades/)) ([cited](https://www.theguardian.com/world/2019/nov/14/suicide-rates-fall-after-gay-marriage-laws-in-sweden-and-denmark))
   - TLDR suicide among gay people fell in Denmark and Sweden after gay marriage was legalized in those countries. The links cited do a good job explaining things
 
-- [A number of reputable academic/scientific organizations see no problem with same-sex marriage](homoresponse.blogspot.com/2012/10/position-statements.html%2301):
+- [A number of reputable academic/scientific organizations see no problem with same-sex marriage](http://homoresponse.blogspot.com/2012/10/position-statements.html):
   - American Psychological Association
   - American Anthropological Association
   - American Sociological Association
@@ -273,7 +273,7 @@
     - *In total, 29,291 youth entered the survey website. Among these respondents, 17,112 completed at least 10 percent of the survey, 12,005 completed at least half, and 9,460 completed the entire survey. In this report, the 50 percent and up sample (n=12,005) was utilized for analyses.*
 
 - [Pew Research 13](https://www.pewsocialtrends.org/2013/06/13/a-survey-of-lgbt-americans/)
-![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-01.png?raw=true)
+  - ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-01.png?raw=true)
 
 - [University of Chicago Chapin Hall Youth Homelessness Report 17](https://voicesofyouthcount.org/wp-content/uploads/2017/11/ChapinHall_VoYC_NationalReport_Final.pdf)
   - **LGBTQ youth** are **120%** more likely to **experience homelessness** than cisgender and heterosexual youth.
@@ -306,7 +306,7 @@
   - Finds evidence of widespread discrimination (**workplace harassment, reduced employment opportunities, etc.**) in scientific field studies, controlled experiments, academic journals, court cases, state and local administrative complaints, etc.
   - *“discrimination has negative effects on LGBT people in terms of health, wages, job opportunities, productivity in the workplace, and job satisfaction”*
 
-- [http://homoresponse.blogspot.com/2011/06/mental-health-and-substance-abuse.html](homoresponse.blogspot.com/2011/06/mental-health-and-substance-abuse.html)
+- [http://homoresponse.blogspot.com/2011/06/mental-health-and-substance-abuse.html](http://homoresponse.blogspot.com/2011/06/mental-health-and-substance-abuse.html)
   - Pretty useful repository of studies which affirm the idea that discrimination is the main driver of lower quality of life for gay people
 
 - [https://advances.sciencemag.org/content/6/40/eaba6910](https://advances.sciencemag.org/content/6/40/eaba6910)
@@ -334,7 +334,6 @@
 <summary>Homosexuality and Pedophilia</summary>
 
 # **Homosexuality and Pedophilia**
-**WIP**
 
 ## General overview:
 Videos that cover a lot of the stuff in this section but in video format:
@@ -405,15 +404,16 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 - [https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf](https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf) the CDC in 2014 said 3.4% of the US population didn’t say they’re straight
 
 - [Pew Research 2013](https://www.pewsocialtrends.org/2013/06/13/a-survey-of-lgbt-americans/) - (population stats are not the best because non-heterosexual trans folk are counted once as *either* trans or non-heterosexual)
-![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-02.png?raw=true)
-![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-03.png?raw=true)
-![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-04.png?raw=true)
-![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-05.png?raw=true)
+
+| ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-02.png?raw=true) | ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-03.png?raw=true) |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-04.png?raw=true) | ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-05.png?raw=true) |
 
 - [Williams Institute 16](https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/) ([pdf](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf))
   - **WIDELY CITED** population estimate for transgender people
   - Estimates a transgender population of around 0.6%, or 1.4 million people, in the United States
   - This is double the amount estimated by a 2011 study (0.3%) which had limited data to work with
+
 ------------
 
 </details>
@@ -467,7 +467,7 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 
 [http://homoresponse.blogspot.com/2011/06/mental-health-and-substance-abuse.html](https://homoresponse.blogspot.com/2011/06/mental-health-and-substance-abuse.html)
 
-[https://www.lehmiller.com/blog/2012/9/28/5-myths-about-homosexuality-debunked-by-science.html](https://www.lehmiller.com/blog/2012/9/28/5-myths-about-homosexuality-debunked-by-science.html)
+[https://www.sexandpsychology.com/blog/2012/9/28/5-myths-about-homosexuality-debunked-by-science/](https://www.sexandpsychology.com/blog/2012/9/28/5-myths-about-homosexuality-debunked-by-science/)
 
 [https://www.livescience.com/13409-myths-gay-people-debunked-sexual-orientation.html](https://www.livescience.com/13409-myths-gay-people-debunked-sexual-orientation.html)
 
@@ -477,67 +477,78 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 
 [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178534](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178534)
 
-## Specific Studies:
+------------
 
-- [Regnerus 12](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12000610), sometimes called the New Family Structures Study ([wikipedia](https://en.wikipedia.org/wiki/New_Family_Structures_Study))
-  - **Claims that same-sex couples have a negative impact on their children** as opposed to heterosexual couples
-    - Common image which uses this study’s data ([image link](https://archive.ph/o/uY9Yr/https://cdn.discordapp.com/attachments/695440504057495642/695464817057595442/1568074204241.png))
+</details>
+<details markdown="1">
+<summary>Rebutting Anti-LGB Studies</summary>
+
+# Rebutting Anti-LGB Studies
+
+### 1. [Regnerus 12](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12000610), sometimes called the New Family Structures Study ([wikipedia](https://en.wikipedia.org/wiki/New_Family_Structures_Study))
+
+- **Claims that same-sex couples have a negative impact on their children** as opposed to heterosexual couples
+  - Common image which uses this study’s data:
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-06.png?raw=true)
-  - **METHODOLOGICAL FLAWS - ignores factors like family instability**
-    - This problem goes as deep as the questionnaire that defined the samples - the questions basically barred unstable, broken straight homes out of the sample whereas unstable gay families were included in the data. [This Slate article explains it well](https://slate.com/technology/2012/06/new-family-structures-study-is-gay-parenthood-bad-or-is-gay-marriage-good.html):
-      - “_The survey went on to ask: “From when you were born until age 18 … did either of your parents ever have a romantic relationship with someone of the same sex?” If the respondent said yes, he was put in the “gay father” (GF) or “lesbian mother” (LM) category, regardless of subsequent answers. But if he said no, a later question about the relationship between “your biological parents” was used to classify him as the product of an “intact biological family” (IBF) or of an “adopted,” “divorced,” “stepfamily,” or “single-parent” household. **In other words, broken families were excluded from the IBF**_ **[straight couple] _category but included in the GF and LM_ [gay couple] _categories_**_._”
-    - Subsequent studies, which were done **WITH REGNERUS’S DATA**, found that **different results were found upon accounting for factors like family instability** ([first](https://www.sciencedirect.com/science/article/abs/pii/S0049089X1500085X)) ([second](https://www.sociologicalscience.com/articles-v2-23-478/)). It’s worth noting that the first paper has since gotten a response from Regnerus.
-  - [Outside of the study design](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12001652), [**certain problems have also been raised about the study's timeline, peer review**](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12001652), [etc.](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12001652)
-  - [**Raised concern and criticism from 200+ scientists**](https://www.impactprogram.org/wp-content/uploads/2012/07/Letter-to-the-editors-and-advisory-editors-of-Social-Science-Research.pdf)[, a great deal of whom have PhDs in relevant fields](https://www.impactprogram.org/wp-content/uploads/2012/07/Letter-to-the-editors-and-advisory-editors-of-Social-Science-Research.pdf). These were not merely concerns about being politically correct, but were actual criticisms of the study methodology, results, and the specifics of the study’s approval process.
-  - Even if the study is robust, policy implications aren’t necessarily straightforward. Regnerus himself [has said](https://familyinequality.wordpress.com/2013/03/01/marriage-denial/) that “*The political take-home message of the NFSS study is unclear, however. On the one hand, the instability detected in the NFSS **could translate into a call for extending the relative security afforded by marriage to gay and lesbian couples**.*” In other words, you could interpret his study as an argument in favor of gay marriage, as legalizing gay marriage would offer gay couples the extra benefits and stabilizing impact that straight couples are already given.
-  - [https://familyinequality.wordpress.com/2015/04/30/how-random-error-and-dirty-data-made-regnerus-even-wronger-than-we-thought/](https://familyinequality.wordpress.com/2015/04/30/how-random-error-and-dirty-data-made-regnerus-even-wronger-than-we-thought/)
-  - [https://familyinequality.wordpress.com/tag/regnerus/](https://familyinequality.wordpress.com/tag/regnerus/) for later digging. This specific guy spent quite a bit of time diving into the details of the Regnerus study.
-  - [https://healthland.time.com/2012/06/11/do-children-of-same-sex-parents-really-fare-worse/](https://healthland.time.com/2012/06/11/do-children-of-same-sex-parents-really-fare-worse/) provides a fair summary of the big critiques
+- **METHODOLOGICAL FLAWS - ignores factors like family instability**
+  - This problem goes as deep as the questionnaire that defined the samples - the questions basically barred unstable, broken straight homes out of the sample whereas unstable gay families were included in the data. [This Slate article explains it well](https://slate.com/technology/2012/06/new-family-structures-study-is-gay-parenthood-bad-or-is-gay-marriage-good.html):
+    - “_The survey went on to ask: “From when you were born until age 18 … did either of your parents ever have a romantic relationship with someone of the same sex?” If the respondent said yes, he was put in the “gay father” (GF) or “lesbian mother” (LM) category, regardless of subsequent answers. But if he said no, a later question about the relationship between “your biological parents” was used to classify him as the product of an “intact biological family” (IBF) or of an “adopted,” “divorced,” “stepfamily,” or “single-parent” household. **In other words, broken families were excluded from the IBF**_ **[straight couple] _category but included in the GF and LM_ [gay couple] _categories_**_._”
+  - Subsequent studies, which were done **WITH REGNERUS’S DATA**, found that **different results were found upon accounting for factors like family instability** ([first](https://www.sciencedirect.com/science/article/abs/pii/S0049089X1500085X)) ([second](https://www.sociologicalscience.com/articles-v2-23-478/)). It’s worth noting that the first paper has since gotten a response from Regnerus.
+- [Outside of the study design](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12001652), [**certain problems have also been raised about the study's timeline, peer review**](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12001652), [etc.](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12001652)
+- [**Raised concern and criticism from 200+ scientists**](https://www.impactprogram.org/wp-content/uploads/2012/07/Letter-to-the-editors-and-advisory-editors-of-Social-Science-Research.pdf)[, a great deal of whom have PhDs in relevant fields](https://www.impactprogram.org/wp-content/uploads/2012/07/Letter-to-the-editors-and-advisory-editors-of-Social-Science-Research.pdf). These were not merely concerns about being politically correct, but were actual criticisms of the study methodology, results, and the specifics of the study’s approval process.
+- Even if the study is robust, policy implications aren’t necessarily straightforward. Regnerus himself [has said](https://familyinequality.wordpress.com/2013/03/01/marriage-denial/) that “*The political take-home message of the NFSS study is unclear, however. On the one hand, the instability detected in the NFSS **could translate into a call for extending the relative security afforded by marriage to gay and lesbian couples**.*” In other words, you could interpret his study as an argument in favor of gay marriage, as legalizing gay marriage would offer gay couples the extra benefits and stabilizing impact that straight couples are already given.
+- [https://familyinequality.wordpress.com/2015/04/30/how-random-error-and-dirty-data-made-regnerus-even-wronger-than-we-thought/](https://familyinequality.wordpress.com/2015/04/30/how-random-error-and-dirty-data-made-regnerus-even-wronger-than-we-thought/)
+- [https://familyinequality.wordpress.com/tag/regnerus/](https://familyinequality.wordpress.com/tag/regnerus/) for later digging. This specific guy spent quite a bit of time diving into the details of the Regnerus study.
+- [https://healthland.time.com/2012/06/11/do-children-of-same-sex-parents-really-fare-worse/](https://healthland.time.com/2012/06/11/do-children-of-same-sex-parents-really-fare-worse/) provides a fair summary of the big critiques
 
-- [”](https://www.ncbi.nlm.nih.gov/pubmed/14567650/)[*Can Some Gay Men and Lesbians Change Their Sexual Orientation? 200 Participants Reporting a Change from Homosexual to Heterosexual Orientation*](https://www.ncbi.nlm.nih.gov/pubmed/14567650/)[” aka Spitzer 2001](https://www.ncbi.nlm.nih.gov/pubmed/14567650/) ([more info](https://en.wikipedia.org/wiki/Conversion_therapy%23Analysis_of_the_May_2001_Spitzer_report)) ([a bit more](https://en.wikipedia.org/wiki/Robert_Spitzer_\(psychiatrist\)%23On_homosexuality)) ([non-paywall](https://web.archive.org/web/20170414121527/http://www.stolaf.edu/people/huff/classes/Psych130S2012/LabDocuments/Spitzer.pdf))
-  - **Used by gay-straight conversion therapy advocates to suggest that conversion therapy works**
-  - **SAMPLE BIAS** - 93% sought therapy due to religious beliefs and 78% had publicly supported conversion therapy, thus motivating them to overreport success.
-    - In fact, [**two thirds of the participants had been referred from groups which are pro conversion therapy**](https://www.cbsnews.com/news/straight-if-they-want/), further undermining the usefulness of the sample: “*Some 43 percent of the sample had been referred to Spitzer by "ex-gay ministries" that offer programs to gay people who seek to change* [...] *An additional 23 percent were referred by the National Association for Research and Therapy of Homosexuality, which says most of its members consider homosexuality a developmental disorder.*”
-    - Even if all of the reports are legitimate and there 100% was conversion therapy, it’s still worth considering that **these results still might only apply to people who are highly motivated** to change sexual orientation, and wouldn’t work on the typical gay person. Spitzer himself [has said multiple times](https://respectmyresearch.org/scientists/dr-robert-spitzer/) following the study that he expected conversion therapy to only work on a small number of homosexuals. This makes sense too once you consider the sample bias of the study.
-  - Bisexuality is completely ignored by Spitzer, meaning that any bisexuals in the study probably would have been considered homosexual from the start
-  - **The study was formally disavowed by Spitzer** in 2012 due to its flaws, and [he’s criticized anti-gay groups for abusing his research for their agenda](https://respectmyresearch.org/scientists/dr-robert-spitzer/).
-    - Some people say that he disavowed the study due to pressure from LGBT groups, but this view both pivots from the various flaws of the study and ignores that he reached that view from over a decade of retrospection, whereas most of the political pressure likely came from the study’s first step into the spotlight in 2001.
-  - Some more info about its flaws [here](https://psychology.ucdavis.edu/rainbow/html/facts_changing.html) and [here](https://www.researchgate.net/publication/287322196_Understanding_the_self-reports_of_reparative_therapy_successes) - probably worth citing if the study comes up in a discussion
+### 2. ["Can Some Gay Men and Lesbians Change Their Sexual Orientation? 200 Participants Reporting a Change from Homosexual to Heterosexual Orientation"](https://www.ncbi.nlm.nih.gov/pubmed/14567650/) aka Spitzer 2001 ([more info](https://en.wikipedia.org/wiki/Conversion_therapy%23Analysis_of_the_May_2001_Spitzer_report)) ([a bit more](https://en.wikipedia.org/wiki/Robert_Spitzer_\(psychiatrist\)%23On_homosexuality)) ([non-paywall](https://web.archive.org/web/20170414121527/http://www.stolaf.edu/people/huff/classes/Psych130S2012/LabDocuments/Spitzer.pdf))
 
-- [Nicolosi et al. 2000](https://doi.org/10.2466/pr0.2000.86.3c.1071)
-  - **Used by gay-straight conversion therapy advocates to suggest that conversion therapy works**
-  - **CAN’T BE EXTRACTED TO GENERAL POPULACE** - “*The sampling procedures did not permit the researchers to keep a count of the number of people who were invited to participate in the survey, and so it is not possible to estimate response rates. Thus, it is important to keep in mind that **the results of this survey cannot be meaningfully generalized beyond the present sample. The survey also does not allow us to draw conclusions about what percentage of dissatisfied homosexually oriented people who experience conversion therapy find it helpful or unhelpful**. All we can confidently conclude is that the survey enabled us to find out more about the beliefs and attitudes of this specific sample of dissatisfied homosexually oriented people.*”
-    - Keep in mind that **this does not render the data of this study as useless**, as it could be used to figure out general attitudes regarding what CT practices worked or failed for those particular clients, and those practices could be experimented more on in the future
-  - Sample bias likely plays a role as well - **96% of respondents said religion or spirituality matter a lot to them**, making them more likely to overreport success as Abrahamic religions are generally pro-CT
+- **Used by gay-straight conversion therapy advocates to suggest that conversion therapy works**
+- **SAMPLE BIAS** - 93% sought therapy due to religious beliefs and 78% had publicly supported conversion therapy, thus motivating them to overreport success.
+  - In fact, [**two thirds of the participants had been referred from groups which are pro conversion therapy**](https://www.cbsnews.com/news/straight-if-they-want/), further undermining the usefulness of the sample: “*Some 43 percent of the sample had been referred to Spitzer by "ex-gay ministries" that offer programs to gay people who seek to change* [...] *An additional 23 percent were referred by the National Association for Research and Therapy of Homosexuality, which says most of its members consider homosexuality a developmental disorder.*”
+  - Even if all of the reports are legitimate and there 100% was conversion therapy, it’s still worth considering that **these results still might only apply to people who are highly motivated** to change sexual orientation, and wouldn’t work on the typical gay person. Spitzer himself [has said multiple times](https://respectmyresearch.org/scientists/dr-robert-spitzer/) following the study that he expected conversion therapy to only work on a small number of homosexuals. This makes sense too once you consider the sample bias of the study.
+- Bisexuality is completely ignored by Spitzer, meaning that any bisexuals in the study probably would have been considered homosexual from the start
+- **The study was formally disavowed by Spitzer** in 2012 due to its flaws, and [he’s criticized anti-gay groups for abusing his research for their agenda](https://respectmyresearch.org/scientists/dr-robert-spitzer/).
+  - Some people say that he disavowed the study due to pressure from LGBT groups, but this view both pivots from the various flaws of the study and ignores that he reached that view from over a decade of retrospection, whereas most of the political pressure likely came from the study’s first step into the spotlight in 2001.
+- Some more info about its flaws [here](https://psychology.ucdavis.edu/rainbow/html/facts_changing.html) and [here](https://www.researchgate.net/publication/287322196_Understanding_the_self-reports_of_reparative_therapy_successes) - probably worth citing if the study comes up in a discussion
 
-- [Sullins 16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4903140/)
-  - [https://slate.com/human-interest/2016/07/new-gay-parenting-study-is-a-dishonest-assault-on-lgbtq-families.html](https://archive.ph/o/uY9Yr/https://slate.com/human-interest/2016/07/new-gay-parenting-study-is-a-dishonest-assault-on-lgbtq-families.html)
-  - [https://web.archive.org/web/20150309084841/https://thinkprogress.org/lgbt/2015/02/10/3621375/regnerus-sullins-same-sex-parenting/](https://web.archive.org/web/20150309084841/https://thinkprogress.org/lgbt/2015/02/10/3621375/regnerus-sullins-same-sex-parenting/)
-  - Keep in mind the study’s critiques might be bad: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204099/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204099/)
+### 3. [Nicolosi et al. 2000](https://doi.org/10.2466/pr0.2000.86.3c.1071)
 
-- [*Does Maltreatment in Childhood Affect Sexual Orientation in Adulthood?* aka Roberts, Glymour, Koenen 2012](https://link.springer.com/article/10.1007/s10508-012-0021-9)
-  - The study concluded that being gay could be caused in some cases by sexual abuse at a young age (though they also said the opposite could also happen, so homosexuality and childhood sexual abuse could have bidirectional causation)
-  - **Predicted a measly 2% increase in homosexuality in people who had experienced said abuse**. This isn’t exactly the most significant evidence on the part of homophobes
-  - The study itself used a really weird model that’s usually reserved for economics, and probably screwed some stuff up in part because of that. See the critiques below
-    - [https://www.researchgate.net/publication/236080929_Poor_Instruments_Lead_to_Poor_Inferences_Comment_on_Roberts_Glymour_and_Koenen_2013](https://www.researchgate.net/publication/236080929_Poor_Instruments_Lead_to_Poor_Inferences_Comment_on_Roberts_Glymour_and_Koenen_2013)
-    -[https://www.researchgate.net/publication/260611224_Genetic_Confounds_in_the_Study_of_Sexual_Orientation_Comment_on_Roberts_Glymour_and_Koenen_2014](https://www.researchgate.net/publication/260611224_Genetic_Confounds_in_the_Study_of_Sexual_Orientation_Comment_on_Roberts_Glymour_and_Koenen_2014)
-  - See also relevant commentary on the study here [https://en.wikipedia.org/wiki/Environment_and_sexual_orientation](https://en.wikipedia.org/wiki/Environment_and_sexual_orientation)
+- **Used by gay-straight conversion therapy advocates to suggest that conversion therapy works**
+- **CAN’T BE EXTRACTED TO GENERAL POPULACE** - “*The sampling procedures did not permit the researchers to keep a count of the number of people who were invited to participate in the survey, and so it is not possible to estimate response rates. Thus, it is important to keep in mind that **the results of this survey cannot be meaningfully generalized beyond the present sample. The survey also does not allow us to draw conclusions about what percentage of dissatisfied homosexually oriented people who experience conversion therapy find it helpful or unhelpful**. All we can confidently conclude is that the survey enabled us to find out more about the beliefs and attitudes of this specific sample of dissatisfied homosexually oriented people.*”
+  - Keep in mind that **this does not render the data of this study as useless**, as it could be used to figure out general attitudes regarding what CT practices worked or failed for those particular clients, and those practices could be experimented more on in the future
+- Sample bias likely plays a role as well - **96% of respondents said religion or spirituality matter a lot to them**, making them more likely to overreport success as Abrahamic religions are generally pro-CT
 
-- [*Emotionally Absent Fathers: Furthering the Understanding of Homosexuality* aka Seutter & Rovers 2004](https://journals.sagepub.com/doi/abs/10.1177/009164710403200105)
-  - Study used to claim that weak/unstable father relations cause homosexuality
-  - The crux of the point relies on a 4.27 point difference between gays and straights on “Intimacy with Father”, the difference between a score of 39.27 and 35. See the table below:
+### 4. [Sullins 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4903140/)
+
+- [https://slate.com/human-interest/2016/07/new-gay-parenting-study-is-a-dishonest-assault-on-lgbtq-families.html](https://archive.ph/o/uY9Yr/https://slate.com/human-interest/2016/07/new-gay-parenting-study-is-a-dishonest-assault-on-lgbtq-families.html)
+- [https://web.archive.org/web/20150309084841/https://thinkprogress.org/lgbt/2015/02/10/3621375/regnerus-sullins-same-sex-parenting/](https://web.archive.org/web/20150309084841/https://thinkprogress.org/lgbt/2015/02/10/3621375/regnerus-sullins-same-sex-parenting/)
+- Keep in mind the study’s critiques might be bad: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204099/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204099/)
+
+### 5. ["Does Maltreatment in Childhood Affect Sexual Orientation in Adulthood?" aka Roberts, Glymour, Koenen 2012](https://link.springer.com/article/10.1007/s10508-012-0021-9)
+
+- The study concluded that being gay could be caused in some cases by sexual abuse at a young age (though they also said the opposite could also happen, so homosexuality and childhood sexual abuse could have bidirectional causation)
+- **Predicted a measly 2% increase in homosexuality in people who had experienced said abuse**. This isn’t exactly the most significant evidence on the part of homophobes
+- The study itself used a really weird model that’s usually reserved for economics, and probably screwed some stuff up in part because of that. See the critiques below
+  - [https://www.researchgate.net/publication/236080929_Poor_Instruments_Lead_to_Poor_Inferences_Comment_on_Roberts_Glymour_and_Koenen_2013](https://www.researchgate.net/publication/236080929_Poor_Instruments_Lead_to_Poor_Inferences_Comment_on_Roberts_Glymour_and_Koenen_2013)
+  -[https://www.researchgate.net/publication/260611224_Genetic_Confounds_in_the_Study_of_Sexual_Orientation_Comment_on_Roberts_Glymour_and_Koenen_2014](https://www.researchgate.net/publication/260611224_Genetic_Confounds_in_the_Study_of_Sexual_Orientation_Comment_on_Roberts_Glymour_and_Koenen_2014)
+- See also relevant commentary on the study here [https://en.wikipedia.org/wiki/Environment_and_sexual_orientation](https://en.wikipedia.org/wiki/Environment_and_sexual_orientation)
+
+### 6. ["Emotionally Absent Fathers: Furthering the Understanding of Homosexuality" aka Seutter & Rovers 2004](https://journals.sagepub.com/doi/abs/10.1177/009164710403200105)
+- Study used to claim that weak/unstable father relations cause homosexuality
+- The crux of the argument here relies on a 4.27 point difference between gays and straights on “Intimacy with Father”, the difference between a score of 39.27 and 35. See the table below:
 ![](https://github.com/source-library/source-library.github.io/blob/main/assets/gsrm-07.png?raw=true)
   - In general, **the average scores that gays and straights got are very similar across the board**, none of them being more than 5 points apart. The standard deviations (labeled “SD”) are all remarkably similar too.
   - People will hone in on how gay people scored lower on “Intimacy with Father” compared to straights, but **the difference is scores is a pretty small 4.27 difference**. Given the small sample size (only 24 gay people surveyed!) even one outlier could make the difference here.
   - **EVEN IF gay people scored SIGNIFICANTLY lower on father intimacy, this doesn’t mean anything about father absence CAUSING gayness**. Correlation doesn’t automatically mean causation. On the flip side, you could argue the causation goes the other way around - gay people are often rejected from their families for being gay (a homosexuality → father absence effect).
 
-- [Schumm 2010](https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/children-of-homosexuals-more-apt-to-be-homosexuals-a-reply-to-morrison-and-to-cameron-based-on-an-examination-of-multiple-sources-of-data/A9A564AF4D13FC42A78E67868C590FD4)
-  - Claims that children of gay parents are 1.7 to 12.1 times as likely to become gay as children of straight parents
-  - [https://www.boxturtlebulletin.com/2010/10/17/27400](https://www.boxturtlebulletin.com/2010/10/17/27400)
-  - [https://www.huffpost.com/entry/dangerous-new-antigay-sha_b_767507](https://www.huffpost.com/entry/dangerous-new-antigay-sha_b_767507)
+### 7. [Schumm 2010](https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/children-of-homosexuals-more-apt-to-be-homosexuals-a-reply-to-morrison-and-to-cameron-based-on-an-examination-of-multiple-sources-of-data/A9A564AF4D13FC42A78E67868C590FD4)
+- Claims that children of gay parents are 1.7 to 12.1 times as likely to become gay as children of straight parents
+- [https://www.boxturtlebulletin.com/2010/10/17/27400](https://www.boxturtlebulletin.com/2010/10/17/27400)
+- [https://www.huffpost.com/entry/dangerous-new-antigay-sha_b_767507](https://www.huffpost.com/entry/dangerous-new-antigay-sha_b_767507)
 
-- More briefs on how anti-gay groups have misrepresented scientific data to support their agendas:
-  - [https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/](https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/)
-  - [https://respectmyresearch.org/qa/](https://archive.ph/o/uY9Yr/https://respectmyresearch.org/qa/)
+### 8. More briefs on how anti-gay groups have misrepresented scientific data to support their agendas:
+- [https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/](https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/)
+- [https://respectmyresearch.org/qa/](https://archive.ph/o/uY9Yr/https://respectmyresearch.org/qa/)
 
 </details>
