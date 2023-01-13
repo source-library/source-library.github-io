@@ -484,6 +484,7 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 <summary>Rebutting Anti-LGB Studies</summary>
 
 # Rebutting Anti-LGB Studies
+**This [related document](https://docs.google.com/document/d/1OLt4soHdYjSmCLRikD1hkLUekr4Mhk9sKf_v4mEXhis/edit) also covers some studies so I'd recommend you give it a look as well.**
 
 ### 1. [Regnerus 12](https://www.sciencedirect.com/science/article/abs/pii/S0049089X12000610), sometimes called the New Family Structures Study ([wikipedia](https://en.wikipedia.org/wiki/New_Family_Structures_Study))
 
@@ -550,5 +551,7 @@ Essentially, **normal gay people are entirely different from pedophiles because 
 ### 8. More briefs on how anti-gay groups have misrepresented scientific data to support their agendas:
 - [https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/](https://shadowproof.com/2013/11/25/the-anti-gay-right-needs-to-be-exposed-for-their-scientific-misconduct/)
 - [https://respectmyresearch.org/qa/](https://archive.ph/o/uY9Yr/https://respectmyresearch.org/qa/)
+
+------------
 
 </details>
