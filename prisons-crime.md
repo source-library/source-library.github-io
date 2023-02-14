@@ -59,6 +59,52 @@
   - 'Persons in poor households had a higher rate of violence involving a firearm (3.5 per 1,000) compared to persons above the FPL (0.8-2.5 per 1,000)'
   - **After accounting for poverty and urbanity** (which are strong predictors in crime levels), “***Poor urban blacks** (51.3 per 1,000) **had rates of violence similar to poor urban whites** (56.4 per 1,000)*”
 
+
+
+## Inequality
+
+([Document link for sources on inequality](https://docs.google.com/document/d/1MtypVoAnSAZDbuDjX1y4j5eqU4lTdaOq42DdPiowDUE/edit))
+
+- https://equalitytrust.org.uk/crime
+  - Rates of violence are higher in more unequal societies.  This finding holds up in many different contexts, when looked at via different methodologies and after controlling for other determinants of crime such as low income, unemployment, and teen birth rates.
+  - Small permanent decreases in inequality - such as reducing inequality from the level found in Spain to that in Canada - would reduce homicides by 20% and lead to a 23% long-term reduction in robberies[4].
+The evidence on the link between changes in income inequality and crime is less clear than the evidence on income inequality and crime at one point in time. While there is a consensus that property crime and some types of violent crime – homicide, murder and robbery - are related very strongly to changing income inequality, it is more ambiguous as to whether other types of violent crime, such as rape and assault, are affected by inequality
+  - **Inequality affects crime through these mechanisms:**
+    - It may stimulate social competition and so encourage violence or may curtail opportunities for some, giving rise to a sense of hopelessness which incites fear, violence and murder.
+    - Low levels of trust in (highly) unequal countries may provide the link which leads from higher inequality to high murder rates. Such societies may lack the social capacity to prevent violence and create safe communities. Experiences of inferiority may make someone less inclined to behave in a socially desirable way. This materialises as increased aggressive behaviour and high crime rates.
+
+- https://www.journals.uchicago.edu/doi/abs/10.1086/655357
+  - “The same could be said of the empirical status of economic/resource deprivation theory. One of its key theoretical variables-poverty-was also one of the five strong and stable predictors of crime noted in table 3. To be sure, these analyses show that in addition to having a substantially robust mean effect size (ADJz = 0.253), the effect of poverty on crime is not significantly conditioned by methodological factors (e.g., measurement differences, model specification variations, and so on). The effect of inequality on crime is only slightly smaller in effect size (ADJz = 0.207), and it fell into the moderate categories for both strength and stability in table 3. Given the relative strength and stability of the relationships between poverty, inequality, and crime, therefore, economic/resource deprivation theory was designated as having received strong empirical support across studies.”
+
+- https://www.researchgate.net/publication/24095661_Inequality_And_Crime
+  - This paper considers the relationship between inequality and crime using data from urban counties. The behavior of property and violent crime are quite different. Inequality has no effect on property crime but a strong and robust impact on violent crime, with an elasticity above 0.5. By contrast, poverty and police activity have significant effects on property crime, but little on violent crime. Property crime is well explained by the economic theory of crime, while violent crime is better explained by strain and social disorganization theories.
+
+- https://www.researchgate.net/publication/2523129_Inequality_And_Violent_Crime
+  - Crime rates and inequality are positively correlated (within each country and, particularly, between countries), and it appears that this correlation reflects causation from inequality to crime rates, even controlling for other crime determinants.
+
+- https://www.brookings.edu/blog/future-development/2022/08/01/is-the-risk-of-crime-against-businesses-greater-in-more-unequal-countries/
+  - Measured:
+    - “inequality, measured using the Gini coefficient, against crime exposure among businesses (i.e., the average probability of theft incidence over 2006-2018).”
+  - And found that:
+    - “The plot, which is based on 122 countries covered in our dataset, reveals a clear positive association between crime and inequality with a correlation coefficient of 0.40. In South Africa, the most unequal country in the world with a Gini of 0.63, the chance that a firm will experience crime in a given year was 43.3 percent. In Kazakhstan, where inequality is moderate with a Gini of 0.28, the crime risk of businesses was just 17 percent.”
+  - The result was that, for every 10% increase in the GINI coefficient, there was a 4% increase in such crime: 
+    - “The results indicate that a one decile increase of the Gini coefficient is associated with a 4 percent increase of crime risk. This is a large increase compared to the 20 percent average crime risk in the sample.”
+
+- http://eprints.lse.ac.uk/67733/3/blogs.lse.ac.uk-How_neighborhood_inequality.pdf
+  - Finds that richer neighborhoods have higher crime rates the wider the income gap is with neighboring poorer neighborhoods, as those in the poorer neighborhoods weigh the benefits of where to commit crime, and choose the richer one. 
+
+- http://repec.dems.unimib.it/repec/pdf/mibwpaper63.pdf
+  - Review of the factors involved in crime:
+    - “The papers presented and discussed permit to deduce that criminal behaviour is influenced by some specific factors: probability of punishment and apprehension, deterrence, differential wages between legal and illegal activities, wage inequality, level of education, unemployment, cultural and family background and other economic and social factors that may affect individual’s propensity to commit crimes such as cultural characteristics, age and sex.”
+
+- https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1058&context=clsoc_crim_facpub
+  - “Their findings show that gender income inequality is a significant contributor to rape, but gender inequities in educational attainment and occupational status do not contribute significantly to this offense. The analysis also points to a number of other structural factors, including general income inequality, that are powerful predictors of rape.”
+
+- https://www.nature.com/articles/s41598-020-80897-8
+  - “Humans sometimes cooperate to mutual advantage, and sometimes exploit one another. In industrialised societies, the prevalence of exploitation, in the form of crime, is related to the distribution of economic resources: more unequal societies tend to have higher crime, as well as lower social trust. We created a model of cooperation and exploitation to explore why this should be. Distinctively, our model features a desperation threshold, a level of resources below which it is extremely damaging to fall. Agents do not belong to fixed types, but condition their behaviour on their current resource level and the behaviour in the population around them. We show that the optimal action for individuals who are close to the desperation threshold is to exploit others. This remains true even in the presence of severe and probable punishment for exploitation, since successful exploitation is the quickest route out of desperation, whereas being punished does not make already desperate states much worse. Simulated populations with a sufficiently unequal distribution of resources rapidly evolve an equilibrium of low trust and zero cooperation: desperate individuals try to exploit, and non-desperate individuals avoid interaction altogether. Making the distribution of resources more equal or increasing social mobility is generally effective in producing a high cooperation, high trust equilibrium; increasing punishment severity is not.”
+
+
+
 ------------
 
 </details>
