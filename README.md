@@ -12,13 +12,13 @@ This extensive factsheet is a compilation of various studies, datapoints, pieces
   - [September 2022](https://archive.ph/uY9Yr) (archive.today)
   - [October 2022](https://web.archive.org/web/20221004134941/https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/edit) (Internet Archive's Wayback Machine)
   
-- Join us on [Discord!](https://discord.gg/JNXrNC8Yja) You can help with the Source Library here!
+- Join us on [Discord!](https://discord.gg/JNXrNC8Yja) You can help with The Source Library here!
 
 - Follow our Reddit account, [/u/sourcelibrarian](https://www.reddit.com/user/sourcelibrarian/), for updates! If something happens to this doc or a related one, you can check there.
 
 #### On doc changes
 
-The original source library was created as a Google document on June 15, 2019, but was flagged without warning nor reason on December 6, 2020. It was recreated as another Google doc and lasted until late November 2022. It has since moved to this new location. As it has been taken down multiple times before, it's possible it could be taken down again. Feel free to download these webpages onto your own device as an html or [archive it with a webpage archiver](https://web.archive.org/save "archive it with a webpage archiver").
+The original source library was created as a Google document on June 15, 2019, but was flagged without warning nor reason on December 6, 2020. It was recreated as another Google doc and lasted until late November 2022. It was moved to a github repo like this one, and then was relocated here where it remains now. As it has been taken down multiple times before, it's possible it could be taken down again. Feel free to download these webpages onto your own device as an html or [archive it with a webpage archiver](https://web.archive.org/save "archive it with a webpage archiver").
 
 ## Table of Contents
 
@@ -73,11 +73,8 @@ The original source library was created as a Google document on June 15, 2019, b
 ## Contact Us
 This factsheet is maintained by a large team of contributors.
 
-- **Apa/Scuter** (Scuter#4210, u/Apathetizer)
-Main factsheet editor and manager. Feel free to DM me with anything to add, I’ll take a look! There’s no need to be formal about it. Contacting me on Discord will get you a faster response than on Reddit.
-- **official_prageru**
-Owner. /u/sourcelibrarian on Reddit, @official_prageru on Instagram
-If you want to help/contribute to the source library you can [join my discord](https://discord.gg/JNXrNC8Yja "join my discord"). I have designated channels for improving this factsheet and also welcome additions to our Resource Compilations section!
+- **nbee** (nbee#6966 on Discord)
+Manager of the github repo.
 - **Rainmaker** (Rainmaker#0747 on Discord)
 - **Sam/PAPOS** (PAPOS#3917 Discord, @tertium_quid_ on Twitter)
 - **Vuvuzuela** (Vuvuzuela#5838 on Discord, @Vuvuzuela420 on Twitter, u/Albamc35 on Reddit)
