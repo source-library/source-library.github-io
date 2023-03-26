@@ -6,7 +6,7 @@ This extensive factsheet is a compilation of various studies, datapoints, pieces
 
 ## Document Access
 
-- **CURRENT LINK: [https://source-library.github.io/](https://source-library.github.io/)**
+- **CURRENT LINK: [https://the-source-library.github.io/](https://the-source-library.github.io/)**
 
 - Archive links (of the Google doc):
   - [September 2022](https://archive.ph/uY9Yr) (archive.today)
